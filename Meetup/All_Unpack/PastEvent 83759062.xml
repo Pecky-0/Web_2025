@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>	<item><venue><address_1>Your home | Your work | Your space</address_1><state>MA</state><lat>42.407211</lat><repinned>False</repinned><name>Virtual</name><city>Virtual</city><id>2956371</id><country>us</country><lon>-71.382439</lon></venue><status>past</status><description>&lt;p&gt;&lt;img src="http://jqueryjam.com/images/jqueryjam_small.png" style="max-height : 700px ; max-width : 700px ; margin : 5px"&gt;&lt;/img&gt;&lt;/p&gt;
+&lt;p&gt;jQuery jAM, our virtual self-study group for beginners, is returning for Season 2. The focus will be &lt;strong&gt;&lt;a href="http://jquerymobile.com/"&gt;jQuery Mobile&lt;/a&gt;&lt;/strong&gt;. If you would like to learn &lt;strong&gt;&lt;a href="http://jquerymobile.com/"&gt;jQuery Mobile&lt;/a&gt;&lt;/strong&gt; from the ground up, consider joining us. Tell your friends and co-workers to join in the fun.&lt;/p&gt;
+&lt;p&gt;The format of a virtual self-study group is as follows:&lt;/p&gt;
+&lt;p&gt;~ Each participant purchases the same textbook (&lt;a href="http://store.bostonphp.org/"&gt;&lt;strong&gt;Sams Teach Yourself jQuery Mobile in 24 Hours&lt;/strong&gt;&lt;/a&gt;).&lt;/p&gt;
+&lt;p&gt;~ Each participant commits to read one chapter per week, complete the exercises and post a link to your completed work.&lt;/p&gt;
+&lt;p&gt;~ Each participant obtains assistance by posting questions to a discussion area set up on the Boston PHP Message Board for each chapter.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Note:&lt;/strong&gt; There is no classroom instruction. There are no webcasts. There are no scheduled appointments of any kind. However, jAM Sessions have been known to spring up like food trucks in various Boston area communities. These jAM Sessions are informal gatherings set up by jQuery jAM participants.&lt;/p&gt;
+&lt;p&gt;How do I get started?&lt;/p&gt;
+&lt;p&gt;~ Become a member of Boston PHP, if are not already a member. &lt;br /&gt;
+
+ ~ Register for &lt;strong&gt;&lt;a href="http://www.bostonphp.org/events/83759062/"&gt;jQuery jAM, Season 2&lt;/a&gt;&lt;/strong&gt;. Simply &lt;strong&gt;RSVP: Yes&lt;/strong&gt; &lt;br /&gt;
+
+ ~ Purchase a book (the only program cost). Simply visit the &lt;strong&gt;&lt;a href="http://store.bostonphp.org/"&gt;Boston PHP Store&lt;/a&gt;&lt;/strong&gt; and order &lt;a href="http://store.bostonphp.org/"&gt;&lt;strong&gt;Sams Teach Yourself jQuery Mobile in 24 Hours&lt;/strong&gt;&lt;/a&gt; in one of two formats.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Full disclosure:&lt;/strong&gt; Boston PHP Meetup receives a small commission on each sale which helps fund Meetup activities.&lt;/p&gt;
+&lt;p&gt;When your book arrives, start your virtual learning by reading one chapter at a time, completing the exercises and posting a link to your completed work.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;FAQs&lt;/strong&gt;:&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Q: Do I need to learn jQuery before I start to learn jQuery Mobile?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;A:&lt;/strong&gt; It is not strictly necessary to know jQuery to begin using the jQuery Mobile framework; however, you will have a considerable advantage over other participants if you understand some of the concepts of the core jQuery framework. This will be especially prevalent when working with binding and events.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Q: How long will the course last?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;A:&lt;/strong&gt; We will cover 24 chapters in the book, so 24 weeks starting November 4 and ending April 20. Refer to the &lt;strong&gt;&lt;a href="http://www.bostonphp.org/messages/boards/thread/27896502/"&gt;jQuery jAM, Season 2 Master Discussion List&lt;/a&gt;&lt;/strong&gt; for specific dates.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Q: Do I have to wait until November 4 to begin?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;A:&lt;/strong&gt; No need to wait. Feel free to begin by reading the Introduction once you obtain a copy of your book and proceed at a pace that best fits your current work/life situation.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Q: What if I have additional questions?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;A:&lt;/strong&gt; Simply post a reply below and you will receive a response.&lt;/p&gt;
+&lt;p&gt;Let's start jAMmin'!&lt;/p&gt;
+&lt;p&gt;Gene Babon &lt;br /&gt;
+
+ Chief Percolator&lt;/p&gt;</description><event_hosts><event_hosts_item><member_name>Gene Babon</member_name><member_id>2410152</member_id></event_hosts_item></event_hosts><maybe_rsvp_count>0</maybe_rsvp_count><waitlist_count>0</waitlist_count><updated>1359232228000</updated><rating><average>0.0</average><count>0</count></rating><group><who>Members</who><join_mode>open</join_mode><urlname>bostonphp</urlname><id>120818</id><group_lat>42.3600006104</group_lat><group_lon>-71.0699996948</group_lon><name>Boston PHP</name></group><yes_rsvp_count>127</yes_rsvp_count><created>1348442487000</created><visibility>public</visibility><name>jQuery jAM, Season 2</name><id>83759062</id><headcount>129</headcount><utc_offset>-14400000</utc_offset><time>1352001600000</time><event_url>http://www.meetup.com/bostonphp/events/83759062/</event_url></item>

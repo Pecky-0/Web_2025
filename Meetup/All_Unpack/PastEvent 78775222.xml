@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>	<item><venue><address_2>Financial District Club Quarters Hotel</address_2><address_1>161 Devonshire Street</address_1><state>MA</state><zip>02110</zip><lat>42.356221</lat><repinned>False</repinned><phone>(617) 350-9977</phone><name>Elephant &amp; Castle</name><city>Boston</city><id>791944</id><country>us</country><lon>-71.057235</lon></venue><status>past</status><description>&lt;p&gt;Please note the location change.  We are downstairs in their conference room.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;With JoAnne's help we are having an impromptu get together with Ted this Friday.  Please see the event post here:&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;&lt;a href="http://www.meetup.com/Boston-Predictive-Analytics/events/82038172/"&gt;http://www.meetup.com/Boston-Predictive-Analytics/events/82038172/&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Here is JoAnne's original post:&lt;/p&gt;
+&lt;p&gt;Hi Reed, &lt;br /&gt;
+
+ I wanted to reach out to you to see you would like set up a presentation on Apache Drill at the next HUG. Drill is a new Apache Incubator project for interactive analysis of large-scale datasets, inspired by Google’s Dremel. It will allow users to query terabytes of data in seconds, as opposed to minutes or hours. I can arrange for one of the committers on the project to present (Ted Dunning, Tomer Shiran, Keys Botzum).&lt;/p&gt;
+&lt;p&gt;FYI - here are some more details: &lt;a href="http://wiki.apache.org/incubator/DrillProposal?action=AttachFile&amp;amp;do=view&amp;amp;target=Drill+slides.pdf"&gt;http://wiki.apache.org/incubator/DrillProposal?action=AttachFile&amp;amp;do=view&amp;amp;target=Drill+slides.pdf&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Let me know if this works and I'll send over the abstract/bio.&lt;/p&gt;
+&lt;p&gt;Thanks, &lt;br /&gt;
+
+ JoAnne&lt;/p&gt;</description><maybe_rsvp_count>0</maybe_rsvp_count><waitlist_count>0</waitlist_count><updated>1347883622000</updated><rating><average>5.0</average><count>2</count></rating><group><who>Members</who><join_mode>open</join_mode><urlname>bostonhadoop</urlname><id>1535756</id><group_lat>42.3699989319</group_lat><group_lon>-71.0999984741</group_lon><name>Boston Hadoop User Group</name></group><yes_rsvp_count>40</yes_rsvp_count><created>1345593401000</created><visibility>public</visibility><name>Hear from MapR talking about Drill</name><id>78775222</id><headcount>0</headcount><utc_offset>-14400000</utc_offset><time>1347663600000</time><event_url>http://www.meetup.com/bostonhadoop/events/78775222/</event_url></item>

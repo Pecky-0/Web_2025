@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>	<item><venue><address_2>2nd Floor</address_2><address_1>25 First Street</address_1><state>MA</state><zip>02141</zip><lat>42.369591</lat><repinned>False</repinned><name>HubSpot</name><city>Cambridge</city><id>1403840</id><country>us</country><lon>-71.077271</lon></venue><status>past</status><description>&lt;p&gt;Cool code is tested code. Many developers know that they ought to write tests for their Django applications but don't know how to get started. Luckily, it's easy to learn and doesn't take much time. This talk will be an introduction to testing in Django and cover a few of the tools available to developers. &lt;br /&gt;
+
+ &lt;br /&gt;
+
+ For testing the smallest bits of your app, you can't beat Python's own unittest. We'll cover a model and view with unittests, and explore techniques to make your tests run fast and fail meaningfully. Then we'll build the app out a little further with test-driven development. &lt;br /&gt;
+
+ &lt;br /&gt;
+
+ We also need to test the end-to-end functionality of our applications. We'll look at django-webtest for fast testing the full WSGI stack, and Selenium for testing our applications in real life browsers. &lt;br /&gt;
+
+ &lt;br /&gt;
+
+ Finally, your tests are no good if they're not running. Jenkins is a continuous deployment solution that will deploy and test your code at set intervals and let you know if anything broke. We'll wire up our repository, watch a successful test run, and head to the bar to celebrate the launch of our bulletproof app.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;SPEAKER BIO &lt;br /&gt;
+
+ Kevin Harvey is an Application Architect at story+structure, a Brookline software firm specializing in solutions for higher education. He has been working in the web since 2004, and started with Django in 2007 (version 0.96). He gets excited about cool UIs and test-driven development. If he seems tired, it's because he and his wife had twin boys this August.&lt;/p&gt;</description><how_to_find_us>http://www.hubspot.com/company/contact/</how_to_find_us><event_hosts><event_hosts_item><member_name>Nate Aune</member_name><member_id>58579</member_id></event_hosts_item><event_hosts_item><member_name>Max Uhlenhuth</member_name><member_id>11360767</member_id></event_hosts_item><event_hosts_item><member_name>John Roth</member_name><member_id>17694361</member_id></event_hosts_item></event_hosts><maybe_rsvp_count>0</maybe_rsvp_count><waitlist_count>0</waitlist_count><updated>1361655322000</updated><rating><average>4.57999992371</average><count>12</count></rating><group><who>Djangonauts</who><join_mode>open</join_mode><urlname>djangoboston</urlname><id>1289145</id><group_lat>42.3699989319</group_lat><group_lon>-71.0999984741</group_lon><name>Django Boston Meetup Group</name></group><yes_rsvp_count>88</yes_rsvp_count><created>1356619154000</created><visibility>public</visibility><name>Testing in Django (browser-based testing too)</name><id>96668722</id><headcount>60</headcount><utc_offset>-18000000</utc_offset><time>1358467200000</time><rsvp_limit>100</rsvp_limit><event_url>http://www.meetup.com/djangoboston/events/96668722/</event_url></item>

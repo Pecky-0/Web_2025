@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>	<item><venue><address_2>6th Floor</address_2><address_1>1 International Place</address_1><state>MA</state><zip>02110</zip><lat>42.356072</lat><repinned>False</repinned><name>Wanderu (@Paypal)</name><city>Boston</city><id>12618162</id><country>us</country><lon>-71.052730</lon></venue><status>past</status><description>&lt;p&gt;Ted Tieken will give an overview of the registration, authentication, and social integration landscape for Django apps, then give a demonstration of setting up a Facebook-enabled signup and login process with the django-allauth package. &lt;br /&gt;
+
+ &lt;br /&gt;
+
+ Questions this talk will answer:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;How do I let users signup/in with Facebook/Twitter/Google?&lt;/li&gt;
+&lt;li&gt;What are the most popular apps and packages for registration/auth/social-auth?  Which one(s) should I use?&lt;/li&gt;
+&lt;li&gt;What's the difference between Authentication and Authorization?&lt;/li&gt;
+&lt;li&gt;Which parts does Django handle natively vs delegate to your implementation?&lt;/li&gt;
+&lt;li&gt;Why should I care about registration and login?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt; &lt;br /&gt;
+
+ At the talk Ted will be using and releasing the results of his Registration and Authentication survey, &lt;a href="https://www.surveymonkey.com/s/BYBXG59"&gt;https://www.surveymonkey.com/s/BYBXG59&lt;/a&gt;.  Please fill it out if you haven't already.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;span style="font-size : medium"&gt;Sponsors&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Thanks to &lt;a href="http://www.wanderu.com"&gt;Wanderu&lt;/a&gt; for hosting and sponsoring the food! &lt;a href="http://www.kyruus.com"&gt;Kyruus&lt;/a&gt; is sponsoring drinks afterwards.&lt;/p&gt;</description><event_hosts><event_hosts_item><member_name>Nate Aune</member_name><member_id>58579</member_id></event_hosts_item><event_hosts_item><member_name>Max Uhlenhuth</member_name><member_id>11360767</member_id></event_hosts_item><event_hosts_item><member_name>John Roth</member_name><member_id>17694361</member_id></event_hosts_item></event_hosts><maybe_rsvp_count>0</maybe_rsvp_count><waitlist_count>0</waitlist_count><updated>1368732226000</updated><rating><average>4.86000013351</average><count>7</count></rating><group><who>Djangonauts</who><join_mode>open</join_mode><urlname>djangoboston</urlname><id>1289145</id><group_lat>42.3699989319</group_lat><group_lon>-71.0999984741</group_lon><name>Django Boston Meetup Group</name></group><yes_rsvp_count>80</yes_rsvp_count><created>1358538381000</created><visibility>public</visibility><name>Signing Up and Signing In: User Registration, Auth, and Social Registration/Auth</name><id>100267022</id><headcount>0</headcount><utc_offset>-14400000</utc_offset><time>1367006400000</time><event_url>http://www.meetup.com/djangoboston/events/100267022/</event_url></item>

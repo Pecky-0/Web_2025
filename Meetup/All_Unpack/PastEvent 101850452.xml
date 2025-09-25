@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>	<item><venue><address_1>One Memorial Drive</address_1><state>MA</state><zip>02142</zip><lat>42.361290</lat><repinned>False</repinned><name>Microsoft  NERD New England Research &amp; Development Center </name><city>Cambridge</city><id>1626763</id><country>us</country><lon>-71.081192</lon></venue><status>past</status><description>&lt;p&gt;&lt;span style="text-align : left ; color : #555555 ; font-size : 14px"&gt;We will be at&lt;/span&gt; &lt;span style="color : #222222 ; text-align : left ; font-size : 13px"&gt;Sampson/Paul room.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;This is a joint meetup. Please, use the following link to RSVP. &lt;br /&gt;
+
+ &lt;a href="http://www.meetup.com/Predictive-Analytics/events/101647872/" class="linkified"&gt;http://www.meetup.com/Predictive-Analytics/events/101647872/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Our goal is to implement a few apps, using publicly available APIs. You can propose apps, code them, or just be an observer. PHP, Java, Python, Ruby, C++, FORTRAN, or COBOL (just kidding!) are all welcome!&lt;/p&gt;
+&lt;p&gt;If you want to code, please go through the APIs below.&lt;/p&gt;
+&lt;p&gt;Agenda:&lt;/p&gt;
+&lt;p&gt;Step 1: Get to know each other&lt;/p&gt;
+&lt;p&gt;Step 2: Get to know proposed applications&lt;/p&gt;
+&lt;p&gt;Step 3: Divide into groups of 3-4 to finish the apps&lt;/p&gt;
+&lt;p&gt;Step 4: Discussion about how to finish the rest&lt;/p&gt;
+&lt;p&gt;Please, use the following API docs:&lt;/p&gt;
+&lt;p&gt;1. &lt;a href="https://www.bigml.com/" class="linkified"&gt;https://www.bigml.com/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;2. &lt;a href="https://cloud.google.com/products/more-products" class="linkified"&gt;https://cloud.google.com/products/more-products&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Note: We will have no food to save time and money unless the group thinks it is a bad idea.&lt;/p&gt;</description><how_to_find_us>Please, call me at 214-714-2224 if you cannot enter.</how_to_find_us><event_hosts><event_hosts_item><member_name>Mili Ray</member_name><member_id>14627097</member_id></event_hosts_item></event_hosts><maybe_rsvp_count>0</maybe_rsvp_count><waitlist_count>8</waitlist_count><updated>1364157508000</updated><rating><average>0.0</average><count>0</count></rating><group><who>Entrepreneurs</who><join_mode>open</join_mode><urlname>OpenCoffee-Cambridge-Meetup</urlname><id>1367493</id><group_lat>42.3699989319</group_lat><group_lon>-71.0999984741</group_lon><name>OpenCoffee Cambridge Entrepreneurs-VCs Meetup</name></group><yes_rsvp_count>50</yes_rsvp_count><created>1359410487000</created><visibility>public</visibility><name>Hackathon: Develop/MapReduce Your Dream Predictive Analytics/BigData App.</name><id>101850452</id><headcount>0</headcount><duration>14400000</duration><utc_offset>-14400000</utc_offset><time>1364142600000</time><rsvp_limit>50</rsvp_limit><event_url>http://www.meetup.com/OpenCoffee-Cambridge-Meetup/events/101850452/</event_url></item>

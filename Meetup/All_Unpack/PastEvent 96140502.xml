@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>	<item><status>past</status><description>&lt;p&gt;Good day everyone!&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;&lt;strong&gt;First, a big shout-out to the Stackdriver team&lt;/strong&gt; who moderated last month's successful presentations on remote management, and also supplied food and refreshments. Thank you!&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;As we continue our string of engaging topics for our monthly meetups, this month we will be discussing &lt;strong&gt;Database in the Cloud&lt;/strong&gt;. &lt;span&gt;We have 3 excellent presentations planned (see below).&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;We are still looking for sponsors with food and drinks - please reach out to me if your company can help with this.&lt;/p&gt;
+&lt;p&gt;Also, just a &lt;strong&gt;note for our May 13th Meetup, Chief AWS Evangelist Jeff Barr&lt;/strong&gt; will start his 13 city, 5000 mile speaking tour in Boston and present to our group. I'll post details shortly for this specific Meetup.&lt;/p&gt;
+&lt;p&gt;Looking forward to seeing everyone on Monday!&lt;/p&gt;
+&lt;p&gt;- Mark&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;span&gt;====================&lt;/span&gt; &lt;br /&gt;
+
+ Presentations for April 8th;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt; &lt;br /&gt;
+
+ &lt;strong&gt;Title: DynamoDB Table Design&lt;/strong&gt; &lt;br /&gt;
+
+ &lt;br /&gt;
+
+ &lt;em&gt;Abstract:&lt;/em&gt; DynamoDB is incredibly powerful, but getting the most out of it requires careful table design. This talk will explain the underlying scalability and cost issues, present and evaluate some alternatives table designs, and give examples of how we are using DynamoDB at Talko. &lt;br /&gt;
+
+ &lt;br /&gt;
+
+ &lt;em&gt;Presenter:&lt;/em&gt; Ransom Richardson is the author of erlcloud_ddb, an Erlang client for DynamoDB. He is co-founder of Talko, a startup building a new mobile communications product. He is responsible for the AWS-based service architecture, development and operations. Previously he was a principal engineer at Microsoft, where he worked on the Xbox service and SharePoint synchronization, and at Groove Networks. &lt;br /&gt;
+
+ &lt;br /&gt;
+
+ ==================== &lt;br /&gt;
+
+ &lt;br /&gt;
+
+&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Title&lt;span&gt;: Challenges and travails of scaling your database in AWS &lt;br /&gt;
+
+ &lt;br /&gt;
+
+&lt;/span&gt;&lt;/strong&gt; &lt;em&gt;Abstract:&lt;/em&gt; &lt;span&gt;AWS is great for horizontal scalability of compute intensive workloads. Relational databases on the other hand tend pose some interesting challenges. The presentation will cover some interesting anomalies of running relational databases in AWS and present some performance data supporting alternative methods for horizontal scalability.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;&lt;em&gt;Presenter:&lt;/em&gt;&lt;/span&gt; Amrith Kumar Founder &amp;amp; CTO, ParElastic (&lt;a class="linkified" href="http://www.parelastic.com"&gt;http://www.parelastic.com&lt;/a&gt;) amrith@parelastic.com&lt;/p&gt;
+&lt;p&gt;=====================&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Title: Choosing Cassandra for database in AWS &lt;br /&gt;
+
+&lt;/strong&gt;&lt;em&gt; &lt;br /&gt;
+
+Abstract:&lt;/em&gt; &lt;span&gt;Stackdriver relies heavily on Cassandra running in AWS to store, analyze, and query across 100+ million data points per day.  As we move to the public beta of our hosted monitoring service in the current months, we expect that volume to grow to over 1 billion data points per day.  In this talk, we will explain our reasons for choosing Cassandra versus other platforms and describe the novel architecture that allows us to tolerate inevitable failures that one would expect running at scale on AWS.  We will also describe our experiences with running Cassandra in a cloud environment and share some of the tips, tricks, and lessons that we have learned along the way.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Presenters:&lt;/em&gt; &lt;span&gt;Patrick Eaton and Joey Imbasciano with Stackdriver.&lt;/span&gt;&lt;/p&gt;</description><maybe_rsvp_count>0</maybe_rsvp_count><waitlist_count>0</waitlist_count><updated>1368492777000</updated><rating><average>4.71000003815</average><count>7</count></rating><group><who>People interested in Web tech</who><join_mode>open</join_mode><urlname>The-Boston-Amazon-Web-Services-Meetup-Group</urlname><id>1367428</id><group_lat>42.3600006104</group_lat><group_lon>-71.0500030518</group_lon><name>The Boston Amazon Web Services Meetup Group</name></group><yes_rsvp_count>103</yes_rsvp_count><created>1356099783000</created><visibility>public</visibility><name>April Amazon Web Services Meetup</name><id>96140502</id><headcount>60</headcount><duration>9000000</duration><utc_offset>-14400000</utc_offset><time>1365462000000</time><event_url>http://www.meetup.com/The-Boston-Amazon-Web-Services-Meetup-Group/events/96140502/</event_url></item>

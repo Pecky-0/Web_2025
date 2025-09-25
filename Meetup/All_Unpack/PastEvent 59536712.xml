@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>	<item><venue><address_1>behind Woodstar Cafe, 60 Masonic St</address_1><state>MA</state><lat>42.318620</lat><repinned>True</repinned><name>The Frances Crowe Community Room</name><city>Northampton</city><id>6566592</id><country>us</country><lon>-72.633400</lon></venue><status>past</status><description>&lt;p&gt;Facilitated discussion, mini-presentations, and networking.&lt;/p&gt;
+&lt;p&gt;We'll &lt;em&gt;probably&lt;/em&gt; focus on JQuery this time. Next time we could talk about alternatives (Backbone, RequireJS, little libs on microjs.com, etc) if anyone has enough experience with them by then.&lt;/p&gt;
+&lt;p&gt;Other topics may include...&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;HTML5 stuff: Canvas, SVG, Offline apps, Local Storage, shims/polyfills for backward compatibility...&lt;/li&gt;
+&lt;li&gt;SASS, LESS, Stylus, Jade, HAML, CoffeeScript, CodeKit...&lt;/li&gt;
+&lt;li&gt;Node.js, Express, Flatiron, Tako, ... (the Node.js framework explosion has begun) and other server/backend/database stuff&lt;/li&gt;
+&lt;li&gt;Game-dev &amp;amp; real-time&lt;/li&gt;
+&lt;li&gt;Monetization: how to make a living as a [freelance] JS dev&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Skill level: Working web designers &amp;amp; developers, aspiring ones, hobbyist programmers (if you've completed the Codecademy tutorials, or something like that, the discussion shouldn't be &lt;em&gt;too&lt;/em&gt; over your head :-)&lt;/p&gt;
+&lt;p&gt;Laptops optional. Bring it if you happen to have it with you, or if you want to show off your project.&lt;/p&gt;</description><event_hosts><event_hosts_item><member_name>Tom Novelli</member_name><member_id>29220152</member_id></event_hosts_item></event_hosts><maybe_rsvp_count>0</maybe_rsvp_count><waitlist_count>0</waitlist_count><updated>1336154752000</updated><rating><average>3.0</average><count>2</count></rating><group><who>Developers</who><join_mode>open</join_mode><urlname>nohowebdev</urlname><id>540457</id><group_lat>42.3199996948</group_lat><group_lon>-72.6399993896</group_lon><name>Northampton Web Developers/ Web Designers Meetup Group</name></group><yes_rsvp_count>18</yes_rsvp_count><created>1333735227000</created><visibility>public</visibility><name>Javascript/JQuery Workshop</name><id>59536712</id><headcount>13</headcount><utc_offset>-14400000</utc_offset><time>1336086000000</time><rsvp_limit>30</rsvp_limit><event_url>http://www.meetup.com/nohowebdev/events/59536712/</event_url></item>

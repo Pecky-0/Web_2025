@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>	<item><status>past</status><description>&lt;p&gt;This meetup's topic is Understanding Indexing, given by Zardosht Kasheff of TokuDB.&lt;/p&gt;
+&lt;p&gt;Indexes are used to improve query performance. As a result, good  indexes are designed around queries that users find important in their  application. This talk presents three simple and effective rules on how  to construct indexes around queries that result in good performance.&lt;/p&gt;
+&lt;p&gt;The rules are explained using a simple model that does &lt;span&gt;NOT&lt;/span&gt; rely on understanding B-Trees, Fractal trees, or any other data  structure used to store the data on disk. They are derived from these  simple properties:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;point queries are slow&lt;/li&gt;
+&lt;li&gt;range queries are fast&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;-------------  &lt;br /&gt;Logistics  &lt;br /&gt;-------------&lt;/p&gt;
+&lt;p&gt;MIT's map with the building (E51) highlighted:  &lt;br /&gt;&lt;a href="http://whereis.mit.edu/map-jpg?selection=E51&amp;amp;Buildings=go" target="_blank"&gt;http://whereis.mit.ed...&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;MIT's map with the Kendall square T stop highlighted:  &lt;br /&gt;&lt;a href="http://whereis.mit.edu/map-jpg?selection=L5&amp;amp;Landmarks=go" target="_blank"&gt;http://whereis.mit.ed...&lt;/a&gt;  &lt;br /&gt;(the stop is in red on that map, and you can see E51 in the bottom right)&lt;/p&gt;
+&lt;p&gt;MIT's maps with parking lot information:  &lt;br /&gt;&lt;a href="http://whereis.mit.edu/map-jpg?selection=P4&amp;amp;Parking=go" target="_blank"&gt;http://whereis.mit.ed...&lt;/a&gt;  &lt;br /&gt;and  &lt;br /&gt;&lt;a href="http://whereis.mit.edu/map-jpg?selection=P5&amp;amp;Parking=go" target="_blank"&gt;http://whereis.mit.ed...&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Note that MIT lots are free to park in after 3 pm or so, even if it says "reserved for faculty"&lt;/p&gt;
+&lt;p&gt;Free pizza and soda will be served, so please RSVP accurately.&lt;/p&gt;
+&lt;p&gt;To RSVP anonymously, please login to the Meetup site with the e-mail address "admin at sheeri dot com" and the password "guest".&lt;/p&gt;
+&lt;p&gt;For more information, see: &lt;a href="http://www.meetup.com/mysqlbos/calendar/"&gt;http://www.meetup.com...&lt;/a&gt;&lt;/p&gt;</description><how_to_find_us>Go to the third floor, make a right, and walk until you find room 372.</how_to_find_us><event_hosts><event_hosts_item><member_name>Sheeri Kritzer Cabral</member_name><member_id>2380684</member_id></event_hosts_item></event_hosts><maybe_rsvp_count>0</maybe_rsvp_count><waitlist_count>0</waitlist_count><updated>1304984428000</updated><rating><average>4.71000003815</average><count>7</count></rating><group><who>Boston-Metro MySQL Users</who><join_mode>open</join_mode><urlname>mysqlbos</urlname><id>212864</id><group_lat>42.3400001526</group_lat><group_lon>-71.0699996948</group_lon><name>The Boston MySQL Meetup Group</name></group><yes_rsvp_count>29</yes_rsvp_count><created>1278935593000</created><visibility>public</visibility><name>The Boston MySQL Meetup Group Monthly Meetup</name><id>lqzznypfbsb</id><headcount>0</headcount><utc_offset>-14400000</utc_offset><time>1300143600000</time><event_url>http://www.meetup.com/mysqlbos/events/16457333/</event_url></item>

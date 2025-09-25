@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>	<item><venue><address_1>One Memorial Drive</address_1><state>MA</state><zip>02142</zip><lat>42.361406</lat><repinned>False</repinned><phone>857.453.6000</phone><name>Microsoft N.E.R.D. Center</name><city>Cambridge</city><id>1210878</id><country>us</country><lon>-71.081282</lon></venue><status>past</status><description>&lt;p&gt;
+&lt;a href="https://pivotaltracker.com"&gt;
+&lt;img src="http://photos2.meetupstatic.com/photos/event/5/d/f/d/event_41184061.jpeg" style="max-height : 700px ; max-width : 700px ; margin : 5px ; float : right"&gt;&lt;/img&gt;&lt;/a&gt; Join Boston PHP and 
+&lt;a href="http://www.meetup.com/bostonphp/members/9365882/"&gt;Dan Podsedly&lt;/a&gt; from Pivotal Labs (the creators of&amp;nbsp; 
+&lt;a href="https://www.pivotaltracker.com"&gt;Pivotal Tracker&lt;/a&gt;), for a practical presentation on Agile, Team Organization &amp;amp; Team Dynamics, Pairing &amp;amp; TDD, Project Breakdown and Management of the backlog, etc&lt;/p&gt;
+&lt;p&gt;
+&lt;strong&gt;Getting things done:&lt;/strong&gt;
+ &lt;br /&gt;The last decade has seen a major shift in how software is developed: agile is mainstream, even the slowest adopters out there have embraced some flavor of it. But, to be really successful with agile is not easy, and requires a top-to-bottom transformation of values and development practices.&lt;/p&gt;
+&lt;p&gt;
+&lt;img src="http://photos3.meetupstatic.com/photos/member/8/4/f/b/member_6394043.jpeg" style="max-height : 700px ; max-width : 700px ; margin : 5px ; float : right"&gt;&lt;/img&gt; 
+&lt;a href="http://www.meetup.com/bostonphp/members/9365882/"&gt;Dan Podsedly&lt;/a&gt; is one of the principals at Pivotal Labs, and has been with the company since its early days. In this talk, Dan will talk about the process that has worked so well for Pivotal, and show how to apply it to your software development projects. He&amp;rsquo;ll also show you how to use Pivotal Tracker to take your product from idea to working, deployed software, and beyond.&lt;/p&gt;
+&lt;p&gt;To set the stage, Dan will begin the talk with a focus on culture and engineering practices, which are important aspects of Pivotal&amp;rsquo;s successful agile environment. Specifically, the first part will focus on team organization, stand-ups, successful pair programming, developer testing, customer interaction, workspace layout, even breakfast!&lt;/p&gt;
+&lt;p&gt;Next, Dan will go over the &amp;ldquo;Inception&amp;rdquo; - Pivotal&amp;rsquo;s approach to taking a high level project idea and turning it into a prioritized backlog of stories that&amp;rsquo;s ready for development. This section will cover project goals, risk assessment, story decomposition, estimation, and release planning.&lt;/p&gt;
+&lt;p&gt;Finally, the presentation will shift to Pivotal Tracker, which is the project backbone and collaboration hub for all Pivotal engagements. Dan will show you how to create your initial story backlog in Tracker, dive into the feedback-oriented workflow and maintain steady progress towards your milestones, and manage scope as requirements change or new ones are discovered. Time permitting, Dan will dive into advanced Tracker features, as well as various best practices that have emerged at Pivotal, for example how to incorporate design or QA into the Tracker workflow.&lt;/p&gt;
+&lt;p&gt;
+&lt;strong&gt;About Pivotal Labs:&lt;/strong&gt;
+ &lt;br /&gt; 
+&lt;a href="http://pivotallabs.com/"&gt;
+&lt;img src="http://photos3.meetupstatic.com/photos/event/e/5/b/c/event_22858812.jpeg" style="max-height : 700px ; max-width : 700px ; margin : 5px ; float : right"&gt;&lt;/img&gt;&lt;/a&gt; In the last few years, 
+&lt;a href="http://pivotallabs.com/"&gt;Pivotal Labs&lt;/a&gt;&amp;nbsp;has emerged as a well known pioneer and practitioner of agile, with hundreds of successful projects and a long list of satisfied clients, including some of the world&amp;rsquo;s best known and fastest growing companies such as Twitter, Groupon, and Best Buy. It&amp;rsquo;s gone from a small Ruby on Rails practice to a global agile powerhouse without almost any focus on marketing or sales.&lt;/p&gt;
+&lt;p&gt;How? The answer is simple - by embracing and perfecting a development process based on the original Extreme Programming (XP) agile methodology, applying its techniques to accelerate development, reduce risk, and increase responsiveness to market trends for its clients.&lt;/p&gt;
+&lt;p&gt;Not only did it apply XP to make client projects successul, Pivotal also built a simple tool that embodies and simplifies the process - Pivotal Tracker. Since it&amp;rsquo;s release to the Rails community three years ago, Tracker has become the world&amp;rsquo;s most popular agile project management tool, with over 250,000 registered users .&lt;/p&gt;
+&lt;p&gt;
+&lt;strong&gt;About Dan Podsedly:&amp;nbsp;&lt;/strong&gt;
+ &lt;br /&gt; 
+&lt;a href="http://www.meetup.com/bostonphp/members/9365882/"&gt;Dan Podsedly&lt;/a&gt; has been building large applications since the Smalltalk era, and has been a practitioner and coach of Agile methods since the earliest days of Extreme Programming. He has led projects in a variety of industries, and has been instrumental in the successful adoption of agile methods at some of the world&amp;rsquo;s largest and most well known web companies. Dan works closely with Pivotal Labs&amp;rsquo; clients to make their projects successful, and manages all things related to Pivotal Tracker, Pivotal Labs&amp;rsquo; 
+&lt;img src="http://photos4.meetupstatic.com/photos/event/2/3/1/5/event_43688981.jpeg" style="max-height : 700px ; max-width : 700px ; margin : 5px ; float : right"&gt;&lt;/img&gt;award-winning agile project collaboration software.&lt;/p&gt;
+&lt;p&gt;
+&lt;strong&gt;Free Beer&lt;/strong&gt;
+ &lt;br /&gt;Pivotal Labs has&amp;nbsp;graciously&amp;nbsp;offered to host free drinks and appetizers after the event (9pm) at our favorite drinking spot 
+&lt;a href="http://www.cambrew.com/"&gt;Cambridge Brewing Company&lt;/a&gt;. Even more reason to join us for this event and share a pint with the movers and shakers in the Agile community.&lt;/p&gt;
+&lt;p&gt;
+  &lt;strong&gt;Spread the word:&lt;/strong&gt;
+&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;
+  &lt;strong&gt;Short URL&lt;/strong&gt;
+   &lt;br /&gt; 
+  &lt;a href="http://meetu.ps/TjcG"&gt;http://meetu.ps/TjcG&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;
+  &lt;strong&gt;Twitter&lt;/strong&gt;
+   &lt;br /&gt;Learn about Agile with Pivotal Tracker at #bostonphp&amp;nbsp; 
+  &lt;a href="http://meetu.ps/TjcG"&gt;http://meetu.ps/TjcG&lt;/a&gt;&amp;nbsp;@danpodsedly @pivotaltracker @msnewengland&lt;/li&gt;
+&lt;/ul&gt;</description><event_hosts><event_hosts_item><member_name>Michael Bourque</member_name><member_id>5046031</member_id></event_hosts_item><event_hosts_item><member_name>Dan Podsedly</member_name><member_id>9365882</member_id></event_hosts_item></event_hosts><maybe_rsvp_count>0</maybe_rsvp_count><waitlist_count>0</waitlist_count><updated>1314578288000</updated><rating><average>4.73000001907</average><count>41</count></rating><group><who>Members</who><join_mode>open</join_mode><urlname>bostonphp</urlname><id>120818</id><group_lat>42.3600006104</group_lat><group_lon>-71.0699996948</group_lon><name>Boston PHP</name></group><yes_rsvp_count>306</yes_rsvp_count><created>1282069871000</created><visibility>public</visibility><name>Getting things done: Practical Agile</name><id>14451868</id><headcount>303</headcount><utc_offset>-14400000</utc_offset><time>1313017200000</time><rsvp_limit>330</rsvp_limit><event_url>http://www.meetup.com/bostonphp/events/14451868/</event_url></item>

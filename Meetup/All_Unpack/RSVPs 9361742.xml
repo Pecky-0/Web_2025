@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8'?>
+<results><head><url>https://api.meetup.com/2/rsvps.xml?key=6b457b5342622446e4c3f214a6e3b15&amp;event_id=9361742&amp;order=event&amp;desc=false&amp;format=xml&amp;offset=0&amp;page=200&amp;fields=</url><method>RSVPs v2</method><description>Query for Event RSVPs by event</description><count>9</count><updated>Thu Dec 25 12:20:40 EST 2008</updated><lat /><next /><id /><link>https://api.meetup.com/2/rsvps.xml</link><title>Meetup RSVPs v2</title><total_count>9</total_count><lon /></head><items><item><response>no</response><mtime>1230125037000</mtime><event><id>9361742</id><time>1230231600000</time><event_url>http://www.meetup.com/JewishSingles50-of-GreaterBoston/events/9361742/</event_url><name>Movie and Dinner</name></event><group><join_mode>approval</join_mode><urlname>JewishSingles50-of-GreaterBoston</urlname><id>425314</id><group_lat>42.2400016785</group_lat><group_lon>-71.1699981689</group_lon></group><created>1230125037000</created><member_photo><photo_link>http://photos2.meetupstatic.com/photos/member/7/1/9/member_541817.jpeg</photo_link><highres_link>http://photos4.meetupstatic.com/photos/member/7/1/9/highres_541817.jpeg</highres_link><photo_id>541817</photo_id><thumb_link>http://photos2.meetupstatic.com/photos/member/7/1/9/thumb_541817.jpeg</thumb_link></member_photo><tallies><waitlist>0</waitlist><maybe>4</maybe><no>18</no><yes>8</yes></tallies><rsvp_id>38996551</rsvp_id><member><member_id>390908</member_id><name>Ellen</name></member><guests>0</guests></item><item><response>yes</response><mtime>1230225640000</mtime><event><id>9361742</id><time>1230231600000</time><event_url>http://www.meetup.com/JewishSingles50-of-GreaterBoston/events/9361742/</event_url><name>Movie and Dinner</name></event><comments>I'd like to come for dinner!</comments><group><join_mode>approval</join_mode><urlname>JewishSingles50-of-GreaterBoston</urlname><id>425314</id><group_lat>42.2400016785</group_lat><group_lon>-71.1699981689</group_lon></group><created>1230225640000</created><member_photo><photo_link>http://photos3.meetupstatic.com/photos/member/5/a/4/4/member_2783108.jpeg</photo_link><highres_link>http://photos3.meetupstatic.com/photos/member/5/a/4/4/highres_2783108.jpeg</highres_link><photo_id>2783108</photo_id><thumb_link>http://photos3.meetupstatic.com/photos/member/5/a/4/4/thumb_2783108.jpeg</thumb_link></member_photo><tallies><waitlist>0</waitlist><maybe>4</maybe><no>18</no><yes>8</yes></tallies><rsvp_id>39018980</rsvp_id><member><member_id>2592079</member_id><name>Marc</name></member><guests>0</guests></item><item><response>no</response><mtime>1230177315000</mtime><event><id>9361742</id><time>1230231600000</time><event_url>http://www.meetup.com/JewishSingles50-of-GreaterBoston/events/9361742/</event_url><name>Movie and Dinner</name></event><comments>Sorry, change in plans and cannot meet for dinner. Enjoy!  Barbara in Stoughton 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Working until 4 pm.  Could meet up for dinner in that general area  around 5 ish. </comments><group><join_mode>approval</join_mode><urlname>JewishSingles50-of-GreaterBoston</urlname><id>425314</id><group_lat>42.2400016785</group_lat><group_lon>-71.1699981689</group_lon></group><created>1229703007000</created><tallies><waitlist>0</waitlist><maybe>4</maybe><no>18</no><yes>8</yes></tallies><rsvp_id>38836075</rsvp_id><member><member_id>3399602</member_id><name>barbara z</name></member><guests>0</guests></item><item><response>no</response><mtime>1229799698000</mtime><event><id>9361742</id><time>1230231600000</time><event_url>http://www.meetup.com/JewishSingles50-of-GreaterBoston/events/9361742/</event_url><name>Movie and Dinner</name></event><group><join_mode>approval</join_mode><urlname>JewishSingles50-of-GreaterBoston</urlname><id>425314</id><group_lat>42.2400016785</group_lat><group_lon>-71.1699981689</group_lon></group><created>1229799698000</created><member_photo><photo_link>http://photos2.meetupstatic.com/photos/member/5/2/7/6/member_5481110.jpeg</photo_link><highres_link>http://photos2.meetupstatic.com/photos/member/5/2/7/6/highres_5481110.jpeg</highres_link><photo_id>5481110</photo_id><thumb_link>http://photos4.meetupstatic.com/photos/member/5/2/7/6/thumb_5481110.jpeg</thumb_link></member_photo><tallies><waitlist>0</waitlist><maybe>4</maybe><no>18</no><yes>8</yes></tallies><rsvp_id>38879633</rsvp_id><member><member_id>3901963</member_id><name>Dale</name></member><guests>0</guests></item><item><response>no</response><mtime>1230156035000</mtime><event><id>9361742</id><time>1230231600000</time><event_url>http://www.meetup.com/JewishSingles50-of-GreaterBoston/events/9361742/</event_url><name>Movie and Dinner</name></event><comments>I have seen SlumDog Millionaire, highly recommend it.  Anyone going to see Milk at 1:00?</comments><group><join_mode>approval</join_mode><urlname>JewishSingles50-of-GreaterBoston</urlname><id>425314</id><group_lat>42.2400016785</group_lat><group_lon>-71.1699981689</group_lon></group><created>1230156035000</created><member_photo><photo_link>http://photos4.meetupstatic.com/photos/member/2/8/7/member_2700647.jpeg</photo_link><highres_link>http://photos4.meetupstatic.com/photos/member/2/8/7/highres_2700647.jpeg</highres_link><photo_id>2700647</photo_id><thumb_link>http://photos4.meetupstatic.com/photos/member/2/8/7/thumb_2700647.jpeg</thumb_link></member_photo><tallies><waitlist>0</waitlist><maybe>4</maybe><no>18</no><yes>8</yes></tallies><rsvp_id>39007747</rsvp_id><member><member_id>4026210</member_id><name>Nancie</name></member><guests>0</guests></item><item><response>yes</response><mtime>1229662731000</mtime><event><id>9361742</id><time>1230231600000</time><event_url>http://www.meetup.com/JewishSingles50-of-GreaterBoston/events/9361742/</event_url><name>Movie and Dinner</name></event><comments>I'd like to do a double feature. One &amp; then the other &amp; then out to eat. Is the Biltmore open? Or is there a vitnameese or japaneese resturaunt around?</comments><group><join_mode>approval</join_mode><urlname>JewishSingles50-of-GreaterBoston</urlname><id>425314</id><group_lat>42.2400016785</group_lat><group_lon>-71.1699981689</group_lon></group><created>1229662731000</created><member_photo><photo_link>http://photos3.meetupstatic.com/photos/member/d/2/e/8/member_34793992.jpeg</photo_link><highres_link>http://photos1.meetupstatic.com/photos/member/d/2/e/8/highres_34793992.jpeg</highres_link><photo_id>34793992</photo_id><thumb_link>http://photos1.meetupstatic.com/photos/member/d/2/e/8/thumb_34793992.jpeg</thumb_link></member_photo><tallies><waitlist>0</waitlist><maybe>4</maybe><no>18</no><yes>8</yes></tallies><rsvp_id>38824179</rsvp_id><member><member_id>4355116</member_id><name>Kiki</name></member><guests>1</guests></item><item><response>yes</response><mtime>1230145336000</mtime><event><id>9361742</id><time>1230231600000</time><event_url>http://www.meetup.com/JewishSingles50-of-GreaterBoston/events/9361742/</event_url><name>Movie and Dinner</name></event><group><join_mode>approval</join_mode><urlname>JewishSingles50-of-GreaterBoston</urlname><id>425314</id><group_lat>42.2400016785</group_lat><group_lon>-71.1699981689</group_lon></group><created>1230145336000</created><tallies><waitlist>0</waitlist><maybe>4</maybe><no>18</no><yes>8</yes></tallies><rsvp_id>39003759</rsvp_id><member><member_id>4685799</member_id><name>Dean</name></member><guests>0</guests></item><item><response>no</response><mtime>1230158350000</mtime><event><id>9361742</id><time>1230231600000</time><event_url>http://www.meetup.com/JewishSingles50-of-GreaterBoston/events/9361742/</event_url><name>Movie and Dinner</name></event><comments>I saw this movie a few weeks ago -   I would like to join the group for dinner after the movie.  </comments><group><join_mode>approval</join_mode><urlname>JewishSingles50-of-GreaterBoston</urlname><id>425314</id><group_lat>42.2400016785</group_lat><group_lon>-71.1699981689</group_lon></group><created>1230158350000</created><member_photo><photo_link>http://photos3.meetupstatic.com/photos/member/a/7/c/8/member_81342952.jpeg</photo_link><photo_id>81342952</photo_id><thumb_link>http://photos1.meetupstatic.com/photos/member/a/7/c/8/thumb_81342952.jpeg</thumb_link></member_photo><tallies><waitlist>0</waitlist><maybe>4</maybe><no>18</no><yes>8</yes></tallies><rsvp_id>39008550</rsvp_id><member><member_id>4936936</member_id><name>Myrna </name></member><guests>0</guests></item><item><response>yes</response><mtime>1230214871000</mtime><event><id>9361742</id><time>1230231600000</time><event_url>http://www.meetup.com/JewishSingles50-of-GreaterBoston/events/9361742/</event_url><name>Movie and Dinner</name></event><comments>Movie only; I have a son to feed for dinner. Looking forward to meeting you.</comments><group><join_mode>approval</join_mode><urlname>JewishSingles50-of-GreaterBoston</urlname><id>425314</id><group_lat>42.2400016785</group_lat><group_lon>-71.1699981689</group_lon></group><created>1230214871000</created><member_photo><photo_link>http://photos4.meetupstatic.com/photos/member/4/9/b/5/member_5178869.jpeg</photo_link><highres_link>http://photos4.meetupstatic.com/photos/member/4/9/b/5/highres_5178869.jpeg</highres_link><photo_id>5178869</photo_id><thumb_link>http://photos4.meetupstatic.com/photos/member/4/9/b/5/thumb_5178869.jpeg</thumb_link></member_photo><tallies><waitlist>0</waitlist><maybe>4</maybe><no>18</no><yes>8</yes></tallies><rsvp_id>39016681</rsvp_id><member><member_id>8110232</member_id><name>Carol S</name></member><guests>0</guests></item></items></results>

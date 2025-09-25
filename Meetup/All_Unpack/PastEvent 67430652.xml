@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>	<item><venue><address_1>One Memorial Drive</address_1><state>MA</state><zip>02142</zip><lat>42.361406</lat><repinned>False</repinned><phone>857.453.6000</phone><name>Microsoft N.E.R.D. Center</name><city>Cambridge</city><id>1210878</id><country>us</country><lon>-71.081282</lon></venue><status>past</status><description>&lt;p&gt;Who are the people that make BostonPHP happen? You've seen them at the events, maybe even joined them at the bar or helped them out by suggesting ideas for topics. Usually these volunteers are working hard behind the scenes to bring you the best quality events.&lt;/p&gt;
+&lt;p&gt;Now it's their turn to get up and talk tech. Get to know some of the leadership team a little better in a series of short lightning talks, around 15-20 minutes each.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;6:30 - Pizza + Networking&lt;/p&gt;
+&lt;p&gt;7:00 - Introduction and talks&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;em&gt;The following is the planned list of talks, but is subject to change:&lt;/em&gt; &lt;br /&gt;
+
+ &lt;br /&gt;
+
+&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Matt Murphy: Don't Fear the Command Line&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;In an age of beautiful graphical interfaces, why would you want to interact with your computer with text commands like you're back in 1983? Because it can be super powerful and efficient. It doesn't need to be scary.&lt;/p&gt;
+&lt;p&gt;Matt will introduce you to getting things done from the command line on your own Linux or Mac with a gentle, quick introduction as well as a discussion of WHY you would want to use the command line in certain scenarios.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt; &lt;br /&gt;
+
+ Gene Babon: Anatomy of a Virtual Self-Study Group&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;There are more than 700 hours in a month. A typical monthly Meetup lasts a mere two hours -- less than one percent. This presentation is designed to outline how we can effectively utilize the 99% "downtime" to help each other develop our skills.&lt;/p&gt;
+&lt;p&gt;Join Gene and learn more about how three innovative Boston PHP initiatives work and how to get involved: PHP Percolate!, jQuery jAM and HTML5 Brunch.&lt;/p&gt;
+&lt;p&gt; &lt;br /&gt;
+
+&lt;em&gt;Follow Gene on Twitter: @webapprentices&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Lance Perry: Amazing 3D Graphics in the Browser&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The future of the web is here with Web GL and 3JS! Now the same cutting edge graphics you've seen on your iPad, iPhone, and Android device can be easily applied to the web. The Khronos group, creators of Opean n GL and Open GL ES, has now made them available on Chrome and Firefox, allowing you to serve 3D graphics with no plugins just a couple simple tags and some Javascript.&lt;/p&gt;
+&lt;p&gt;Join Lance for an introduction to Web GL and 3JS, and some examples of what they can do.&lt;/p&gt;
+&lt;p&gt; &lt;br /&gt;
+
+&lt;em&gt;Follow Lance on Twitter: @LPCareerProfile&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt; &lt;br /&gt;
+
+ Heather O'Neill: Getting Started with UX&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;UX (User Experience) shouldn't be the purview solely of UX specialists; a well-rounded developer can become a UX professional too!&lt;/p&gt;
+&lt;p&gt;Heather will walk you through some quick steps to help you begin your journey down the path of learning to think in terms of UX and how doing so can help you develop more useful, intuitive and impressive applications in less time.&lt;/p&gt;
+&lt;p&gt; &lt;br /&gt;
+
+ &lt;strong&gt;Bobby Cahill: Visualize your data!&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Got Data? Want to share it with your users? Anyone who has made a pie chart or a bar graph knows that displaying data graphically can often make a much bigger impact than simply providing the data itself (*snore). And now it's so easy you almost have no excuse not to!&lt;/p&gt;
+&lt;p&gt;Bobby will show you how easy it is to use jQuery and one of a few jQuery plugins to turn your boring numerical data into clean interactive charts and graphs that will better engage your users.&lt;/p&gt;
+&lt;p&gt; &lt;br /&gt;
+
+&lt;em&gt;Follow Bobby on Twitter: @BobbyCahillJr&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt; &lt;br /&gt;
+
+ &lt;strong&gt;Andrew Drane: Client-Side Templates&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Turbo-charge your web app with client side templates (and render your views in any language too)! Building super-responsive apps that work on multiple platforms is more important than ever.&lt;/p&gt;
+&lt;p&gt;Andrew will show you how to use Mustache templates, AJAX and JSON to increase response time and reduce bandwidth and requests to your server.&lt;/p&gt;
+&lt;p&gt; &lt;br /&gt;
+
+&lt;em&gt;Follow Andrew on Twitter: @andrewdrane&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;HELP US SPREAD THE WORD!&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Suggested tweet: &lt;br /&gt;
+
+ &lt;em&gt;I'm going to Leadership Team Lighning Talks with @bostonphp Wed. June 6 &lt;a href="http://meetu.ps/cCBy8"&gt;http://meetu.ps/cCBy8&lt;/a&gt; @MSNewEngland&lt;/em&gt;&lt;/p&gt;</description><event_hosts><event_hosts_item><member_name>Bobby Cahill</member_name><member_id>2398004</member_id></event_hosts_item><event_hosts_item><member_name>Gene Babon</member_name><member_id>2410152</member_id></event_hosts_item><event_hosts_item><member_name>Matt Murphy</member_name><member_id>4790321</member_id></event_hosts_item><event_hosts_item><member_name>Andrew Drane</member_name><member_id>8266401</member_id></event_hosts_item><event_hosts_item><member_name>Lance Perry</member_name><member_id>10655552</member_id></event_hosts_item><event_hosts_item><member_name>Heather O'Neill</member_name><member_id>12680969</member_id></event_hosts_item></event_hosts><maybe_rsvp_count>0</maybe_rsvp_count><waitlist_count>0</waitlist_count><updated>1343091296000</updated><rating><average>4.32999992371</average><count>3</count></rating><group><who>Members</who><join_mode>open</join_mode><urlname>bostonphp</urlname><id>120818</id><group_lat>42.3600006104</group_lat><group_lon>-71.0699996948</group_lon><name>Boston PHP</name></group><yes_rsvp_count>57</yes_rsvp_count><created>1338657854000</created><visibility>public</visibility><name>Boston PHP Leadership Team Lightning Talks</name><id>67430652</id><duration>9000000</duration><headcount>57</headcount><utc_offset>-14400000</utc_offset><time>1339021800000</time><event_url>http://www.meetup.com/bostonphp/events/67430652/</event_url></item>

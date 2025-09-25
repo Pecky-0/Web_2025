@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>	<item><venue><address_1>MIT campus</address_1><state>MA</state><zip>02142</zip><lat>42.359100</lat><repinned>False</repinned><name>MIT room 2-135</name><city>Cambridge</city><id>11358592</id><country>us</country><lon>-71.093399</lon></venue><status>past</status><description>&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;In preparation for his PyCon tutorial, Itamar will rehearse it for Boston Python members.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Itamar Turner-Trauring&lt;/strong&gt;, &lt;a href="https://us.pycon.org/2013/schedule/presentation/15/"&gt;&lt;/a&gt;&lt;em&gt;&lt;a href="https://us.pycon.org/2013/schedule/presentation/15/"&gt;Intermediate Twisted: Test-Driven Networking Software&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Unit testing is one of the most important methods for building more reliable, robust software; test-driven development, where tests are written first, even more so. But testing network applications presents additional difficulties:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Data can arrive over the network with arbitrary delays, in arbitrary chunks,&lt;/li&gt;
+&lt;li&gt;Connections can break at random,&lt;/li&gt;
+&lt;li&gt;Timeouts are an important feature, but a unittest that takes 2 hours to pass is unacceptable,&lt;/li&gt;
+&lt;li&gt;Relying on actual networking for tests leads to more fragile tests,&lt;/li&gt;
+&lt;li&gt;etc.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;In order to deal with these issues, the Twisted event-driven networking framework provides an extensive set of functionality for testing, making it an excellent choice for building reliable applications.&lt;/p&gt;
+&lt;p&gt;This tutorial aims to teach you how to write well-tested network applications with Twisted using a series of hands-on exercises. We will begin with a quick lecture on how to test Twisted code. Then you will get your hands dirty coding by trying to make a provided set of tests pass; the result will be a toy HTTP server. For the final exercise, you will need to come up with the list of tests yourself, as you would in real world development.&lt;/p&gt;
+&lt;p&gt;Prerequisites: Intermediate knowledge of Python: classes, functions, etc.. A basic understanding of Twisted (protocols, transports, Deferreds), e.g. as provided by the introductory Twisted tutorial. Previous experience with other event-driven frameworks may suffice, however, given enough programming experience. Some experience with the unittest module would also be very helpful.&lt;/p&gt;
+&lt;p&gt;Please arrive with a laptop configured with a recent version of Twisted (12.2 or later) and Python 2.7. Ubuntu, Debian or some other version of Linux or Unix (e.g. OS X) is highly recommended, but not necessary. If you’re using Windows please make very very sure you have a Twisted development environment set up before the class has started; in particular you should be able to run the trial command-line program.&lt;/p&gt;
+&lt;hr&gt;&lt;/hr&gt;
+&lt;p&gt;PyCon tutorials are half-day in-depth courses presented in the days preceding the bulk of PyCon.  Rehearsing with a real audience is a great way to prepare.  Come ready to learn, and also to provide feedback!&lt;/p&gt;
+&lt;p&gt;Note: Space is very limited for these events, &lt;em&gt;&lt;strong&gt;please do not sign up for more than one, to give others a chance.&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;No food is being provided at this event.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Location:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;We are in an MIT classroom, 2-135, which is in Building 2, first floor.  This map shows where building 2 is:  &lt;a href="http://whereis.mit.edu/?go=2"&gt;http://whereis.mit.edu/?go=2&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;* The closest T stop is the Kendall T stop on the Red Line. &lt;br /&gt;
+
+ * The closest bus stop is the 84 Massachusetts Avenue stop on the #1. &lt;br /&gt;
+
+ * There is paid garage parking at 5 Cambridge Center and at 1 Kendall Square (by the Kendall Square Cinema).&lt;/p&gt;</description><event_hosts><event_hosts_item><member_name>Ned Batchelder</member_name><member_id>1824278</member_id></event_hosts_item></event_hosts><maybe_rsvp_count>0</maybe_rsvp_count><waitlist_count>0</waitlist_count><updated>1359919386000</updated><rating><average>4.80000019073</average><count>5</count></rating><group><who>Pythonistas</who><join_mode>open</join_mode><urlname>bostonpython</urlname><id>469457</id><group_lat>42.3800010681</group_lat><group_lon>-71.1299972534</group_lon><name>The Boston Python User Group</name></group><yes_rsvp_count>21</yes_rsvp_count><created>1358566207000</created><visibility>public</visibility><name>PyCon tutorial: Intermediate Twisted: Test-Driven Networking Software</name><id>100333602</id><headcount>0</headcount><duration>14400000</duration><utc_offset>-18000000</utc_offset><time>1359828000000</time><rsvp_limit>21</rsvp_limit><event_url>http://www.meetup.com/bostonpython/events/100333602/</event_url></item>

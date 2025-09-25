@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>	<item><status>past</status><description>&lt;p&gt;We will recap and discuss best presentations from Amazon Reinvent in February.&lt;/p&gt;
+&lt;p&gt;For our January session let's concentrate on monitoring: Instances, Performance, ELB, etc.&lt;/p&gt;
+&lt;p&gt;Our guest moderator will be the Stackdriver team (Mark A. will not be in attendance). &lt;br /&gt;
+
+And Greystone Solutions will be providing the catering. &lt;br /&gt;
+
+Thank you to these companies for helping to make this a fruitful and enjoyable meetup!&lt;/p&gt;
+&lt;p&gt; &lt;br /&gt;
+
+We are still finalizing presentations, and wish to leave some time for networking (per member requests).&lt;/p&gt;
+&lt;p&gt;Here is one of the presentations:&lt;/p&gt;
+&lt;p&gt;Title: &lt;strong&gt;Monitoring Your Storage Resources in AWS...and How to Fill in the Gaps &lt;br /&gt;
+
+&lt;/strong&gt; &lt;br /&gt;
+
+&lt;strong&gt;Abstract:&lt;/strong&gt; The Amazon Web Services APIs provide lots of information about object and block storage used in your account.  Unfortunately, those APIs do not provide all the information you need to optimize your application and operate your infrastructure.  In this talk, we will briefly review the information that the Amazon APIs provide.  We will then discuss other sources of information about storage resources.  Finally, we will brainstorm how we can combine these multiple sources of information to give additional insight into your storage resources. &lt;br /&gt;
+
+ &lt;br /&gt;
+
+&lt;strong&gt;Presented by:&lt;/strong&gt; Patrick Eaton, Ph.D. - Patrick is an architect at Stackdriver, a Boston-based start-up that monitors your SaaS applications deployed in the public clouds to provide actionable analysis and insight.  He has a background in distributed systems and is especially interested in using scale-out architectures for data storage and analysis.  Prior to Stackdriver, Patrick worked on cloud storage systems before they were called "cloud" storage and databases for in-memory analytics.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;</description><maybe_rsvp_count>0</maybe_rsvp_count><waitlist_count>0</waitlist_count><updated>1360633120000</updated><rating><average>4.67000007629</average><count>3</count></rating><group><who>People interested in Web tech</who><join_mode>open</join_mode><urlname>The-Boston-Amazon-Web-Services-Meetup-Group</urlname><id>1367428</id><group_lat>42.3600006104</group_lat><group_lon>-71.0500030518</group_lon><name>The Boston Amazon Web Services Meetup Group</name></group><yes_rsvp_count>75</yes_rsvp_count><created>1355537067000</created><visibility>public</visibility><name>January Meetup Event at the Cambridge Microsoft NERD facility</name><id>95412332</id><headcount>0</headcount><duration>9000000</duration><utc_offset>-18000000</utc_offset><time>1358208000000</time><event_url>http://www.meetup.com/The-Boston-Amazon-Web-Services-Meetup-Group/events/95412332/</event_url></item>

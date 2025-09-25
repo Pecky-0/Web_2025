@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>	<item><venue><address_2>Suite 100</address_2><address_1>One Memorial Drive</address_1><state>MA</state><zip>02142</zip><lat>42.360794</lat><repinned>False</repinned><phone>857-453.6000</phone><name>Microsoft New England Research &amp; Development Center (NERD)</name><city>Cambridge</city><id>1054297</id><country>us</country><lon>-71.082504</lon></venue><status>past</status><description>&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;span&gt;Come work on Python projects, get programming help, help others, and hang out. Food will be provided by &lt;a href="http://edx.org"&gt;&lt;strong&gt;edX&lt;/strong&gt;&lt;/a&gt;!&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;Bring your own project or work on one of the suggested projects below.  Everyone is welcome, all skill levels are encouraged.  Tell your friends:&lt;/span&gt; &lt;a href="http://meetu.ps/nGBRz"&gt;http://meetu.ps/nGBRz&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;Staff from the &lt;a href="http://openhatch.org/wiki/Boston_Python_Workshop"&gt;Boston Python Workshop&lt;/a&gt; will be here to help beginning Python programmers with language basics and practice.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt; &lt;br /&gt;
+
+&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;&lt;strong&gt;Audience&lt;/strong&gt;: Everyone! All Python experience levels are welcome, and everything is self-paced.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;&lt;strong&gt;When&lt;/strong&gt;: 6:30pm - 9:30pm on Thursday, November 1st. &lt;br /&gt;
+
+&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;&lt;strong&gt;Location&lt;/strong&gt;: Microsoft NERD&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;One Memorial Drive, Cambridge, MA 02142&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Food&lt;/strong&gt;: Pizza will be provided&lt;span&gt;.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;&lt;strong&gt;Things to bring&lt;/strong&gt;: a wireless-enabled laptop and power cord&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt; &lt;br /&gt;
+
+&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;&lt;strong&gt;Need some project ideas? How about:&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;&lt;strong&gt;Learning Python&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span&gt;The official Python tutorial:  &lt;a href="http://docs.python.org/tutorial/"&gt;http://docs.python.org/tutorial/&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span&gt;How to Think Like a Computer Scientist: Learning with Python:  &lt;a href="http://openbookproject.net/thinkcs/python/english2e/"&gt;http://openbookproject.net/thinkcs/python/english2e/&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span&gt;An introduction to Python through writing games: &lt;a href="http://inventwithpython.com/chapters/"&gt;http://inventwithpython.com/chapters/&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span&gt;Learn Python the Hard Way: &lt;a href="http://learnpythonthehardway.org/"&gt;http://learnpythonthehardway.org&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;span&gt;&lt;strong&gt;Projects and competitions&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Try some of our &lt;a href="http://bit.ly/intermediate-python-projects"&gt;Intermediate Workshop projects&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;span&gt;Contribute to an open-source project that uses Python. Developers from &lt;a href="http://openhatch.org/"&gt;OpenHatch&lt;/a&gt;, &lt;a href="http://twistedmatrix.com/"&gt;Twisted&lt;/a&gt;&lt;/span&gt;&lt;span&gt;, and other projects are often here. If you contribute to an open source project that uses Python and want to help new contributors, let us know in a comment!&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span&gt;Use Python to participate in space exploration: &lt;a href="http://spacehack.org/"&gt;http://spacehack.org&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span&gt;Unleash your inner DJ with the &lt;a href="http://code.google.com/p/pyechonest/"&gt;Echo Nest&lt;/a&gt; and &lt;a href="http://code.google.com/p/echo-nest-remix/"&gt;Echo Nest Remix&lt;/a&gt;&lt;/span&gt; &lt;span&gt;APIs&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span&gt;Want to learn a Python web framework? Check out the Django tutorial:&lt;/span&gt; &lt;a href="https://docs.djangoproject.com/en/1.3/intro/tutorial01/"&gt;https://docs.djangoproject.com/en/dev/intro/tutorial01/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</description><event_hosts><event_hosts_item><member_name>Ned Batchelder</member_name><member_id>1824278</member_id></event_hosts_item><event_hosts_item><member_name>Jason Michalski</member_name><member_id>11950252</member_id></event_hosts_item><event_hosts_item><member_name>Jessica McKellar</member_name><member_id>14046470</member_id></event_hosts_item></event_hosts><maybe_rsvp_count>0</maybe_rsvp_count><waitlist_count>0</waitlist_count><updated>1351958763000</updated><rating><average>4.44999980927</average><count>11</count></rating><group><who>Pythonistas</who><join_mode>open</join_mode><urlname>bostonpython</urlname><id>469457</id><group_lat>42.3800010681</group_lat><group_lon>-71.1299972534</group_lon><name>The Boston Python User Group</name></group><yes_rsvp_count>110</yes_rsvp_count><created>1340999814000</created><visibility>public</visibility><name>November Project Night</name><id>71319362</id><headcount>63</headcount><duration>10800000</duration><utc_offset>-14400000</utc_offset><time>1351809000000</time><rsvp_limit>120</rsvp_limit><event_url>http://www.meetup.com/bostonpython/events/71319362/</event_url></item>

@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<results><head><url>https://api.meetup.com/2/rsvps.xml?key=6b457b5342622446e4c3f214a6e3b15&amp;event_id=4981631&amp;order=event&amp;desc=false&amp;format=xml&amp;offset=0&amp;page=200&amp;fields=</url><method>RSVPs v2</method><description>Query for Event RSVPs by event</description><count>1</count><updated>Sun Dec 16 15:16:15 EST 2007</updated><lat /><next /><id /><link>https://api.meetup.com/2/rsvps.xml</link><title>Meetup RSVPs v2</title><total_count>1</total_count><lon /></head><items><item><response>yes</response><mtime>1197836175000</mtime><event><id>4981631</id><time>1154037600000</time><event_url>http://www.meetup.com/worcesterspanishlanguage/events/4981631/</event_url><name>The Worcester Spanish Language July Meetup</name></event><comments>Hola,
+
+Asistire la reunion, es Panera Bread mala? Vamos a la Panera Bread. Prefiero lo mismo lugar.
+
+Viva! Panera Bread
+
+Ray</comments><group><join_mode>approval</join_mode><urlname>worcesterspanishlanguage</urlname><id>232183</id><group_lat>42.2400016785</group_lat><group_lon>-71.8399963379</group_lon></group><created>1153315106000</created><member_photo><photo_link>http://photos1.meetupstatic.com/photos/member/c/d/5/b/member_592571.jpeg</photo_link><highres_link>http://photos1.meetupstatic.com/photos/member/c/d/5/b/highres_592571.jpeg</highres_link><photo_id>592571</photo_id><thumb_link>http://photos1.meetupstatic.com/photos/member/c/d/5/b/thumb_592571.jpeg</thumb_link></member_photo><tallies><waitlist>0</waitlist><maybe>4</maybe><no>4</no><yes>9</yes></tallies><rsvp_id>5062545</rsvp_id><member><member_id>1489154</member_id><name>Raymond Hill</name></member><guests>0</guests></item></items></results>

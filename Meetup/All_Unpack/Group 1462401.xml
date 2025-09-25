@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>	<item><state>MA</state><who>members</who><category><shortname>tech</shortname><id>34</id><name>tech</name></category><description>This is the a user group aimed at bringing together CiviCRM developers, administrators, enthusiast, and curious bodies to:
+
+1) Learn more about the CRM system through peer knowledge sharing and training sessions
+
+2) Discuss how organizations are using it to address their CRM needs
+
+3) Demonstrate custom modules, user interfaces and configurations
+
+4) Discuss future development of the system</description><rating>4.68</rating><join_mode>open</join_mode><created>1243430345000</created><lat>42.3100013733</lat><visibility>public</visibility><topics><topics_item><id>563</id><urlkey>opensource</urlkey><name>Open Source</name></topics_item><topics_item><id>1726</id><urlkey>nonprofit</urlkey><name>Nonprofit</name></topics_item><topics_item><id>10209</id><urlkey>web</urlkey><name>Web Technology</name></topics_item><topics_item><id>15242</id><urlkey>crm</urlkey><name>CRM</name></topics_item></topics><name>Boston CiviCRM Meetup</name><id>1462401</id><members>95</members><country>US</country><organizer><member_id>10130891</member_id><name>Sean Madsen</name></organizer><urlname>Boston-CiviCRM-Meetup</urlname><group_photo><photo_link>http://photos3.meetupstatic.com/photos/event/3/9/4/f/600_8834671.jpeg</photo_link><highres_link>http://photos3.meetupstatic.com/photos/event/3/9/4/f/highres_8834671.jpeg</highres_link><photo_id>8834671</photo_id><thumb_link>http://photos3.meetupstatic.com/photos/event/3/9/4/f/thumb_8834671.jpeg</thumb_link></group_photo><city>Boston</city><link>http://www.meetup.com/Boston-CiviCRM-Meetup/</link><lon>-71.0599975586</lon></item>

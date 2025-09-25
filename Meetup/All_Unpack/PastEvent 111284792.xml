@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>	<item><venue><address_1>320 Congress Street, 1st floor (corner of Sleeper and Congress)</address_1><state>MA</state><lat>42.358429</lat><repinned>False</repinned><name>Cantina</name><city>Boston</city><id>11812262</id><country>us</country><lon>-71.059776</lon></venue><status>past</status><description>&lt;p&gt;Hi All, &lt;br /&gt;
+
+I'd like to try something different for our next meetup. One of our members, Justin Miranda, works for Partners in Health, a non-profit organization here in Boston whose goal is to make healthcare accessible around the world to those in need. Justin has been focusing on logistics, working on an application written in Grails called "OpenBoxes":&lt;/p&gt;
+&lt;p&gt; &lt;br /&gt;
+
+"OpenBoxes is an open source Inventory and Supply Chain Management System developed by Partners In Health (PIH).  In the aftermath of the Haiti earthquake in January 2010, PIH identified the management of purchased and donated medications and medical supplies as a crucial need for its daily operations. A review of existing third party systems failed to produce a viable option, so PIH used funding from the Rockefeller Foundation to begin development of a new application called OpenBoxes.  This system is now being used within storage depots within Boston, Miami, and Port au Prince to track inventory and shipments for PIH hospitals and clinics throughout Haiti. Over the next few months, OpenBoxes is also slated to be rolled out at Mirebalais Hospital in Haiti as well as piloted at clinics in Malawi and Lesotho.&lt;/p&gt;
+&lt;p&gt; &lt;br /&gt;
+
+OpenBoxes is designed to manage the flow of supplies between warehouses, and the issue of stock from those warehouses to wards and dispensaries within a hospital.  The system’s functionalities include: creating and classifying products, recording initial inventory levels, performing stock counts, adjusting stock levels, recording purchase orders, creating and sending shipments via air, sea or land, and receiving shipments within a depot.  In the near future, the system will allow users, such as nurses, to requisition stock and non-stock items from their hospital depots.  Depot staff will process these requisitions, pick items from the depot, and issue stock to the requesting ward or dispensary.  The history of each item in the system can also be individually tracked throughout the supply chain process, i.e. time of arrival, mode of shipment, etc. The scope and detail of OpenBoxes’ functionalities would conceivably make it useful and accessible to multiple groups outside of PIH."&lt;/p&gt;
+&lt;p&gt; &lt;br /&gt;
+
+Interesting, eh?&lt;/p&gt;
+&lt;p&gt; &lt;br /&gt;
+
+Justin has come to us because he'd like our help. As OpenBoxes expands its user base, he would like to be certain it will be able to meet demand. Justin is concerned about several facets of the application, including security, localization, UX, and data synchronization between distributors. He even has a rather unique challenge: handling resources in environments with unreliable electricity and internet access!&lt;/p&gt;
+&lt;p&gt;So, the goal for the next meetup is this: Justin would like to show us all what he's managed to accomplish so far and hear our critical feedback - both good and bad. This should hopefully result in some helpful suggestions and excellent group discussion around Grails best practices (which may translate to your own work!).&lt;/p&gt;
+&lt;p&gt;Even if you feel you could not contribute directly, there should be plenty you could take away; it should be a learning experience for us all (and give us a chance to help out a non-profit).&lt;/p&gt;
+&lt;p&gt; &lt;br /&gt;
+
+I apologize that this is relatively last minute: Justin will be heading back to Haiti soon afterwards!&lt;/p&gt;
+&lt;p&gt; &lt;br /&gt;
+
+I hope to see you all there!&lt;/p&gt;
+&lt;p&gt; &lt;br /&gt;
+
+-Steve&lt;/p&gt;</description><how_to_find_us>1st floor, on the right as you walk in the door (which may be locked, but we'll keep watch to come open it)</how_to_find_us><event_hosts><event_hosts_item><member_name>Steve Pember</member_name><member_id>9587085</member_id></event_hosts_item></event_hosts><maybe_rsvp_count>0</maybe_rsvp_count><waitlist_count>0</waitlist_count><updated>1365072737000</updated><rating><average>4.5</average><count>2</count></rating><group><who>Members</who><join_mode>open</join_mode><urlname>Grails-Boston</urlname><id>1458975</id><group_lat>42.3499984741</group_lat><group_lon>-71.0400009155</group_lon><name>Boston Grails Users' Group</name></group><yes_rsvp_count>14</yes_rsvp_count><created>1364384168000</created><visibility>public</visibility><name>Project Assessment Group Discussion: OpenBoxes</name><id>111284792</id><headcount>0</headcount><utc_offset>-14400000</utc_offset><time>1365030000000</time><event_url>http://www.meetup.com/Grails-Boston/events/111284792/</event_url></item>

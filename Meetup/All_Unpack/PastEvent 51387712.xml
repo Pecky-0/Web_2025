@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>	<item><venue><address_1>One Memorial Drive</address_1><state>MA</state><zip>02142</zip><lat>42.361290</lat><repinned>False</repinned><name>Microsoft  NERD New England Research &amp; Development Center </name><city>Cambridge</city><id>1626763</id><country>us</country><lon>-71.081192</lon></venue><status>past</status><description>&lt;p&gt;&lt;img src="http://photos1.meetupstatic.com/photos/event/c/0/9/6/event_120469302.jpeg" style="max-height : 700px ; max-width : 700px ; margin : 5px ; float : left"&gt;&lt;/img&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;Hi all,&lt;/p&gt;
+&lt;p&gt;Sheetal Dolas from Hortonworks will be giving a talk focused on addressing the challenge of data growth.  The abstract follows - as Sheetal's bio indicates, he's an experienced data architect who will offer significant insights into wrangling large data sets!&lt;/p&gt;
+&lt;p&gt;Pizza &amp;amp; sodas will be provided, sponsored by Arista Networks and Hadapt.&lt;/p&gt;
+&lt;p&gt;Please contact Reed Shea (reed@hadapt.com) with any questions.&lt;/p&gt;
+&lt;p&gt;Thanks, &lt;br /&gt;
+
+The organizers&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;Abstract:&lt;/p&gt;
+&lt;p&gt;Due to exponential data growth in every corner, almost all organizations are facing a challenge to have highly scalable yet cost effective data warehouses. Organizations can scale to new levels by augmenting the Enterprise Data Warehouses (EDW) with Hadoop and can save millions of dollars on the infrastructure.&lt;/p&gt;
+&lt;p&gt;There are three key challenges in making Hadoop as mainstream EDW platform:&lt;/p&gt;
+&lt;p&gt;1. Managing historical data updates   &lt;br /&gt;
+
+ 2. DR/Active-Active warehouses   &lt;br /&gt;
+
+ 3. Integrating with existing infrastructure (Oracle, Teradata, Informatica, BI tools)&lt;/p&gt;
+&lt;p&gt;In this presentation we talk about a reference EDW architecture that helps saving millions of dollars, processes terabytes of incoming data everyday, scales to multi petabyte EDW and also the challenges people face while using Hadoop for EDW and the solutions/best practices around them.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;Bio:&lt;/p&gt;
+&lt;p&gt;Sheetal is a Application Architect at Hortonworks, architecting the future of BigData and helping customer define their BigData strategies.  Previously, he was a Sr. Technology Architect with Extreme Data practice of Infosys’s Cloud Center Of Excellence. He has served in key positions as Lead Big Data Architect, SOA Architect, Technology Architect in multiple large and complex enterprise programs for with multiple fortune 100 and fortune 500 companies from insurance, financial and manufacturing verticals. He brings extensive knowledge of large-scale implementations of BigData/NoSql technologies including Hadoop, Hive, Pig, HBase etc.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;About Microsoft NERD:&lt;/p&gt;
+&lt;p&gt;The Microsoft New England Research &amp;amp; Development Center (NERD) is a research and software innovation campus located in the heart of Cambridge, Massachusetts. The NERD vertical campus spans two buildings with its primary presence and conference center located at One Memorial Drive and a recently renovated and expanded space located at One Cambridge Center. NERD is home to some of Microsoft’s most strategic teams including Microsoft Research New England, Microsoft Application Virtualization (App-V), SharePoint Workspace, Microsoft Technical Computing, Microsoft Advertising, Microsoft Lync, Microsoft Office 365 and more. NERD has become a hub of activity for the local tech community and has hosted more than 500 events and welcomed more than 40,000 visitors during the past two years.&lt;/p&gt;</description><how_to_find_us>Deborah Sampson/Thomas Paul rooms</how_to_find_us><event_hosts><event_hosts_item><member_name>Reed Shea </member_name><member_id>30310452</member_id></event_hosts_item></event_hosts><maybe_rsvp_count>0</maybe_rsvp_count><waitlist_count>90</waitlist_count><updated>1337869997000</updated><rating><average>5.0</average><count>2</count></rating><group><who>Members</who><join_mode>open</join_mode><urlname>bostonhadoop</urlname><id>1535756</id><group_lat>42.3699989319</group_lat><group_lon>-71.0999984741</group_lon><name>Boston Hadoop User Group</name></group><yes_rsvp_count>76</yes_rsvp_count><created>1328629870000</created><visibility>public</visibility><name>Augmenting Enterprise Data Warehouses with Hadoop (Hortonworks)</name><id>51387712</id><headcount>0</headcount><utc_offset>-14400000</utc_offset><time>1337812200000</time><rsvp_limit>76</rsvp_limit><event_url>http://www.meetup.com/bostonhadoop/events/51387712/</event_url></item>

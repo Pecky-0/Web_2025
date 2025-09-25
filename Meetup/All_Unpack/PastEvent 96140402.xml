@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>	<item><venue><address_1>1 Memorial Drive</address_1><state>MA</state><zip>02142</zip><lat>42.361290</lat><repinned>False</repinned><name>Microsoft NERD - Horace Mann Room</name><city>Cambridge</city><id>10814122</id><country>us</country><lon>-71.081192</lon></venue><status>past</status><description>&lt;p&gt;Hello Everyone.&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;This coming Monday we will be sharing how to best remotely manage AWS. Many of us are familiar with the Amazon Management Console, but we know that scripting is the way to go. &lt;a href="http://aws.amazon.com/code/Amazon-EC2"&gt;There are many ways to interface with EC2&lt;/a&gt;.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;Please email me if you can share a bit about your remote management setup and methods. If you would like to present, please indicate so.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;And on a different note, have you checked out Trusted Advisor? Let's touch upon this and the latest offerings with AWS.&lt;/p&gt;
+&lt;p&gt;Looking forward to seeing everyone!&lt;/p&gt;
+&lt;p&gt;- Mark&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;Presentations thus far:&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;==================================== &lt;br /&gt;
+
+&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;Subject:&lt;/span&gt; Ways to script AWS management using boto &lt;br /&gt;
+
+Presenter: Jeremy Katz&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;Ways to script AWS management using boto, the python library for working with AWS.  High level discussion on what he's done (both at Stackdriver and HubSpot) and a few details on how to really get started writing code with boto.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;====================================&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;Subject: Otto: unifying application &amp;amp; platform management &lt;br /&gt;
+
+&lt;/span&gt;&lt;span&gt;Presenter: Alex Lambert&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;Where does platform management end and application management begin? Traditionally, these two tasks have been handled by separate tools. At Spindle, we build our applications for the cloud, and we've realized that there isn't much reason to draw a distinction anymore. We developed Otto: Otto unifies application and platform management using the Puppet configuration management system. Otto makes it easier to deploy and manage applications and their platform dependencies while preventing configuration drift.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;Alex Lambert is a co-founder and CTO of Spindle (www.spindle.com). Spindle finds the most relevant and useful social content from places nearby to help you discover what's happening right now. Previously, he was a software engineer at the Microsoft New England Research &amp;amp; Development Center. At Microsoft, he built the first version of Bing's social search product and developed a scalable search platform hosted on Windows Azure.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;====================================&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;&lt;span&gt;Subject: How to work with boto and command line tools&lt;/span&gt; &lt;br /&gt;
+
+Presenter: Ransom Richardson&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;Will share a little about what they do for remote management (boto, command line tools, auto scale groups, tags) a short 5 minutes of interesting material on this topic.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;</description><maybe_rsvp_count>0</maybe_rsvp_count><waitlist_count>0</waitlist_count><updated>1363051894000</updated><rating><average>0.0</average><count>0</count></rating><group><who>People interested in Web tech</who><join_mode>open</join_mode><urlname>The-Boston-Amazon-Web-Services-Meetup-Group</urlname><id>1367428</id><group_lat>42.3600006104</group_lat><group_lon>-71.0500030518</group_lon><name>The Boston Amazon Web Services Meetup Group</name></group><yes_rsvp_count>89</yes_rsvp_count><created>1356099656000</created><visibility>public</visibility><name>March Amazon Web Services Meetup</name><id>96140402</id><headcount>0</headcount><duration>9000000</duration><utc_offset>-14400000</utc_offset><time>1363042800000</time><event_url>http://www.meetup.com/The-Boston-Amazon-Web-Services-Meetup-Group/events/96140402/</event_url></item>

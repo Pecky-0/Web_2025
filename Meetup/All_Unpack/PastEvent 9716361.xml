@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>	<item><status>past</status><description>Presentations:
+1. C-SHALS conference update - Eric Neumann
+2. SWAN 1.2 ontology - Paolo Ciccarese
+3. RDF functionality in Drupal - Stephane "scor" Corlosquet , DERI 
+
+
+One of the key requirements for Semantic Web acceptance and comprehension is the ability to unobtrusively transform existing semi-structured and unstructured Web content into structured RDF based Linked Data using shared ontologies such as DC, FOAF, SIOC. 
+
+The presentation will cover the use of Drupal to achieve the goals outlined above. If time permits, we will also talk about Neologism which enables creation and publishing of custom vocabularies in conformance with established RDF vocabulary management best practices. 
+
+Presenter Bio:
+
+Scor has been contributing to Drupal for more than 2 years in various ways:
+- core patches
+- maintainer of some contributed modules (SIOC, tasklist, RDFCCK, evoc, Neologism)
+- member of the Drupal security team
+- local and national Irish Drupal user group (co-organizer, presenter)
+
+His main interest lies in bringing Semantic Web technologies into Drupal, and he is currently working towards a masters degree at DERI Galway, Ireland.
+
+Additional Project Involvement:
+
+- Neologism (&lt;a href="http://neologism.googlecode.com/" class="linkified"&gt;http://neologism.googlecode.com/&lt;/a&gt;), an RDF vocabulary editor and publisher based on Drupal.
+
+- Evoc (&lt;a href="http://drupal.org/project/evoc" class="linkified"&gt;http://drupal.org/project/evoc&lt;/a&gt;) to import any vocabulary in Drupal
+
+- RDFCCK (&lt;a href="http://drupal.org/project/rdfcck" class="linkified"&gt;http://drupal.org/project/rdfcck&lt;/a&gt;) to map CCK fields and content types to
+
+- RDFa in core: some plans for implementing some RDFa in Drupal 7 core (&lt;a href="http://groups.drupal.org/node/16597" class="linkified"&gt;http://groups.drupal.org/node/16597&lt;/a&gt;). A first patch was already committed: &lt;a href="http://drupal.org/node/332980" class="linkified"&gt;http://drupal.org/node/332980&lt;/a&gt; and more of them in the pipeline.
+
+scor attended DrupalCon DC to advocate the RDF cause, foster interest in this area and help enabling semantic web support in Drupal.
+
+Links:
+
+[1] evoc module 
+&lt;a href="http://drupal.org/project/evoc" class="linkified"&gt;http://drupal.org/project/evoc&lt;/a&gt;
+
+[2] RDF CCK module 
+&lt;a href="http://drupal.org/project/rdfcck" class="linkified"&gt;http://drupal.org/project/rdfcck&lt;/a&gt;</description><how_to_find_us>Star Conference Room. 4th Floor, Stata Center</how_to_find_us><event_hosts><event_hosts_item><member_name>Marco Neumann</member_name><member_id>2316446</member_id></event_hosts_item><event_hosts_item><member_name>Kingsley Idehen</member_name><member_id>3320828</member_id></event_hosts_item><event_hosts_item><member_name>Susie Stephens</member_name><member_id>8524709</member_id></event_hosts_item><event_hosts_item><member_name>Lee Feigenbaum</member_name><member_id>8546101</member_id></event_hosts_item></event_hosts><maybe_rsvp_count>11</maybe_rsvp_count><waitlist_count>0</waitlist_count><updated>1239749281000</updated><rating><average>4.75</average><count>4</count></rating><group><who>Semantic Web Supporters</who><join_mode>open</join_mode><urlname>The-Cambridge-Semantic-Web-Meetup-Group</urlname><id>1336198</id><group_lat>42.3699989319</group_lat><group_lon>-71.0999984741</group_lon><name>Cambridge Semantic Web</name></group><yes_rsvp_count>29</yes_rsvp_count><created>1234311139000</created><visibility>public</visibility><name>RDF in Drupal &amp; SWAN 1.2 Ontology </name><id>9716361</id><headcount>40</headcount><utc_offset>-14400000</utc_offset><time>1236722400000</time><event_url>http://www.meetup.com/The-Cambridge-Semantic-Web-Meetup-Group/events/9716361/</event_url></item>

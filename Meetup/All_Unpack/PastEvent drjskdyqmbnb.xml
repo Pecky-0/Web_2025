@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>	<item><status>past</status><description>&lt;p&gt;This meetup features Max Mether of SkySQL talking about "MariaDB - A MySQL Replacement?" &lt;br /&gt;
+
+ MariaDB has been making successful parallel-to-MySQL-releases since MariaDB 5.1. The feature list is bursting with new features which has helped more &amp;amp; more folk migrate their MySQL instances to MariaDB. This talk will focus on the main feature additions in MariaDB, from MariaDB 5.1 to the flagship MariaDB 5.5 release. This includes features like an improved query optimizer, join optimizations, group-commit, ALTER TABLE progress report etc. A brief overview of coming features for MariaDB 5.6 (and MySQL 5.6) will alse be given.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;------------- Logistics -------------&lt;/p&gt;
+&lt;p&gt;Via public transit, the closest transit stop is Broadway (0.7 miles, or take the #47 bus towards Central Square and get off at the Albany &amp;amp; Randolph street stop). You can also take the SL5 (Silver Line 5) to Washington Street at Union Park, which will get you very close (0.1 miles away).&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;On-street parking is plentiful after about 6:30 pm when most of the area workers go home.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;Free pizza and soda will be served, so please RSVP accurately.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;To RSVP anonymously, please login to the Meetup site with the e-mail address "admin at sheeri dot com" and the password "guest".&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;For more information, see: &lt;a href="http://www.meetup.com/mysqlbos/calendar/"&gt;http://www.meetup.com/mysqlbos/calendar/&lt;/a&gt;&lt;/p&gt;</description><event_hosts><event_hosts_item><member_name>Sheeri Kritzer Cabral</member_name><member_id>2380684</member_id></event_hosts_item></event_hosts><maybe_rsvp_count>0</maybe_rsvp_count><waitlist_count>0</waitlist_count><updated>1347361656000</updated><rating><average>4.0</average><count>1</count></rating><group><who>Boston-Metro MySQL Users</who><join_mode>open</join_mode><urlname>mysqlbos</urlname><id>212864</id><group_lat>42.3400001526</group_lat><group_lon>-71.0699996948</group_lon><name>The Boston MySQL Meetup Group</name></group><yes_rsvp_count>38</yes_rsvp_count><created>1278935593000</created><visibility>public</visibility><name>The Boston MySQL Meetup Group Monthly Meetup</name><id>drjskdyqmbnb</id><headcount>0</headcount><utc_offset>-14400000</utc_offset><time>1347318000000</time><event_url>http://www.meetup.com/mysqlbos/events/33319122/</event_url></item>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>	<item><venue><address_1>200 Quannapowitt Parkway</address_1><state>MA</state><zip>01880</zip><lat>42.521027</lat><repinned>False</repinned><name>Live Webcast</name><city>Wakefield</city><id>10407952</id><country>us</country><lon>-71.085007</lon></venue><status>past</status><description>&lt;p&gt;Par 4 Technology Group, a leading IT consulting company, has teamed up with Cloudera to bring you a live webcast called “ZERO TO HADOOP”. In this session, you will learn:&lt;/p&gt;
+&lt;p&gt;• Tips and Tricks for Hadoop Success &lt;br /&gt;
+
+ • Getting started and extracting value from Hadoop &lt;br /&gt;
+
+ • How to avoid pitfalls &lt;br /&gt;
+
+ • What’s hot and new with Cloudera&lt;/p&gt;
+&lt;p&gt;To register for our session on 11/29 at 2:00pm,&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://www.par4tech.com/zero-to-hadoop-live-webcast/"&gt;http://www.par4tech.com/zero-to-hadoop-live-webcast/&lt;/a&gt;&lt;/p&gt;</description><maybe_rsvp_count>0</maybe_rsvp_count><waitlist_count>0</waitlist_count><updated>1354227057000</updated><rating><average>0.0</average><count>0</count></rating><group><who>Members</who><join_mode>open</join_mode><urlname>bostonhadoop</urlname><id>1535756</id><group_lat>42.3699989319</group_lat><group_lon>-71.0999984741</group_lon><name>Boston Hadoop User Group</name></group><yes_rsvp_count>45</yes_rsvp_count><created>1353424692000</created><visibility>public</visibility><name>Zero to Hadoop live Webcast</name><id>92169362</id><headcount>0</headcount><utc_offset>-18000000</utc_offset><time>1354215600000</time><event_url>http://www.meetup.com/bostonhadoop/events/92169362/</event_url></item>

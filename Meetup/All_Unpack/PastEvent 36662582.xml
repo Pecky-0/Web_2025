@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>	<item><venue><address_2>Suite 100</address_2><address_1>One Memorial Drive</address_1><state>MA</state><zip>02142</zip><lat>42.360794</lat><repinned>False</repinned><phone>857-453.6000</phone><name>Microsoft New England Research &amp; Development Center (NERD)</name><city>Cambridge</city><id>1054297</id><country>us</country><lon>-71.082504</lon></venue><status>past</status><description>&lt;p&gt;&lt;span&gt;Come work on Python projects, get programming help, help others, and hang out. Bring your own project or work on one of the suggested projects below. Staff from the&amp;nbsp;&lt;a href="http://openhatch.org/wiki/Boston_Python_Workshop"&gt;Boston Python Workshop&lt;/a&gt;&amp;nbsp;will be here to help beginning Python programmers with language basics and practice.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt; &lt;br /&gt;
+
+&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;&lt;strong&gt;Audience&lt;/strong&gt;: Everyone! We'll have something for all Python experience levels.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;&lt;strong&gt;When&lt;/strong&gt;: 6:30pm - 9:30pm on Wednesday, February 8th. &lt;br /&gt;
+
+&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;&lt;strong&gt;Location&lt;/strong&gt;: Microsoft NERD&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;One Memorial Drive, Cambridge, MA 02142&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Food&lt;/strong&gt;: Pizza will be provided by the &lt;a href="http://www.microsoft.com/en-us/sqlazurelabs/labs/numerics.aspx"&gt;Cloud Numerics group at MS NERD&lt;/a&gt;. Thanks Cloud Numerics!&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;&lt;strong&gt;Things to bring&lt;/strong&gt;: a wireless-enabled laptop and power cord&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;&lt;strong&gt;&amp;nbsp;&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;&lt;strong&gt;Need some project ideas? How about:&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;&lt;strong&gt;Learning Python&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span&gt;The official Python tutorial:&amp;nbsp;&amp;nbsp;&lt;a href="http://docs.python.org/tutorial/"&gt;http://docs.python.org/tutorial/&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span&gt;How to Think Like a Computer Scientist: Learning with Python:&amp;nbsp;&amp;nbsp;&lt;a href="http://openbookproject.net/thinkcs/python/english2e/"&gt;http://openbookproject.net/thinkcs/python/english2e/&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span&gt;An introduction to Python through writing games:&amp;nbsp;&lt;a href="http://inventwithpython.com/chapters/"&gt;http://inventwithpython.com/chapters/&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span&gt;Learn Python the Hard Way:&amp;nbsp;&lt;a href="http://learnpythonthehardway.org/"&gt;http://learnpythonthehardway.org&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;span&gt;&lt;strong&gt;Projects and competitions&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span&gt;Contribute to an open-source project that uses Python. Developers from&amp;nbsp;&lt;a href="http://openhatch.org/"&gt;OpenHatch&lt;/a&gt;,&amp;nbsp;&lt;a href="http://twistedmatrix.com/"&gt;Twisted&lt;/a&gt;&lt;/span&gt;&lt;span&gt;, and other projects will be here. If you contribute to an open source project that uses Python and want to help new contributors, let us know in a comment!&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span&gt;Use Python to participate in space exploration:&lt;a href="http://spacehack.org/"&gt;http://spacehack.org&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span&gt;Unleash your inner DJ with the&amp;nbsp;&lt;a href="http://code.google.com/p/pyechonest/"&gt;Echo Nest&lt;/a&gt;&amp;nbsp;and&amp;nbsp;&lt;a href="http://code.google.com/p/echo-nest-remix/"&gt;Echo Nest Remix&lt;/a&gt;&amp;nbsp;&lt;/span&gt;&lt;span&gt;APIs&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span&gt;Want to learn a Python web framework? Check out the Django tutorial:&amp;nbsp;&lt;a href="https://docs.djangoproject.com/en/1.3/intro/tutorial01/"&gt;https://docs.djangoproject.com/en/1.3/intro/tutorial01/&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;span&gt;Have more Project Night suggestions? Add them to the&amp;nbsp;&lt;a href="http://openhatch.org/wiki/July_project_night"&gt;wiki&lt;/a&gt;.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;</description><event_hosts><event_hosts_item><member_name>Ned Batchelder</member_name><member_id>1824278</member_id></event_hosts_item><event_hosts_item><member_name>Jessica McKellar</member_name><member_id>14046470</member_id></event_hosts_item></event_hosts><maybe_rsvp_count>0</maybe_rsvp_count><waitlist_count>0</waitlist_count><updated>1329960532000</updated><rating><average>4.76000022888</average><count>21</count></rating><group><who>Pythonistas</who><join_mode>open</join_mode><urlname>bostonpython</urlname><id>469457</id><group_lat>42.3800010681</group_lat><group_lon>-71.1299972534</group_lon><name>The Boston Python User Group</name></group><yes_rsvp_count>93</yes_rsvp_count><created>1318108255000</created><visibility>public</visibility><name>February Project Night</name><id>36662582</id><headcount>0</headcount><utc_offset>-18000000</utc_offset><time>1328743800000</time><rsvp_limit>100</rsvp_limit><event_url>http://www.meetup.com/bostonpython/events/36662582/</event_url></item>

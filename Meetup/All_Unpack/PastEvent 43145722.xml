@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>	<item><venue><address_1>One Cambridge Center 6th Floor</address_1><state>MA</state><zip>02142</zip><lat>42.362488</lat><repinned>False</repinned><name>Dogpatch Labs</name><city>Cambridge</city><id>1531504</id><country>us</country><lon>-71.085335</lon></venue><status>past</status><description>&lt;p&gt;&lt;span style="font-size : large"&gt;&lt;strong&gt;Directions &lt;br /&gt;
+
+&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;The meetup is at One Cambridge Center (&lt;a href="http://bit.ly/vGXAih"&gt;Street View&lt;/a&gt;) in Kendall Sq.&amp;nbsp; &lt;em&gt;The lobby and sidewalk are under construction.&lt;/em&gt;&amp;nbsp; There is a construction sign indicating where (approximately at the A marker in &lt;a href="http://bit.ly/vGXAih"&gt;Street View&lt;/a&gt;) to enter the lobby.&amp;nbsp; Tell the guard you are attending Django Boston meetup at Dogpatch Labs. Take the elevator to the 6th Floor.&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size : large"&gt;&lt;strong&gt;Meetup&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;We invite you to an evening of short lightning talks by the hottest startups in Boston, two of which are&amp;nbsp;&lt;a href="http://techstars.com"&gt;Techstars&lt;/a&gt; companies and two that are working out of the &lt;a href="http://dogpatchlabs.com"&gt;Dogpatch Labs&lt;/a&gt;&amp;nbsp;incubator for startups. Hear how Django helps them to innovate at lightning speed!&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size : large"&gt;&lt;strong&gt;Agenda&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;7:00-7:15 pm - Networking&lt;/p&gt;
+&lt;p&gt;7:15-8:30 pm - Speakers&lt;/p&gt;
+&lt;p&gt;8:30-9:00 pm - More networking&lt;/p&gt;
+&lt;p&gt;9:00 pm - ?? &amp;nbsp;- Drinks at &lt;a href="http://www.yelp.com/biz/meadhall-cambridge"&gt;Mead Hall&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size : large"&gt;&lt;strong&gt;Speakers&lt;/strong&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size : small"&gt;(approx. 10 min per speaker)&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt; &lt;br /&gt;
+
+ &lt;br /&gt;
+
+ Anmol Madan from &lt;a href="http://ginger.io"&gt;Ginger.io&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Ginger.io uses big data from mobile phones to provide providers, patients, caregivers and pharma with insights about real-world patient behavior and health outcomes. Our web platform is based on django and python.&lt;/p&gt;
+&lt;p&gt;In this talk, we'll share how django is used to build our mobile phone API and how we integrate django with our data analysis stack. &amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;James Sullivan from&amp;nbsp;&lt;a href="http://AdmitPad.com"&gt;AdmitPad&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;AdmitPad is a Cambridge startup whose flagship product is the first enterprise iPad application that streamlines the university admissions process. &amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Hear how we deliver an API for our iPad app and custom integrations using Django, Tastypie, MongoDB, and MySQL.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Adam Duston from &lt;a href="http://MyInCrwd.com"&gt;InCrwd&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Adam will explain how Incrwd uses continuous integration with unit and&amp;nbsp;automated functional tests to deploy the Django code behind Incrwd&amp;nbsp;into production several times a day.&lt;/p&gt;
+&lt;p&gt;He'll also explain how Incrwd&amp;nbsp;uses MongoDB for storage, and will show off the experiment system that&amp;nbsp;Incrwd developed for rapidly testing hypotheses for lean product&amp;nbsp;iteration.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;David Zwarg from &lt;a href="http://azavea.com"&gt;Azavea&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;David will introduce python-sld and django-sld, two new python libraries for generating StyledLayerDescriptor XML documents, used to style map images in the popular mapping servers: GeoServer and MapServer.&lt;/p&gt;
+&lt;p&gt;He will touch on a bunch of geodjango fundamentals and mention spatial databases in the course of the introduction.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Nate Aune from NodeRabbit /&amp;nbsp;&lt;a href="http://djangozoom.com"&gt;DjangoZoom&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;For software development teams who value faster time to market, NodeRabbit provides a cloud application platform that combines effortless deployment with scalable and flexible hosting.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Nate will show how to deploy a Django project into production in less than 5 minutes using DjangoZoom, our one-click deployment and hosting platform specifically designed with the needs of Django developers in mind.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Ted Tieken from&amp;nbsp;&lt;a href="http://SittingAround.com"&gt;SittingAround&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Bringing high tech to the (boring) $5 billion dollar babysitting industry. &amp;nbsp;(talk description TBD)&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;span style="font-size : large"&gt;Sponsors&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Thanks to our sponsors &lt;a href="http://dogpatchlabs.com"&gt;Dogpatch Labs&lt;/a&gt; for providing the meeting space, &lt;a href="http://ginger.io"&gt;Ginger.io&lt;/a&gt; for the drinks and &lt;a href="http://www.mosaichub.com/"&gt;mosaicHUB&lt;/a&gt; for the food!&lt;/p&gt;</description><event_hosts><event_hosts_item><member_name>Nate Aune</member_name><member_id>58579</member_id></event_hosts_item></event_hosts><maybe_rsvp_count>0</maybe_rsvp_count><waitlist_count>0</waitlist_count><updated>1328143369000</updated><rating><average>4.82999992371</average><count>6</count></rating><group><who>Djangonauts</who><join_mode>open</join_mode><urlname>djangoboston</urlname><id>1289145</id><group_lat>42.3699989319</group_lat><group_lon>-71.0999984741</group_lon><name>Django Boston Meetup Group</name></group><yes_rsvp_count>50</yes_rsvp_count><created>1322836048000</created><visibility>public</visibility><name>Lightning Talks by Django-using startups</name><id>43145722</id><headcount>0</headcount><utc_offset>-18000000</utc_offset><time>1323993600000</time><event_url>http://www.meetup.com/djangoboston/events/43145722/</event_url></item>

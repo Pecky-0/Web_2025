@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>	<item><venue><address_1>50 Park Plaza at Arlington Street</address_1><state>MA</state><zip>02116</zip><lat>42.350853</lat><repinned>False</repinned><name>The Boston Park Plaza Hotel &amp; Towers</name><city>Boston</city><id>2881861</id><country>us</country><lon>-71.070320</lon></venue><status>past</status><description>&lt;p&gt;&lt;strong&gt;&lt;span&gt;Location:&lt;/span&gt;&lt;/strong&gt; &lt;span&gt;Berkley room - mezzanine level of Park Plaza&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Time:&lt;/strong&gt; from 5:30pm-8pm&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Theme:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Data as a new kind of e&lt;em&gt;lectricity&lt;/em&gt; conducted via &lt;em&gt;hyperlinks&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;Moderator: Kingsley Idehen (@kidehen)&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Agenda:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt; &lt;br /&gt;
+
+1. General state of affairs update re. Linked Data as it applies to: &lt;br /&gt;
+
+-- Data Publishing &lt;br /&gt;
+
+-- Data Consumption  &lt;br /&gt;
+
+-- Applications (e.g., Read-Write Web facilitation via efforts such as the WebID authentication protocol and Web Resource Access Policies &amp;amp; Control) &lt;br /&gt;
+
+ &lt;br /&gt;
+
+ &lt;br /&gt;
+
+2. Demo fest -- I want to encourage attendees to put out a live Linked Data URI, and then have others work with said URI -- think in terms of a relay where a Linked Data URI is the baton .&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;</description><event_hosts><event_hosts_item><member_name>Kingsley Idehen</member_name><member_id>3320828</member_id></event_hosts_item></event_hosts><maybe_rsvp_count>0</maybe_rsvp_count><waitlist_count>0</waitlist_count><updated>1352856846000</updated><rating><average>0.0</average><count>0</count></rating><group><who>members</who><join_mode>open</join_mode><urlname>linkeddata</urlname><id>1470453</id><group_lat>42.5099983215</group_lat><group_lon>-71.1999969482</group_lon><name>Linked Data Meetup</name></group><yes_rsvp_count>7</yes_rsvp_count><created>1352737228000</created><visibility>public</visibility><name>Linked Data Meetup at ISWC 2012</name><id>91057042</id><headcount>0</headcount><utc_offset>-18000000</utc_offset><time>1352845800000</time><event_url>http://www.meetup.com/linkeddata/events/91057042/</event_url></item>

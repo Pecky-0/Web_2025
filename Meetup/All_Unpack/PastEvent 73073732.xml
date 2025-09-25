@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>	<item><venue><address_1>One Memorial Drive</address_1><state>MA</state><zip>02142</zip><lat>42.361406</lat><repinned>False</repinned><phone>857.453.6000</phone><name>Microsoft N.E.R.D. Center</name><city>Cambridge</city><id>1210878</id><country>us</country><lon>-71.081282</lon></venue><status>past</status><description>&lt;p&gt;Join us for the final BostonPHP meetup before the Northeast PHP 2012 Conference in August!&lt;/p&gt;
+&lt;p&gt;Adam Green will lead this session on Twitter API programming with PHP and MySQL. The presentation will take you step by step through the creation of fully functioning Twitter scripts that use the API to manage follow relationships.&lt;/p&gt;
+&lt;p&gt;Last year Adam presented an &lt;a href="http://www.bostonphp.org/events/14451822/?action=detail&amp;amp;eventId=14451822"&gt;overview&lt;/a&gt; of the Twitter API that showed what it was capable of and why you should program with it. Since then we've received many requests for a talk on the technical details of using the API. This month's talk is designed to deliver just that.&lt;/p&gt;
+&lt;p&gt;Attendees should be familiar with basic PHP programming techniques, including interacting with a MySQL database. This will be a technical, code-based talk with complete scripts being presented.&lt;/p&gt;
+&lt;p&gt;Here is what we will cover:&lt;/p&gt;
+&lt;p&gt;- Overview of API rate limits and error handling &lt;br /&gt;
+
+ - Registering an app with Twitter and getting single &lt;br /&gt;
+
+ - User OAuth tokens &lt;br /&gt;
+
+ - Making authorized calls to the REST API &lt;br /&gt;
+
+ - Gathering all friends and followers for a Twitter account &lt;br /&gt;
+
+ - Gathering user account info for all friends and followers &lt;br /&gt;
+
+ - Identifying the friends who are not following back or have not tweeted recently &lt;br /&gt;
+
+ - Unfollowing friends who are no longer desirable&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;Bio:&lt;/p&gt;
+&lt;p&gt;Adam GreenAdam is a Twitter API consultant who has been building apps with Twitter for three years. With 33 years of experience in the software industry, he brings a unique perspective to the issues of modern API-based software development.&lt;/p&gt;
+&lt;p&gt;Adam blogs at &lt;a href="http://140dev.com" class="linkified"&gt;http://140dev.com&lt;/a&gt; and tweets with @140dev.&lt;/p&gt;</description><event_hosts><event_hosts_item><member_name>Bobby Cahill</member_name><member_id>2398004</member_id></event_hosts_item><event_hosts_item><member_name>Gene Babon</member_name><member_id>2410152</member_id></event_hosts_item><event_hosts_item><member_name>Matt Murphy</member_name><member_id>4790321</member_id></event_hosts_item></event_hosts><maybe_rsvp_count>0</maybe_rsvp_count><waitlist_count>0</waitlist_count><updated>1344805565000</updated><rating><average>4.55000019073</average><count>11</count></rating><group><who>Members</who><join_mode>open</join_mode><urlname>bostonphp</urlname><id>120818</id><group_lat>42.3600006104</group_lat><group_lon>-71.0699996948</group_lon><name>Boston PHP</name></group><yes_rsvp_count>102</yes_rsvp_count><created>1342117525000</created><visibility>public</visibility><name>Creating Your First Twitter App: Automated Follow Programming</name><id>73073732</id><duration>10800000</duration><headcount>0</headcount><utc_offset>-14400000</utc_offset><time>1343080800000</time><event_url>http://www.meetup.com/bostonphp/events/73073732/</event_url></item>

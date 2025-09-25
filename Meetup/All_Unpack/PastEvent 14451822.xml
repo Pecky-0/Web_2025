@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>	<item><venue><address_1>One Memorial Drive</address_1><state>MA</state><zip>02142</zip><lat>42.361406</lat><repinned>False</repinned><phone>857.453.6000</phone><name>Microsoft N.E.R.D. Center</name><city>Cambridge</city><id>1210878</id><country>us</country><lon>-71.081282</lon></venue><status>past</status><description>&lt;p&gt;
+&lt;img src="http://photos3.meetupstatic.com/photos/event/e/9/d/f/event_48719871.jpeg" style="max-height : 700px ; max-width : 700px ; margin : 5px ; float : right"&gt;&lt;/img&gt;Join Boston PHP and 
+&lt;a href="http://www.meetup.com/bostonphp/members/12029713/"&gt;Adam Green&lt;/a&gt; in an introduction to Twitter API programming with PHP and MySQL. We will show you how to connect to the Twitter API servers, store tweets and user account info in a MySQL database, and display the data on any website. We will explore advanced topics like ranking Twitter users for influence and automatically following them.&lt;/p&gt;
+&lt;p&gt;The Twitter API is free, and best of all nobody has to approve your Twitter applications before they are released. PHP is a great language for Twitter programming, with its ease of gathering data from a Web API, storing it into a database, and integrating the results of database queries with HTML.
+ &lt;br /&gt;
+ &lt;br /&gt;With the techniques you will learn here, you&amp;rsquo;ll understand what it takes to write your own Twitter apps for a Web startup or deliver custom Twitter functionality to your clients.&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Here is what we will cover:&lt;/li&gt;
+  &lt;li&gt;Types of data and functionality available from the Twitter API&lt;/li&gt;
+  &lt;li&gt;How to create your first Twitter application&lt;/li&gt;
+  &lt;li&gt;Gathering tweets in real-time for keywords or from selected users&lt;/li&gt;
+  &lt;li&gt;Creating a Twitter database cache for optimum query performance&lt;/li&gt;
+  &lt;li&gt;Data mining a Twitter database to identify trends and top users&lt;/li&gt;
+  &lt;li&gt;Code architecture for putting tweets into web pages for serious Google SEO juice&lt;/li&gt;
+  &lt;li&gt;Programming Twitter accounts with scheduled tweets and automated following&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;If you want to integrate Twitter data into websites for SEO, or you need to automate a Twitter marketing and sales program - then this is for you.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;hr&gt;&lt;/hr&gt;
+&lt;p&gt;
+&lt;strong&gt;
+&lt;a href="http://zendcon.com"&gt;
+  &lt;img src="http://photos2.meetupstatic.com/photos/sponsor/c/a/0/9/iab120x90_351721.jpeg" style="max-height : 700px ; max-width : 700px ; margin : 5px ; float : right"&gt;&lt;/img&gt;
+&lt;/a&gt;Free Ticket to the Zend PHP Conference:
+ &lt;br /&gt;&lt;/strong&gt;We will be raffling off one free ticket (worth $1,000) to the 
+&lt;a href="http://zendcon.com/"&gt;
+  &lt;span&gt;Zend PHP Conference (ZendCon)&lt;/span&gt;
+&lt;/a&gt;&amp;nbsp;to&amp;nbsp;be held on October 17-20, 2011, at the Convention Center in Santa Clara, California.&lt;/p&gt;
+&lt;p&gt;This is one of the hottest PHP&amp;nbsp;conferences&amp;nbsp;around and you don't want to miss a chance to get in for free.&amp;nbsp;If your interested, and can get yourself to California, then make sure you RSVP and attend this&amp;nbsp;event. We will put your name in a hat and draw a lucky winner.&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;The Zend PHP Conference (ZendCon) is the largest gathering of the PHP Community and brings together PHP developers and IT managers from around the world to discuss PHP best practices and explore new technologies.&lt;/p&gt;
+&lt;hr&gt;&lt;/hr&gt;
+&lt;p&gt;
+&lt;strong&gt;Agenda:&lt;/strong&gt;
+ &lt;br /&gt;6:00 - 7:00 : Doors open, socializing, BoothCamp
+ &lt;br /&gt;7:00 - 7:15 : Announcements
+ &lt;br /&gt;7:15 - 8:45 : Presentation
+ &lt;br /&gt;8:45 - 9:00 : Questions
+ &lt;br /&gt;9:00 - ???? : Beers somewhere?&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;</description><event_hosts><event_hosts_item><member_name>Michael Bourque</member_name><member_id>5046031</member_id></event_hosts_item><event_hosts_item><member_name>Adam Green</member_name><member_id>12029713</member_id></event_hosts_item></event_hosts><maybe_rsvp_count>0</maybe_rsvp_count><waitlist_count>0</waitlist_count><updated>1316191220000</updated><rating><average>4.69999980927</average><count>30</count></rating><group><who>Members</who><join_mode>open</join_mode><urlname>bostonphp</urlname><id>120818</id><group_lat>42.3600006104</group_lat><group_lon>-71.0699996948</group_lon><name>Boston PHP</name></group><yes_rsvp_count>223</yes_rsvp_count><created>1282069695000</created><visibility>public</visibility><name>Learn Twitter API Programming</name><id>14451822</id><headcount>150</headcount><utc_offset>-14400000</utc_offset><time>1316037600000</time><rsvp_limit>250</rsvp_limit><event_url>http://www.meetup.com/bostonphp/events/14451822/</event_url></item>

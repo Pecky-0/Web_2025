@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>	<item><venue><address_1>221 Pine St, Suite 354</address_1><state>MA</state><zip>01062</zip><lat>42.331566</lat><repinned>False</repinned><name>Knector Design</name><city>Florence</city><id>10933432</id><country>us</country><lon>-72.678307</lon></venue><status>past</status><description>&lt;p&gt;&lt;a href="http://groups.drupal.org/node/293408"&gt;Link here to Western Mass Drupal Users Group&lt;/a&gt;&lt;/p&gt;
+Deployment Extravaganza 
+&lt;p&gt;Various people will me demonstrating their Drupal deployment methods, including Database updates and configuration changes. &lt;br /&gt;
+
+ 10-15 min demos. Talking about what they like and what they wish their method had.&lt;/p&gt;
+Current methods covered: 
+&lt;ul&gt;
+&lt;li&gt;Springloops - Josh Beauregard (sanguis)&lt;/li&gt;
+&lt;li&gt;Left Click Scripted method - Rob Bayliss?/Kelly Albrecht&lt;/li&gt;
+&lt;li&gt;Pantheon - Thomas Fleming?&lt;/li&gt;
+&lt;li&gt;Capistrano - Josh Beauregard (I don't used this method but I am willing to demo it, would someone who uses it be willing to take this on?)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;YOUR METHOD! - Your comment bellow to add your method, whether it be custom or commercial.&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+SASS (Syntactically Awesome Style Sheets) 
+&lt;p&gt;&lt;strong&gt;Aaron Smith - Common Media&lt;/strong&gt; &lt;br /&gt;
+
+ SASS (Syntactically Awesome Style Sheets) is a CSS preprocessor which takes SASS code - resembling nested CSS, variables, and mixins (or "chunks" of style rules) and generates plain old CSS. SASS is incredibly easy to learn and use, and improves the readability and maintainability of your stylesheets by roughly one million percent. You can start using it with any project, fresh or legacy.&lt;/p&gt;</description><how_to_find_us>Main Door, 3rd Floor, suite 354, follow signs</how_to_find_us><event_hosts><event_hosts_item><member_name>Josh</member_name><member_id>49056772</member_id></event_hosts_item></event_hosts><maybe_rsvp_count>0</maybe_rsvp_count><waitlist_count>0</waitlist_count><updated>1368114215000</updated><rating><average>5.0</average><count>1</count></rating><group><who>Developers</who><join_mode>open</join_mode><urlname>nohowebdev</urlname><id>540457</id><group_lat>42.3199996948</group_lat><group_lon>-72.6399993896</group_lon><name>Northampton Web Developers/ Web Designers Meetup Group</name></group><yes_rsvp_count>6</yes_rsvp_count><created>1365691758000</created><visibility>public</visibility><name>Western Mass Drupal Users Group - Florence</name><id>113830242</id><headcount>11</headcount><utc_offset>-14400000</utc_offset><time>1368050400000</time><event_url>http://www.meetup.com/nohowebdev/events/113830242/</event_url></item>

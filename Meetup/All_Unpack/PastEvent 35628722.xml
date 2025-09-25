@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>	<item><venue><address_1>One Memorial Drive</address_1><state>MA</state><zip>02142</zip><lat>42.361406</lat><repinned>False</repinned><phone>857.453.6000</phone><name>Microsoft N.E.R.D. Center</name><city>Cambridge</city><id>1210878</id><country>us</country><lon>-71.081282</lon></venue><status>past</status><description>&lt;p&gt;&lt;img src="http://www.christophdorn.com/wordpress/wp-content/uploads/2009/04/firephp_large.png" style="max-height : 700px ; max-width : 700px ; margin : 5px ; float : right"&gt;&lt;/img&gt;Since its inception in 2007 &lt;a href="http://www.firephp.org/"&gt;FirePHP&lt;/a&gt; has been on a mission to provide a better debugging experience to PHP developers. The original FirePHP Extension + Server Library provided a simple way to log from PHP to the Firebug Console which has proven especially useful for ajax development. &lt;br /&gt;
+
+ &lt;br /&gt;
+
+ Over the years, a lot has changed in the PHP and wider web-development community and the need for better tooling is becoming more apparent every day. One such aspect is the need for a debugging system that not only works during development but also when applications are deployed in the cloud.&lt;/p&gt;
+&lt;p&gt;&lt;img src="http://photos1.meetupstatic.com/photos/member/1/b/a/a/member_25627082.jpeg" style="max-height : 700px ; max-width : 700px ; margin : 5px ; float : right"&gt;&lt;/img&gt;&lt;/p&gt;
+&lt;p&gt;Join Boston PHP and the creator of FirePHP &lt;a href="http://www.meetup.com/bostonphp/members/1969727/"&gt;Christoph Dorn&lt;/a&gt; as we explore what &lt;a href="http://sourcemint.com/github.com/firephp/firephp/1"&gt;FirePHP 1.0&lt;/a&gt; has to offer and get ready for some big changes in the way we develop code.&lt;/p&gt;
+&lt;p&gt;Christoph has spent the last few years catching up with the advances in the JavaScript community (especially CommonJS) in order to build a new kind of portable debugging system that allows for tight integration between developer tools and applications. FirePHP 1.0 is the PHP interface to an open source distributed debugging and development system that has the potential to change the way you work with PHP.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Want more? Christoph will also be presenting at:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Friday, October 14, 2011, 6:30 PM&lt;a href="http://www.meetup.com/javascript-2/events/34599802/"&gt; &lt;br /&gt;
+
+ Using CommonJS with PINF JavaScript Loader&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span&gt;&lt;span&gt;Saturday, October 15, 2011, 10:30 AM&lt;a href="http://wakanday.org/sessions"&gt; &lt;br /&gt;
+
+ CommonJS Everywhere&lt;/a&gt; &lt;br /&gt;
+
+&lt;/span&gt;&lt;/span&gt; 
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</description><event_hosts><event_hosts_item><member_name>Christoph Dorn</member_name><member_id>1969727</member_id></event_hosts_item><event_hosts_item><member_name>Matt Murphy</member_name><member_id>4790321</member_id></event_hosts_item><event_hosts_item><member_name>Michael Bourque</member_name><member_id>5046031</member_id></event_hosts_item></event_hosts><maybe_rsvp_count>0</maybe_rsvp_count><waitlist_count>0</waitlist_count><updated>1318773707000</updated><rating><average>4.44000005722</average><count>9</count></rating><group><who>Members</who><join_mode>open</join_mode><urlname>bostonphp</urlname><id>120818</id><group_lat>42.3600006104</group_lat><group_lon>-71.0699996948</group_lon><name>Boston PHP</name></group><yes_rsvp_count>129</yes_rsvp_count><created>1317409544000</created><visibility>public</visibility><name>Introduction to FirePHP 1.0</name><id>35628722</id><headcount>100</headcount><utc_offset>-14400000</utc_offset><time>1318456800000</time><event_url>http://www.meetup.com/bostonphp/events/35628722/</event_url></item>

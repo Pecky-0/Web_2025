@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>	<item><venue><address_1>1 Broadway</address_1><state>MA</state><zip>02142</zip><lat>42.363068</lat><repinned>False</repinned><name>Cambridge Innovation Center</name><city>Cambridge</city><id>5488072</id><country>us</country><lon>-71.083893</lon></venue><status>past</status><description>&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;Nermin Serifovic will talk about d&lt;span&gt;istributing your Java Collections with Hazelcast&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Hazelcast&lt;/strong&gt; is an open source clustering and highly scalable data distribution platform for Java, which is:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Lightning-fast&lt;/strong&gt;, executing thousands of operations/sec.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Fail-safe&lt;/strong&gt;, as no data is lost after crashes.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Dynamically scales&lt;/strong&gt; as new servers are added.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Super-easy to use&lt;/strong&gt;, by only requiring a single jar to be included as part of installation process.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;In this talk Nermin will first give a quick introduction to data grids and then present features and capabilities of Hazelcast, while also emphasizing its strengths and weaknesses. Furthermore, he will show its main use cases and finally demo how to develop with Hazelcast by building a small data grid from scratch.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;span&gt;&lt;strong&gt;Nermin Serifovic&lt;/strong&gt; has 10 years of experience building enterprise software applications using Java technologies. For the past 5 years he has focused on architecting, designing and developing backend platforms.&lt;/span&gt; &lt;span&gt;He currently works for Boston Technologies as a Lead Software Engineer and occasionally speaks at conferences and user group meetings on Java related topics.&lt;/span&gt; Nermin holds a MEng in Computer Science from Cornell University. His areas of interest include concurrent and parallel programming along with functional programming.&lt;/p&gt;
+&lt;p&gt; &lt;br /&gt;
+
+ &lt;br /&gt;
+
+&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;</description><event_hosts><event_hosts_item><member_name>Burc Oral</member_name><member_id>4238999</member_id></event_hosts_item></event_hosts><maybe_rsvp_count>0</maybe_rsvp_count><waitlist_count>0</waitlist_count><updated>1345597941000</updated><rating><average>4.07999992371</average><count>13</count></rating><group><who>Java Developers</who><join_mode>open</join_mode><urlname>boston-java</urlname><id>87071</id><group_lat>42.3699989319</group_lat><group_lon>-71.0999984741</group_lon><name>The Boston Java Meetup Group</name></group><yes_rsvp_count>121</yes_rsvp_count><created>1335919736000</created><visibility>public</visibility><name>Java and Data Distribution: Open Source Clustering with Hazelcast</name><id>63011362</id><headcount>45</headcount><utc_offset>-14400000</utc_offset><time>1342564200000</time><rsvp_limit>150</rsvp_limit><event_url>http://www.meetup.com/boston-java/events/63011362/</event_url></item>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>	<item><venue><address_1>373 Washington Street, 02128</address_1><state>MA</state><zip>02111</zip><lat>42.356316</lat><repinned>False</repinned><name>SignedOn</name><city>Boston</city><id>3988352</id><country>us</country><lon>-71.059532</lon></venue><status>past</status><description>&lt;p&gt;&lt;img src="http://photos1.meetupstatic.com/photos/event/a/8/a/e/event_100903182.jpeg" style="max-height : 700px ; max-width : 700px ; margin : 5px ; float : left"&gt;&lt;/img&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Should you use CoffeeScript in your web application?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;CoffeeScript is a programming language that compiles into JavaScript and has been steadily rising in popularity since its release two years ago.&lt;/p&gt;
+&lt;p&gt;Adam Buggia (&lt;a href="https://twitter.com/#!/abuggia"&gt;@abuggia&lt;/a&gt;) is an Engineering Director at &lt;a href="http://www.localytics.com/"&gt;Localytics&lt;/a&gt; where he implements front-end functionality using CoffeeScript.&lt;/p&gt;
+&lt;p&gt;Adam will highlight some of the advantages of using CoffeeScript and take you through the decision process to use CoffeeScript in their&amp;nbsp;mobile analytics dashboard.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;After the presentation | demonstration, we will go around the room introducing ourselves and asking the group for advice | opinions on any JavaScript-related issues members are facing.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;This meeting is being hosted by SignedOn&lt;/strong&gt;, located on Floor 4 at 373 Washington St, Down-Town Crossing,&amp;nbsp;MA. A one minute walk from State T station. You can use the map on &lt;a href="http://signedon.com/"&gt;http://signedon.com/&lt;/a&gt; to see where the closest parking spots are.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;About Coffee Script&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;CoffeeScript is a little language that compiles into JavaScript.&amp;nbsp;Underneath all those awkward braces and semicolons, JavaScript has always had a gorgeous object model at its heart. CoffeeScript is an attempt to expose the good parts of JavaScript in a simple way.&lt;strong&gt; &lt;br /&gt;
+
+&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://coffeescript.org/"&gt;http://coffeescript.org/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Check out some of the apps and sites that Coffee script being used in today:&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;CloudApp&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;CloudApp allows you to share&amp;nbsp;&lt;/span&gt;images,&amp;nbsp;links,&amp;nbsp;music,&amp;nbsp;videosand&amp;nbsp;files.&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://getcloudapp.com/"&gt;http://getcloudapp.com/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;WebGLCraft&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;WebGL implementation of&amp;nbsp;&lt;a href="http://www.minecraft.net/"&gt;Minecraft&lt;/a&gt;&amp;nbsp;written in&amp;nbsp;&lt;a href="http://jashkenas.github.com/coffee-script/"&gt;Coffeescript&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;&lt;a href="http://danielribeiro.github.com/WebGLCraft/"&gt;http://danielribeiro.github.com/WebGLCraft/&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Posterous&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;A blogging platform. Used CoffeeScript to create its revamped "Spaces" front-end.&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;&lt;a href="https://posterous.com/"&gt;https://posterous.com/&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;EtherCalc&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;Massively multiplayer online spreadsheet. (CoffeeScript + Zappa.js)&lt;strong&gt; &lt;br /&gt;
+
+&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;&lt;a href="http://www.ethercalc.org/start"&gt;http://www.ethercalc.org/start&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;</description><event_hosts><event_hosts_item><member_name>Alistair MacDonald</member_name><member_id>9070213</member_id></event_hosts_item></event_hosts><maybe_rsvp_count>0</maybe_rsvp_count><waitlist_count>0</waitlist_count><updated>1333384293000</updated><rating><average>3.5</average><count>6</count></rating><group><who>JavaScripters</who><join_mode>open</join_mode><urlname>javascript-2</urlname><id>884541</id><group_lat>42.3499984741</group_lat><group_lon>-71.0400009155</group_lon><name>The Boston JavaScript Meetup Group</name></group><yes_rsvp_count>94</yes_rsvp_count><created>1331142800000</created><visibility>public</visibility><name>Choosing CoffeeScript</name><id>55375282</id><headcount>0</headcount><utc_offset>-14400000</utc_offset><time>1333060200000</time><rsvp_limit>100</rsvp_limit><event_url>http://www.meetup.com/javascript-2/events/55375282/</event_url></item>

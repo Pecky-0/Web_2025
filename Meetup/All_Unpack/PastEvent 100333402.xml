@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>	<item><venue><address_1>MIT campus</address_1><state>MA</state><zip>02142</zip><lat>42.358814</lat><repinned>True</repinned><name>MIT room 2-135</name><city>Cambridge</city><id>11358592</id><country>us</country><lon>-71.090416</lon></venue><status>past</status><description>&lt;p&gt;In preparation for his PyCon tutorial, Allen will rehearse it for Boston Python members.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Allen Downey&lt;/strong&gt;, &lt;em&gt;&lt;a href="https://us.pycon.org/2013/schedule/presentation/21/"&gt;Bayesian statistics made simple&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p style="padding-left : 30px"&gt;Bayesian statistical methods are becoming more common and more important, but there are not many resources to help beginners get started.  People who know Python can use their programming skills to get a head start.&lt;/p&gt;
+&lt;p style="padding-left : 30px"&gt;I will present simple programs that demonstrate the concepts of Bayesian statistics, and apply them to a range of example problems.  Participants will work hands-on with example code and practice on example problems.&lt;/p&gt;
+&lt;p style="padding-left : 30px"&gt;Students should have at least basic Python and basic statistics.  If you learned about Bayes’s Theorem and probability distributions at some time, that’s enough, even if you don’t remember it!&lt;/p&gt;
+&lt;p style="padding-left : 30px"&gt;Students should bring a laptop with Python 2.x and matplotlib.  You can work in any environment; you just need to be able to download a Python program and run it.&lt;/p&gt;
+&lt;p style="padding-left : 30px"&gt;Outline:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Bayes’s theorem.&lt;/li&gt;
+&lt;li&gt;Representing probability distributions.&lt;/li&gt;
+&lt;li&gt;Bayesian estimation.&lt;/li&gt;
+&lt;li&gt;Biased coins and student test scores.&lt;/li&gt;
+&lt;li&gt;Censored data.&lt;/li&gt;
+&lt;li&gt;The locomotive / German tank problem.&lt;/li&gt;
+&lt;li&gt;Hierarchical models and the hidden species problem.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Important: to prepare, follow the instructions at &lt;a href="https://sites.google.com/site/simplebayes/home/pycon-2013/preparation"&gt;https://sites.google.com/site/simplebayes/home/pycon-2013/preparation&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;&lt;/hr&gt;
+&lt;p&gt;PyCon tutorials are half-day in-depth courses presented in the days preceding the bulk of PyCon.  Rehearsing with a real audience is a great way to prepare.  Come ready to learn, and also to provide feedback!&lt;/p&gt;
+&lt;p&gt;Note: Space is very limited for these events, &lt;em&gt;&lt;strong&gt;please do not sign up for more than one, to give others a chance.&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;No food is being provided at this event.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Location:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;We are in an MIT classroom, 2-135, which is in Building 2, first floor.  This map shows where building 2 is:  &lt;a href="http://whereis.mit.edu/?go=2"&gt;http://whereis.mit.edu/?go=2&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;* The closest T stop is the Kendall T stop on the Red Line. &lt;br /&gt;
+
+ * The closest bus stop is the 84 Massachusetts Avenue stop on the #1. &lt;br /&gt;
+
+ * There is paid garage parking at 5 Cambridge Center and at 1 Kendall Square (by the Kendall Square Cinema).&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;</description><how_to_find_us>Use this MIT map: http://whereis.mit.edu/?go=2</how_to_find_us><event_hosts><event_hosts_item><member_name>Ned Batchelder</member_name><member_id>1824278</member_id></event_hosts_item></event_hosts><maybe_rsvp_count>0</maybe_rsvp_count><waitlist_count>36</waitlist_count><updated>1359913144000</updated><rating><average>4.40000009537</average><count>5</count></rating><group><who>Pythonistas</who><join_mode>open</join_mode><urlname>bostonpython</urlname><id>469457</id><group_lat>42.3800010681</group_lat><group_lon>-71.1299972534</group_lon><name>The Boston Python User Group</name></group><yes_rsvp_count>30</yes_rsvp_count><created>1358566031000</created><visibility>public</visibility><name>PyCon tutorial: Bayesian statistics made simple</name><id>100333402</id><headcount>0</headcount><duration>14400000</duration><utc_offset>-18000000</utc_offset><time>1359223200000</time><rsvp_limit>31</rsvp_limit><event_url>http://www.meetup.com/bostonpython/events/100333402/</event_url></item>

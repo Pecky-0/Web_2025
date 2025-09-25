@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>	<item><venue><address_2>Suite 100</address_2><address_1>One Memorial Drive</address_1><state>MA</state><zip>02142</zip><lat>42.360794</lat><repinned>False</repinned><phone>857-453.6000</phone><name>Microsoft New England Research &amp; Development Center (NERD)</name><city>Cambridge</city><id>1054297</id><country>us</country><lon>-71.082504</lon></venue><status>past</status><description>&lt;p&gt;We have a short presentation about PLY, and then LIGHTNING TALKS. Thanks to &lt;a href="http://custommade.com"&gt;&lt;strong&gt;CustomMade&lt;/strong&gt;&lt;/a&gt; for sponsoring pizza, and &lt;strong&gt;Carbonite&lt;/strong&gt; for sponsoring drinks afterwards!&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Parsing with PLY,&lt;/strong&gt; &lt;em&gt;Johnny Healey&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;This talk will provide an introduction to PLY, a python-based implementation of lex and yacc. There will be a brief summary of what lexer and parser generators are and when they are appropriate to use. The talk will then proceed into a tutorial of how PLY can be used to construct a parser. Demonstration examples will revolve around the creation of a simple engine for processing the bbcode markup language.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;LIGHTNING TALKS&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;We have a variety of lightning talks planned, including:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Making snowflakes with Python&lt;/li&gt;
+&lt;li&gt;Check.io&lt;/li&gt;
+&lt;li&gt;Descriptors&lt;/li&gt;
+&lt;li&gt;Blood Analysis&lt;/li&gt;
+&lt;li&gt;Economic simulation with open government data&lt;/li&gt;
+&lt;li&gt;Python anti-patterns&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;&lt;strong&gt;And more...&lt;/strong&gt;&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;I don't know how many we'll be able to squeeze in, but it should be a great night!  We'll be doing more lightning talks at future events, so if your talk doesn't fit, don't worry, there will be more opportunities.&lt;/p&gt;</description><event_hosts><event_hosts_item><member_name>Ned Batchelder</member_name><member_id>1824278</member_id></event_hosts_item><event_hosts_item><member_name>Jason Michalski</member_name><member_id>11950252</member_id></event_hosts_item></event_hosts><maybe_rsvp_count>0</maybe_rsvp_count><waitlist_count>0</waitlist_count><updated>1367890032000</updated><rating><average>4.86000013351</average><count>14</count></rating><group><who>Pythonistas</who><join_mode>open</join_mode><urlname>bostonpython</urlname><id>469457</id><group_lat>42.3800010681</group_lat><group_lon>-71.1299972534</group_lon><name>The Boston Python User Group</name></group><yes_rsvp_count>156</yes_rsvp_count><created>1351824845000</created><visibility>public</visibility><name>Parsing with PLY *and* LIGHTNING TALKS</name><id>89590252</id><headcount>115</headcount><duration>7200000</duration><utc_offset>-14400000</utc_offset><time>1366844400000</time><rsvp_limit>180</rsvp_limit><event_url>http://www.meetup.com/bostonpython/events/89590252/</event_url></item>

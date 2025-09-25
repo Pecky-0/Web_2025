@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>	<item><venue><address_1>1 Broadway</address_1><state>MA</state><zip>02142</zip><lat>42.363068</lat><repinned>False</repinned><name>Venture Cafe @ Cambridge Innovation Center (CIC), 4th Floor</name><city>Cambridge</city><id>4733032</id><country>us</country><lon>-71.083893</lon></venue><status>past</status><description>&lt;p&gt;Our goal is to implement a few apps, using publicly available APIs. You can propose apps, code them, or just be an observer. PHP, Java, Python, Ruby, C++, FORTRAN, or COBOL (just kidding!) are all welcome!&lt;/p&gt;
+&lt;p&gt;If you want to code, please go through the APIs below.&lt;/p&gt;
+&lt;p&gt;Agenda:&lt;/p&gt;
+&lt;p&gt;Step 1: Get to know each other&lt;/p&gt;
+&lt;p&gt;Step 2: Get to know proposed applications&lt;/p&gt;
+&lt;p&gt;Step 3: Divide into groups of 3-4 to finish the apps&lt;/p&gt;
+&lt;p&gt;Step 4: Discussion about how to finish the rest&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;Please, use the following API docs:&lt;/p&gt;
+&lt;p&gt;1. &lt;a href="https://www.bigml.com/" class="linkified"&gt;https://www.bigml.com/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;2. &lt;a href="https://cloud.google.com/products/more-products" class="linkified"&gt;https://cloud.google.com/products/more-products&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;</description><how_to_find_us>We will meet at the reception of 1 Broadway, and go to Tijuana at 5th or Venture cafe at 4th. Please, call me at 214-714-2224 if you cannot enter.</how_to_find_us><event_hosts><event_hosts_item><member_name>Subhankar Ray</member_name><member_id>9261089</member_id></event_hosts_item></event_hosts><maybe_rsvp_count>0</maybe_rsvp_count><waitlist_count>0</waitlist_count><updated>1355886635000</updated><rating><average>0.0</average><count>0</count></rating><group><who>Predictive Hackers</who><join_mode>open</join_mode><urlname>Predictive-Analytics</urlname><id>1506004</id><group_lat>42.3699989319</group_lat><group_lon>-71.0899963379</group_lon><name>Boston Hacking Predictive Analytics App</name></group><yes_rsvp_count>14</yes_rsvp_count><created>1355160428000</created><visibility>public</visibility><name>Hackathon: Develop/MapReduce Your Dream Predictive Analytics/BigData App.</name><id>qzxwxdyqqbwb</id><headcount>0</headcount><utc_offset>-18000000</utc_offset><time>1355875200000</time><rsvp_limit>16</rsvp_limit><event_url>http://www.meetup.com/Predictive-Analytics/events/94828702/</event_url></item>

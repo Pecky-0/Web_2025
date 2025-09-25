@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>	<item><venue><address_1>15 Cypress Street </address_1><state>MA</state><zip>02459</zip><lat>42.328850</lat><repinned>False</repinned><name>Cantina</name><city>Newton Center</city><id>2475571</id><country>us</country><lon>-71.194901</lon></venue><status>past</status><description>&lt;p&gt;Hi All,&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;Sorry for the short notice on this one, all, but this should be a good one.  Burt Beckwith has graciously volunteered to give us not one, but two shorter presentations.  They will be:&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;"The Grails Cache Plugins" &lt;br /&gt;
+
+ &lt;br /&gt;
+
+ The new Grails cache plugins build on the Spring 3.1 Caching API to provide easy and transparent caching to Grails applications. Using annotations and GSP tags you can quickly configure service method, controller action, and page fragment caching to help your application scale by avoiding regenerating expensive responses and method calls. &lt;br /&gt;
+
+ &lt;br /&gt;
+
+ This talk will demonstrate usage of the plugins and dig into the implementation details to show you what's available and how you can score quick performance wins. &lt;br /&gt;
+
+ &lt;br /&gt;
+
+ "Under the Hood: Using Spring in Grails" &lt;br /&gt;
+
+ &lt;br /&gt;
+
+ The Spring framework makes up the core of Grails, providing bean management, dependency injection and transaction support. Grails controllers and the web tier use and extend Spring MVC. In this talk we'll look at a "configuration over convention" approach to access the full power of Spring in Grails.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;For this meetup, we'll be back at the Cantina office in Newton. Show will start at 7; doors open @ 6:30.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;Hope to see you all there!&lt;/p&gt;</description><how_to_find_us>Up the stairs on the right</how_to_find_us><event_hosts><event_hosts_item><member_name>Steve Pember</member_name><member_id>9587085</member_id></event_hosts_item><event_hosts_item><member_name>Cantina</member_name><member_id>9589628</member_id></event_hosts_item></event_hosts><maybe_rsvp_count>0</maybe_rsvp_count><waitlist_count>0</waitlist_count><updated>1347026347000</updated><rating><average>4.80000019073</average><count>5</count></rating><group><who>Members</who><join_mode>open</join_mode><urlname>Grails-Boston</urlname><id>1458975</id><group_lat>42.3499984741</group_lat><group_lon>-71.0400009155</group_lon><name>Boston Grails Users' Group</name></group><yes_rsvp_count>39</yes_rsvp_count><created>1346111008000</created><visibility>public</visibility><name>An evening with Burt: Two excellent presenations</name><id>79646822</id><headcount>0</headcount><utc_offset>-14400000</utc_offset><time>1346972400000</time><rsvp_limit>45</rsvp_limit><event_url>http://www.meetup.com/Grails-Boston/events/79646822/</event_url></item>

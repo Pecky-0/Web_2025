@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>	<item><venue><address_1>8 Cambridge Center</address_1><state>MA</state><zip>02142</zip><lat>42.364399</lat><repinned>False</repinned><name>Akamai Technologies Inc</name><city>Cambridge</city><id>7383132</id><country>us</country><lon>-71.088951</lon></venue><status>past</status><description>&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;span style="color : #800080 ; font-size : large"&gt;&lt;strong&gt;Two developer talks&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;span style="color : #ff9900"&gt;&lt;strong&gt;Java and UI: Sencha GXT&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Sencha GXT is a JavaScript front end that is written in java but compiled to JavaScript. It is built on the google get framework and has solid server communications protocols such as asynchronous call as well as RPC. However instead of using the get front end library it has it own rich UI library. It also includes a charting library. Java developers often struggle with non-java front ends such as JavaScript etc. CMX build an RIA for the financial industry using gxt. As the feedback was very positive. If its of interest to your members I'd be willing to provide a full demo walk through of our experience using Sencha GXT including pros and cons.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sheamus McGovern&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;Sheamus McGovern is the CTO of a a financial service start-up&lt;/span&gt; &lt;br /&gt;
+
+&lt;span&gt;in Boston called Capital Market Exchange (CMX).  CMX uses predictive&lt;/span&gt; &lt;br /&gt;
+
+&lt;span&gt;analytics to offer bond pricing to the capital markets.  He's worked&lt;/span&gt; &lt;br /&gt;
+
+&lt;span&gt;in financial services  for the last 15 year building trading and hedge&lt;/span&gt; &lt;br /&gt;
+
+&lt;span&gt;fund software platforms and has been programming java for much of that&lt;/span&gt; &lt;br /&gt;
+
+&lt;span&gt;time.  He holds a BS in Electrical Engineering for Northeastern and a&lt;/span&gt; &lt;br /&gt;
+
+&lt;span&gt;master in computer science from BU.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="color : #ff9900"&gt;&lt;strong&gt;Java and UI: Modularization&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;HTTP wasn't designed for high volume. Modularizing web applications can take you to a place where you'll have a bunch of small (&amp;lt;100bytes) javascript and css files. To optimize file transfer and avoid multiple HTTP requests you can use a build process to concatenate and minify your files or write a servlet to do it during runtime. This presentation  will show both approaches and discuss what are the pros and cons for each one.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;span&gt;&lt;span&gt;&lt;strong&gt;Vinicius Isola&lt;/strong&gt; is an experienced Java developer who has worked on many different types of projects, from server side to mobile applications. He spend a lot of his spare time researching web application design, modularization and optimization.&lt;/span&gt; &lt;br /&gt;
+
+&lt;/span&gt;&lt;/p&gt;</description><event_hosts><event_hosts_item><member_name>Burc Oral</member_name><member_id>4238999</member_id></event_hosts_item></event_hosts><maybe_rsvp_count>0</maybe_rsvp_count><waitlist_count>0</waitlist_count><updated>1355325644000</updated><rating><average>3.25</average><count>4</count></rating><group><who>Java Developers</who><join_mode>open</join_mode><urlname>boston-java</urlname><id>87071</id><group_lat>42.3699989319</group_lat><group_lon>-71.0999984741</group_lon><name>The Boston Java Meetup Group</name></group><yes_rsvp_count>69</yes_rsvp_count><created>1352068135000</created><visibility>public</visibility><name>Java and UI: Sencha GXT &amp; Modularization</name><id>89956572</id><headcount>0</headcount><utc_offset>-18000000</utc_offset><time>1355270400000</time><event_url>http://www.meetup.com/boston-java/events/89956572/</event_url></item>

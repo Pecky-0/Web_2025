@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>	<item><venue><address_1>One Memorial Drive</address_1><state>MA</state><zip>02142</zip><lat>42.361290</lat><repinned>False</repinned><name>Microsoft  NERD New England Research &amp; Development Center </name><city>Cambridge</city><id>1626763</id><country>us</country><lon>-71.081192</lon></venue><status>past</status><description>&lt;p&gt;Hello everyone, our next 2 meetups have been combined.&lt;/p&gt;
+&lt;p&gt;Agenda&amp;nbsp;1. (80% of our time will be spent on this)&lt;/p&gt;
+&lt;p&gt;MapReduce Vs. GraphLab&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;In our last meeting, some suggested to take simple computations like linear regression or K-means clustering, and size of the inputs, and predict the right framework (without writing any code) for the computations. Depending on the size of the input, serial computation may be good enough.&lt;/p&gt;
+&lt;p&gt;Input to the discussion is :&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://www.select.cs.cmu.edu/publications/paperdir/uai2010-low-gonzalez-kyrola-bickson-guestrin-hellerstein.pdf"&gt;http://www.select.cs.cmu.edu/publications/paperdir/uai2010-low-gonzalez-kyrola-bickson-guestrin-hellerstein.pdf&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;We could also consider Pregel/GoldenOrb ( good idea from Alec Segal): &lt;br /&gt;
+
+&lt;a href="http://www-bd.lip6.fr/ens/grbd2011/extra/SIGMOD10_pregel.pdf" target="_blank"&gt;http://www-bd.lip6.fr/ens/grbd2011/extra/SIGMOD10_pregel....&lt;/a&gt;&lt;img src="http://img1.meetupstatic.com/img/clear.gif" width="0" style="max-height : 700px ; max-width : 700px ; margin : 5px"&gt;&lt;/img&gt;&lt;img src="http://img1.meetupstatic.com/img/clear.gif" width="0" style="max-height : 700px ; max-width : 700px ; margin : 5px"&gt;&lt;/img&gt; &lt;br /&gt;
+
+&lt;a href="http://www.meetup.com/nosql-nyc/events/33117282/" target="_blank"&gt;http://www.meetup.com/nosql-nyc/events/33117282/&lt;/a&gt;&lt;img src="http://img1.meetupstatic.com/img/clear.gif" width="0" style="max-height : 700px ; max-width : 700px ; margin : 5px"&gt;&lt;/img&gt;&lt;img src="http://img1.meetupstatic.com/img/clear.gif" width="0" style="max-height : 700px ; max-width : 700px ; margin : 5px"&gt;&lt;/img&gt; &lt;br /&gt;
+
+&lt;a href="http://www.goldenorbos.org/" target="_blank"&gt;http://www.goldenorbos.org/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://research.microsoft.com/en-us/projects/Dryad/"&gt;http://research.microsoft.com/en-us/projects/Dryad/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Agenda&amp;nbsp;2 (20% of our time will be spent on this)&lt;/p&gt;
+&lt;p&gt;Working Subgroups Framework/ System Patent Methodology&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Our speaker will be one of new members, Steve Taylor. Steve has extensive experience in obtaining patents and licensing new technologies.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;We are also fortunate to have a meetup group whose title is foundational, broad and encompassing the entire field of computer science. Hence, i am suggesting a meetup to discuss the following;&lt;/p&gt;
+&lt;p&gt;1. The creation of working subgroups, based on specialized interests. This would enable the parent group to grow in size and provide us with more meetup dates from the NERD center. The nature and structure of a working group would differ from that of a regular group. Members of these subgroups would meet to collaborate of specifics tasks of interest, with time-frames, schedules, and a disciplined approach to task execution. Working Subgroups would be self-governing .&lt;/p&gt;
+&lt;p&gt;2. The patenting of algorithms developed by members of the group. These algorithms would be presented as 'systems' in order to obtain the necessary patents. This approach would attract corporate sponsors and vcs , for those who might be interested. In addition, there are prominent patent law firms who will pay for a system to be developed to the prototype level in order to obtain the necessary patents. I happen to know a couple.&lt;/p&gt;
+&lt;p&gt;3. The creation of a group website, with member login and project collaboration/management capabilities, paid for by the organizers (specifically myself).&lt;/p&gt;
+&lt;p&gt;I would appreciate feedback from everyone regarding this matter.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://www.meetup.com/Theoretical-Computer-Science-Problem-Solving/members/7540741/"&gt;&lt;img src="http://photos4.meetupstatic.com/photos/member/8/1/5/8/thumb_23193112.jpeg" alt="Steve Taylor" style="max-height : 700px ; max-width : 700px ; margin : 5px"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://www.meetup.com/Theoretical-Computer-Science-Problem-Solving/members/7540741/"&gt;Steve Taylor&lt;/a&gt; 
+&lt;p&gt;I am an inventor (nine patents) who teaches patent strategy, licensing and negotiations to litigators, attorneys and inventors. I also consult to companies on Patent issues. I am not a lawyer, but a rare successful inventor and expert witness who has made &amp;gt; seven figures on my patents. I am currently working in AI. Before heading down any patent path, you and the group should understand the pitfalls. I am open to giving a talk on the issues facing inventors. steve@ipstrom.com www.ipstrom.com&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;</description><event_hosts><event_hosts_item><member_name>Subhankar Ray </member_name><member_id>10370062</member_id></event_hosts_item></event_hosts><maybe_rsvp_count>0</maybe_rsvp_count><waitlist_count>0</waitlist_count><updated>1321658244000</updated><rating><average>4.5</average><count>2</count></rating><group><who>Theoreticians</who><join_mode>open</join_mode><urlname>Theoretical-Computer-Science-Problem-Solving</urlname><id>1340773</id><group_lat>42.3800010681</group_lat><group_lon>-71.1299972534</group_lon><name>Theoretical Computer Science Problem-Solving</name></group><yes_rsvp_count>35</yes_rsvp_count><created>1315435718000</created><visibility>public</visibility><name>MapReduce Vs. GraphLab (agenda 1)  Working Subgroups Framework (agenda 2)</name><id>32671772</id><headcount>27</headcount><utc_offset>-18000000</utc_offset><time>1321574400000</time><rsvp_limit>35</rsvp_limit><event_url>http://www.meetup.com/Theoretical-Computer-Science-Problem-Solving/events/32671772/</event_url></item>

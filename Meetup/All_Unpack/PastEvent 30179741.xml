@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>	<item><venue><address_1>One Memorial Drive</address_1><state>MA</state><zip>02142</zip><lat>42.361406</lat><repinned>False</repinned><phone>857.453.6000</phone><name>Microsoft N.E.R.D. Center</name><city>Cambridge</city><id>1210878</id><country>us</country><lon>-71.081282</lon></venue><status>past</status><description>&lt;p&gt;&lt;img src="http://photos2.meetupstatic.com/photos/event/2/b/2/b/event_49331051.jpeg" style="max-height : 700px ; max-width : 700px ; margin : 5px ; float : right"&gt;&lt;/img&gt;Security is more than filtering input and escaping output (FIEO), and it's more than cross-site scripting (XSS) and cross-site request forgeries (CSRF). Security isn't even always black and white. In order to create a more secure user experience, we need to understand how people think. Perception is as important as reality, and meeting user expectations is a fundamental of good security.&lt;/p&gt;
+&lt;p&gt;Join Boston PHP and O&amp;rsquo;Reilly Author &lt;a href="http://twitter.com/shiflett"&gt;Chris Shiflett&lt;/a&gt; as we take you through a fascinating talk on the human behavior and social aspect of security. We&amp;rsquo;ll explore topics such as change blindness and ambient signifiers, and we&amp;rsquo;ll show some real-world examples that demonstrate the profound impact human behavior can have on security. If your a designer, developer, human interaction designer, you won&amp;rsquo;t want to miss this talk. &lt;img src="http://shiflett.org/img/profile_pic.jpg" style="max-height : 700px ; max-width : 700px ; margin : 5px ; float : right"&gt;&lt;/img&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;About Chris Shiflett:&lt;/strong&gt; &lt;br /&gt;
+
+ &lt;span&gt;Chris is no stranger to Boston PHP as he&amp;rsquo;s given two talks with us before in 2005 on &lt;a href="http://www.meetup.com/bostonphp/events/4761136/"&gt;&lt;span&gt;PHP Security Audit HowTo&lt;/span&gt;&lt;/a&gt; and in 2006 on &lt;a href="http://www.meetup.com/bostonphp/events/4891924/"&gt;&lt;span&gt;Zend Framework&lt;/span&gt;&lt;/a&gt; &lt;span&gt;. We are fortunate to have him come back.&lt;/span&gt; &lt;br /&gt;
+
+ &lt;br /&gt;
+
+ &lt;span&gt;Chris is a web craftsman from Brooklyn, NY, and a founding member of&lt;/span&gt; &lt;a href="http://analog.coop/"&gt;&lt;span&gt;Analog&lt;/span&gt;&lt;/a&gt; &lt;span&gt;, where he works with some of the most talented people making things he loves, like&lt;/span&gt; &lt;a href="http://mapalong.com/"&gt;&lt;span&gt;Mapalong&lt;/span&gt;&lt;/a&gt; &lt;span&gt;and&lt;/span&gt; &lt;a href="http://brooklynbeta.org/"&gt;&lt;span&gt;Brooklyn Beta&lt;/span&gt;&lt;/a&gt; &lt;span&gt;.&lt;/span&gt; &lt;br /&gt;
+
+ &lt;br /&gt;
+
+ &lt;span&gt;He blogs at&lt;/span&gt; &lt;a href="http://shiflett.org/"&gt;&lt;span&gt;shiflett.org&lt;/span&gt;&lt;/a&gt; &lt;span&gt;, and can be found as&lt;/span&gt; &lt;a href="http://twitter.com/shiflett"&gt;&lt;span&gt;@shiflett&lt;/span&gt;&lt;/a&gt; &lt;span&gt;on Twitter. In 2007, he started&lt;/span&gt; &lt;a href="http://phpadvent.org/"&gt;&lt;span&gt;PHP Advent&lt;/span&gt;&lt;/a&gt; &lt;span&gt;, an annual Advent calendar for the PHP community. Since 2009, he&amp;rsquo;s been part of&lt;/span&gt; &lt;a href="http://studiomates.com/"&gt;&lt;span&gt;Studiomates&lt;/span&gt;&lt;/a&gt; &lt;span&gt;, a co-working studio in Brooklyn.&lt;/span&gt; &lt;br /&gt;
+
+ &lt;br /&gt;
+
+ &lt;span&gt;He has authored and co-authored a few books&amp;thinsp;&amp;mdash;&amp;thinsp;most notably Essential PHP Security and HTTP Developer&amp;rsquo;s Handbook. He sometimes writes articles for publications like Smashing Magazine, where he also serves on the editorial panel.&lt;/span&gt; &lt;br /&gt;
+
+ &lt;br /&gt;
+
+ &lt;span&gt;He has a love for sharing ideas speaking at conferences&amp;thinsp;&amp;mdash;&amp;thinsp;like Webstock, OSCON, South by Southwest, and the Future of Web Apps. He attends events like Foo Camp, Kiwi Foo Camp, and the Microsoft Web Dev Summit.&lt;/span&gt; &lt;br /&gt;
+
+ &lt;br /&gt;
+
+ &lt;span&gt;&lt;strong&gt;On PHP Security...&lt;/strong&gt; &lt;br /&gt;
+
+&lt;/span&gt; &lt;span&gt;During our initial interview with Chris he made a profound statement about web security with languages. "Out of all the programming language communities out there, the PHP community understands security the most."&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;</description><event_hosts><event_hosts_item><member_name>Chris Shiflett</member_name><member_id>3795611</member_id></event_hosts_item><event_hosts_item><member_name>Michael Bourque</member_name><member_id>5046031</member_id></event_hosts_item><event_hosts_item><member_name>Ori</member_name><member_id>10186050</member_id></event_hosts_item></event_hosts><maybe_rsvp_count>0</maybe_rsvp_count><waitlist_count>0</waitlist_count><updated>1330267842000</updated><rating><average>4.53999996185</average><count>13</count></rating><group><who>Members</who><join_mode>open</join_mode><urlname>bostonphp</urlname><id>120818</id><group_lat>42.3600006104</group_lat><group_lon>-71.0699996948</group_lon><name>Boston PHP</name></group><yes_rsvp_count>140</yes_rsvp_count><created>1313807345000</created><visibility>public</visibility><name>Security-Centered Design: Exploring the Impact of Human Behavior</name><id>30179741</id><headcount>150</headcount><utc_offset>-18000000</utc_offset><time>1329350400000</time><event_url>http://www.meetup.com/bostonphp/events/30179741/</event_url></item>

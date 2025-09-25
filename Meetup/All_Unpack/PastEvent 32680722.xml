@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>	<item><venue><address_2>Suite 100</address_2><address_1>One Memorial Drive</address_1><state>MA</state><zip>02142</zip><lat>42.360794</lat><repinned>False</repinned><phone>857-453.6000</phone><name>Microsoft New England Research &amp; Development Center (NERD)</name><city>Cambridge</city><id>1054297</id><country>us</country><lon>-71.082504</lon></venue><status>past</status><description>&lt;p&gt;An evening of nothing but &lt;strong&gt;lightning talks!&lt;/strong&gt;&amp;nbsp; Usually we have a solid meat and potatoes presentation meal, followed by a nice dessert of some lightning talk candy.&amp;nbsp; But this is October, so why not have an evening with just candy!?&lt;/p&gt;
+&lt;p&gt;A lightning talk is no more than 10 minutes, so we'll have time for a good selection of topics.&lt;/p&gt;
+&lt;p&gt;If you have a talk you want to do, send me an email.&amp;nbsp; Please keep these guidelines in mind:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;You'll have &lt;strong&gt;5 to 10 minutes&lt;/strong&gt;.&amp;nbsp; Please be realistic: most people underestimate how much time they need to get their ideas across. I will limit you 10 minutes.&lt;/li&gt;
+&lt;li&gt;Almost &lt;strong&gt;any topic is good&lt;/strong&gt;: something you learned that you think others will like, something you've made, something you found, it doesn't even have to be especially technical, just something you think Pythonistas will want to hear about.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;No jobs ads&lt;/strong&gt;, we don't want this to be a job fair. Get in touch with me separately if you want special promotion of your position.&lt;/li&gt;
+&lt;li&gt;You can of course do &lt;strong&gt;demos&lt;/strong&gt; or use &lt;strong&gt;slides&lt;/strong&gt; if you like.&amp;nbsp; Even better is if they are on a public web site so you can use a laptop already connected to the projector.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;You know you have something to say!&amp;nbsp; To &lt;strong&gt;get on the list&lt;/strong&gt;, send me an email, and include your name, the title, and just a little bit about what you'll say.&lt;/p&gt;
+&lt;p&gt;Here's the list so far:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Sean True&lt;/strong&gt;, yapocis (Yet Another PyOpenCL Interface Specification).&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Corey Goldberg&lt;/strong&gt;, linux-metrics, a package for system metrics/stats for linux.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Andrew Inglis&lt;/strong&gt;, wirite.com&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Dylan Shea&lt;/strong&gt;, Linden Lab Automated Test Hackathon&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Shauna G&lt;/strong&gt;, newbs hacking public data&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Brendan K&lt;/strong&gt;, packaging a PyGTK app for Windows&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Will Ware&lt;/strong&gt;, MyHDL (myhdl.org), a Python tool for digital logic design, simulation and FPGA synthesis.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Fahri Basegmez&lt;/strong&gt;, re_ad: lets me write readable regular expressions.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Eliot Eshelman&lt;/strong&gt;, Entity systems in Python for game development.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Ned Jackson Lovely&lt;/strong&gt;, Celery message queuing.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Nate Aune&lt;/strong&gt;, Twilio API, and PickupConnect.com.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;You&lt;/strong&gt;, your talk here...&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;It should be a fun and fascinating evening!&lt;/p&gt;
+&lt;p&gt;After a couple of hours of lightning talks, we'll head over to &lt;strong&gt;Meadhall&lt;/strong&gt; for beers, socializing, and what have you.&amp;nbsp; Want to sponsor a round of drinks?&amp;nbsp; Get in touch...&lt;/p&gt;
+&lt;p&gt;Share this event with anyone who might be interested: &lt;a href="http://meetu.ps/4c6VC"&gt;http://meetu.ps/4c6VC&lt;/a&gt;&lt;/p&gt;</description><event_hosts><event_hosts_item><member_name>Ned Batchelder</member_name><member_id>1824278</member_id></event_hosts_item></event_hosts><maybe_rsvp_count>0</maybe_rsvp_count><waitlist_count>0</waitlist_count><updated>1319420684000</updated><rating><average>4.30000019073</average><count>10</count></rating><group><who>Pythonistas</who><join_mode>open</join_mode><urlname>bostonpython</urlname><id>469457</id><group_lat>42.3800010681</group_lat><group_lon>-71.1299972534</group_lon><name>The Boston Python User Group</name></group><yes_rsvp_count>102</yes_rsvp_count><created>1315440490000</created><visibility>public</visibility><name>Lightning Talk Trick or Treat</name><id>32680722</id><headcount>64</headcount><utc_offset>-14400000</utc_offset><time>1319065200000</time><event_url>http://www.meetup.com/bostonpython/events/32680722/</event_url></item>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>	<item><venue><address_2>Star Room on 4th Floor</address_2><address_1>32 Vassar Street</address_1><state>MA</state><zip>02139</zip><lat>42.361753</lat><repinned>False</repinned><phone>(617) 577-8812</phone><name>MIT Stata Center - Star Room</name><city>Cambridge</city><id>588318</id><country>us</country><lon>-71.091419</lon></venue><status>past</status><description>&lt;p&gt;&lt;span style="font-size : x-large"&gt;Overview of Semantic Web&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size : large"&gt;presented by &lt;a href="http://www.cambridgesemantics.com/people/about/lee"&gt;Lee Feigenbaum&lt;/a&gt;, Co-founder &lt;a href="http://www.cambridgesemantics.com/company/overview"&gt;Cambridge Semantics&lt;/a&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;This &lt;strong&gt;90 minute talk&lt;/strong&gt; will present a nuts-and-bolts introduction to many of the W3C Semantic Web technologies. We will motivate the introductions with use cases and examples, and we will also attempt to dispel some of the myths and some of the hype around the Semantic Web.&lt;/span&gt; &lt;br /&gt;
+
+ &lt;br /&gt;
+
+ &lt;span&gt;The intro will cover the following technologies:&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&amp;nbsp; &amp;nbsp;RDF (data model)&lt;/li&gt;
+&lt;li&gt;&amp;nbsp; &amp;nbsp;RDFS (schema language)&lt;/li&gt;
+&lt;li&gt;&amp;nbsp; &amp;nbsp;OWL (ontology language)&lt;/li&gt;
+&lt;li&gt;&amp;nbsp; &amp;nbsp;SPARQL (query language)&lt;/li&gt;
+&lt;li&gt;&amp;nbsp; &amp;nbsp;RDFa (embedding RDF in HTML)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Please Note:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Kiva conference room at MIT Stata Ctr, 4th floor&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;90 minute presentation&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Attendance is capped to 120. &amp;nbsp;Please RSVP if you are coming.&lt;/strong&gt;&lt;/p&gt;</description><how_to_find_us>4th floor, Kiva Conference Room, Stata Center, MIT</how_to_find_us><event_hosts><event_hosts_item><member_name>William S Hayes</member_name><member_id>8504830</member_id></event_hosts_item></event_hosts><maybe_rsvp_count>0</maybe_rsvp_count><waitlist_count>0</waitlist_count><updated>1323819901000</updated><rating><average>4.84000015259</average><count>19</count></rating><group><who>Semantic Web Supporters</who><join_mode>open</join_mode><urlname>The-Cambridge-Semantic-Web-Meetup-Group</urlname><id>1336198</id><group_lat>42.3699989319</group_lat><group_lon>-71.0999984741</group_lon><name>Cambridge Semantic Web</name></group><yes_rsvp_count>96</yes_rsvp_count><created>1304603588000</created><visibility>public</visibility><name>Cambridge Semantic Web Monthly Meetup</name><id>fjrzqyppblb</id><headcount>80</headcount><utc_offset>-18000000</utc_offset><time>1320793200000</time><rsvp_limit>120</rsvp_limit><event_url>http://www.meetup.com/The-Cambridge-Semantic-Web-Meetup-Group/events/33224262/</event_url></item>

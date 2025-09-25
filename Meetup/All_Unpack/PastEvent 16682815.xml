@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>	<item><venue><address_2>Suite 100</address_2><address_1>One Memorial Drive</address_1><state>MA</state><zip>02142</zip><lat>42.360794</lat><repinned>False</repinned><phone>857-453.6000</phone><name>Microsoft New England Research &amp; Development Center (NERD)</name><city>Cambridge</city><id>1054297</id><country>us</country><lon>-71.082504</lon></venue><status>past</status><description>&lt;p&gt;Learn and practice Python basics with this full-day project-driven workshop!&lt;/p&gt;
+&lt;p&gt;On Friday evening, come by for an hour any time between 5 and 8pm to set up your development environment. &lt;br /&gt; &lt;br /&gt;On  Saturday, we'll spend the morning on an introduction to the language,  taking breaks to practice concepts on bite-sized exercises. In the  afternoon, we'll hack on two projects: a web application in Django and  visual effects for a programmable "color wall". &lt;br /&gt; &lt;br /&gt;Audience: Women and their friends who have no or limited programming experience.&lt;/p&gt;
+&lt;p&gt;Our goal is to provide a comfortable environment in which women can  develop their programming skills with confidence. Our staff are  predominantly women from the Boston programming and open source  communities.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Friday evening: laptop setup&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;5 PM to 8 PM: Come by the venue (1 Memorial Drive, Cambridge) and volunteers will help you set up your development environment.&lt;/li&gt;
+&lt;li&gt;Things to &lt;strong&gt;bring: your laptop computer&lt;/strong&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt; &lt;br /&gt;&lt;strong&gt;Saturday daytime: Tutorials, teaching, and projects&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;9:30 AM: Early arrivals can chat with volunteers&lt;/li&gt;
+&lt;li&gt;10 AM - Noon: Welcome and introductory tutorials&lt;/li&gt;
+&lt;li&gt;Noon - 1 PM: Lunch (pizza), thanks to our sponsors&lt;/li&gt;
+&lt;li&gt;1 PM - 5 PM: Project time&lt;/li&gt;
+&lt;li&gt;5 PM - 5:30: Wrap-up&lt;/li&gt;
+&lt;li&gt;Things to &lt;strong&gt;bring: your laptop computer&lt;/strong&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Afterwards: After-party, place TBD. (Suggestions welcome.)&lt;/li&gt;
+&lt;/ul&gt;</description><event_hosts><event_hosts_item><member_name>Ned Batchelder</member_name><member_id>1824278</member_id></event_hosts_item><event_hosts_item><member_name>Asheesh Laroia</member_name><member_id>11890443</member_id></event_hosts_item><event_hosts_item><member_name>Jessica McKellar</member_name><member_id>14046470</member_id></event_hosts_item></event_hosts><maybe_rsvp_count>0</maybe_rsvp_count><waitlist_count>13</waitlist_count><updated>1300907983000</updated><rating><average>4.69999980927</average><count>10</count></rating><group><who>Pythonistas</who><join_mode>open</join_mode><urlname>bostonpython</urlname><id>469457</id><group_lat>42.3800010681</group_lat><group_lon>-71.1299972534</group_lon><name>The Boston Python User Group</name></group><yes_rsvp_count>35</yes_rsvp_count><created>1298514375000</created><visibility>public</visibility><name>A project-driven introduction to Python for women and their friends</name><id>16682815</id><headcount>0</headcount><utc_offset>-18000000</utc_offset><time>1299337200000</time><rsvp_limit>35</rsvp_limit><event_url>http://www.meetup.com/bostonpython/events/16682815/</event_url></item>

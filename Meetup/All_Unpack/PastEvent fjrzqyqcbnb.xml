@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>	<item><venue><address_2>Star Room on 4th Floor</address_2><address_1>32 Vassar Street</address_1><state>MA</state><zip>02139</zip><lat>42.361753</lat><repinned>False</repinned><phone>(617) 577-8812</phone><name>MIT Stata Center - Star Room</name><city>Cambridge</city><id>588318</id><country>us</country><lon>-71.091419</lon></venue><status>past</status><description>&lt;p&gt;**********************************&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size : large"&gt;Agenda:&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;**********************************&lt;/p&gt;
+&lt;p&gt;Presenter: &amp;nbsp;Fuming Shih &amp;nbsp; 20-30 min&lt;/p&gt;
+&lt;p&gt;The project that will be presented is called "SaveFace" which crawls all your facebook data (not including images) and save them as RDF in a triple store and ready for SPARQL query. This project used Joseki for the SPARQL endpoint. &amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Group Discussion -- Suggestions for 2012&lt;/p&gt;
+&lt;p&gt;The Organizers would like to hear from the group ideas about topics for presentations, agenda items, etc., for 2012 and beyond. To get us started, here are just a few items to consider:&lt;/p&gt;
+&lt;p&gt;* Vendor panel (short presentations by a panel of 3-5 vendors, followed by discussion/Q&amp;amp;A&lt;/p&gt;
+&lt;p&gt;* Semantic Web and Big Data&lt;/p&gt;
+&lt;p&gt;* Semantic Web in &amp;lt;insert your favorite domain here&amp;gt;&lt;/p&gt;
+&lt;p&gt;(Ted will moderate)&lt;/p&gt;</description><how_to_find_us>Rm 32-D463, 4th floor, Star Conference Room, Stata Center, MIT</how_to_find_us><event_hosts><event_hosts_item><member_name>Ted Slater</member_name><member_id>9149630</member_id></event_hosts_item></event_hosts><maybe_rsvp_count>0</maybe_rsvp_count><waitlist_count>0</waitlist_count><updated>1329254369000</updated><rating><average>4.5</average><count>6</count></rating><group><who>Semantic Web Supporters</who><join_mode>open</join_mode><urlname>The-Cambridge-Semantic-Web-Meetup-Group</urlname><id>1336198</id><group_lat>42.3699989319</group_lat><group_lon>-71.0999984741</group_lon><name>Cambridge Semantic Web</name></group><yes_rsvp_count>42</yes_rsvp_count><created>1321371707000</created><visibility>public</visibility><name>Cambridge Semantic Web Monthly Meetup</name><id>fjrzqyqcbnb</id><headcount>0</headcount><utc_offset>-18000000</utc_offset><time>1326236400000</time><event_url>http://www.meetup.com/The-Cambridge-Semantic-Web-Meetup-Group/events/41243992/</event_url></item>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>	<item><venue><address_2>2nd Floor</address_2><address_1>355 congress street</address_1><state>MA</state><zip>02108</zip><lat>42.350212</lat><repinned>False</repinned><name>Bocoup Loft (new location)</name><city>Boston</city><id>1539398</id><country>us</country><lon>-71.048279</lon></venue><status>past</status><description>&lt;p&gt;This special meetup will be geared towards newcomers to Django. Kevin Grinberg has offered to give an hour-long Getting Started with Django presentation.&lt;/p&gt;
+&lt;p&gt;The presentation will be followed by a panel of experts to answer questions that you may have. Example questions might be:  What do I need to get going?   What are the basics (views, layouts,...)?   How do I try, test, and debug?  What are the beginner pitfalls?&lt;/p&gt;
+&lt;p&gt;Below is Kevin's rough outline for what he'd like to cover - it's relatively comprehensive, and since we're shooting for about an hour, some of the pieces will be pretty cursory.&lt;/p&gt;
+&lt;p&gt;His goal is to give people enough of a grounding that when they go look at a piece of code or look something up in the docs, it won't sound *too* foreign ("oh yeah, I've heard of Context Processors, I kinda get it"). &amp;nbsp;&lt;/p&gt;
+&lt;p&gt;One potentially useful thing to do if enough experienced Djangonauts are interested - people can stick around after and help newbies set up their environments... That's the part that tends to trip a lot of people up. &amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Python&lt;/li&gt;
+&lt;li&gt;The Environment 
+&lt;ul&gt;
+&lt;li&gt;Virtualenv&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;MTV&lt;/li&gt;
+&lt;li&gt;Life cycle of a Django request&lt;/li&gt;
+&lt;li&gt;Models (+QuerySets)&lt;/li&gt;
+&lt;li&gt;Views&lt;/li&gt;
+&lt;li&gt;Templates (+tags/filters)&lt;/li&gt;
+&lt;li&gt;Forms/ModelForms&lt;/li&gt;
+&lt;li&gt;The Admin&lt;/li&gt;
+&lt;li&gt;Debugging: 
+&lt;ul&gt;
+&lt;li&gt;manage.py (+shell_plus)&lt;/li&gt;
+&lt;li&gt;Debug toolbar&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Deployment&lt;/li&gt;
+&lt;li&gt;Other goodies... 
+&lt;ul&gt;
+&lt;li&gt;South for database schema migrations&lt;/li&gt;
+&lt;li&gt;CSRF&lt;/li&gt;
+&lt;li&gt;Contrib/pluggable apps&lt;/li&gt;
+&lt;li&gt;settings.py&lt;/li&gt;
+&lt;li&gt;Context Processors&lt;/li&gt;
+&lt;li&gt;Middleware&lt;/li&gt;
+&lt;li&gt;Testing framework&lt;/li&gt;
+&lt;li&gt;Transactions&lt;/li&gt;
+&lt;li&gt;Formsets&lt;/li&gt;
+&lt;li&gt;Generic Views&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;If you have ideas of things that you'd like to have covered, please comment in the discussion forums and/or mailing lists.&lt;/p&gt;</description><event_hosts><event_hosts_item><member_name>Kevin Grinberg</member_name><member_id>9289714</member_id></event_hosts_item><event_hosts_item><member_name>Pete Karl II</member_name><member_id>9641012</member_id></event_hosts_item></event_hosts><maybe_rsvp_count>0</maybe_rsvp_count><waitlist_count>0</waitlist_count><updated>1309392574000</updated><rating><average>4.67000007629</average><count>9</count></rating><group><who>Djangonauts</who><join_mode>open</join_mode><urlname>djangoboston</urlname><id>1289145</id><group_lat>42.3699989319</group_lat><group_lon>-71.0999984741</group_lon><name>Django Boston Meetup Group</name></group><yes_rsvp_count>66</yes_rsvp_count><created>1258043384000</created><visibility>public</visibility><name>Getting Started with Django</name><id>16210200</id><headcount>50</headcount><utc_offset>-14400000</utc_offset><time>1306276200000</time><event_url>http://www.meetup.com/djangoboston/events/16210200/</event_url></item>

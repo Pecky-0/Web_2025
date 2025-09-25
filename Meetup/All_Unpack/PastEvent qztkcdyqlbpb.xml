@@ -1,0 +1,362 @@
+<?xml version="1.0" encoding="UTF-8"?>	<item><fee><label>Price</label><accepts>paypal</accepts><currency>USD</currency><description>for the entire conference</description><amount>99.9899978638</amount><required>1</required></fee><status>past</status><description>&lt;p&gt;&lt;span style="color : #ff0000"&gt;Tickets are still available on our website at: &lt;a href="http://northeastphp.org"&gt;http://northeastphp.org&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;span style="color : #000000"&gt;Boston PHP is hosting a PHP Conference in Boston!&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Join over 300 expert web developers, entrepreneurs, and designers from all over the Northeast. Learn and share on over 40 topics on PHP, Web Technology, and Design and UX.&lt;/p&gt;
+&lt;p&gt;If you've enjoyed our &lt;a href="http://www.bostonphp.org/"&gt;Boston PHP Meetups&lt;/a&gt;, you will love this event. There will be nothing quite like it.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;It's like three years of Meetups jam packed into two days: &lt;br /&gt;
+
+&lt;/strong&gt; Click the links below to check out the topics we will cover...&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://northeastphp.org/talks/by_keyword/PHP"&gt;PHP&lt;/a&gt;&lt;span&gt;,&lt;/span&gt; &lt;a href="http://northeastphp.org/talks/by_keyword/UX"&gt;UX&lt;/a&gt;&lt;span&gt;,&lt;/span&gt; &lt;a href="http://northeastphp.org/talks/by_keyword/Agile"&gt;Agile&lt;/a&gt;&lt;span&gt;,&lt;/span&gt; &lt;a href="http://northeastphp.org/talks/by_keyword/Scalability"&gt;Scalability&lt;/a&gt;&lt;span&gt;,&lt;/span&gt;&lt;a href="http://northeastphp.org/talks/by_keyword/Performance"&gt;Performance&lt;/a&gt;&lt;span&gt;,&lt;/span&gt; &lt;a href="http://northeastphp.org/talks/by_keyword/Security"&gt;Security&lt;/a&gt;&lt;span&gt;,&lt;/span&gt;&lt;a href="http://northeastphp.org/talks/by_keyword/Deployment"&gt;Deployment&lt;/a&gt;&lt;span&gt;,&lt;/span&gt; &lt;a href="http://northeastphp.org/talks/by_keyword/Productivity"&gt;Productivity&lt;/a&gt;&lt;span&gt;,&lt;/span&gt; &lt;a href="http://northeastphp.org/talks/by_keyword/Mobile"&gt;Mobile&lt;/a&gt;&lt;span&gt;,&lt;/span&gt; &lt;a href="http://northeastphp.org/talks/by_keyword/Search"&gt;Search&lt;/a&gt;&lt;span&gt;,&lt;/span&gt; &lt;a href="http://northeastphp.org/talks/by_keyword/Caching"&gt;Caching&lt;/a&gt;&lt;span&gt;,&lt;/span&gt; &lt;a href="http://northeastphp.org/talks/by_keyword/MVC"&gt;MVC&lt;/a&gt;&lt;span&gt;,&lt;/span&gt; &lt;a href="http://northeastphp.org/talks/by_keyword/MySQL"&gt;MySQL&lt;/a&gt;&lt;span&gt;,&lt;/span&gt; &lt;a href="http://northeastphp.org/talks/by_keyword/Wordpress"&gt;Wordpress&lt;/a&gt;&lt;span&gt;,&lt;/span&gt; &lt;a href="http://northeastphp.org/talks/by_keyword/Beginner"&gt;Beginner&lt;/a&gt;&lt;span&gt;,&lt;/span&gt; &lt;a href="http://northeastphp.org/talks/by_keyword/Rest"&gt;Rest&lt;/a&gt;&lt;span&gt;,&lt;/span&gt; &lt;a href="http://northeastphp.org/talks/by_keyword/API"&gt;API&lt;/a&gt;&lt;span&gt;,&lt;/span&gt;&lt;a href="http://northeastphp.org/talks/by_keyword/CodeIgniter"&gt;CodeIgniter&lt;/a&gt;&lt;span&gt;,&lt;/span&gt; &lt;a href="http://northeastphp.org/talks/by_keyword/Frameworks"&gt;Frameworks&lt;/a&gt;&lt;span&gt;,&lt;/span&gt; &lt;a href="http://northeastphp.org/talks/by_keyword/Git"&gt;Git&lt;/a&gt;&lt;span&gt;,&lt;/span&gt;&lt;a href="http://northeastphp.org/talks/by_keyword/Version%20Control"&gt;Version Control&lt;/a&gt;&lt;span&gt;,&lt;/span&gt; &lt;a href="http://northeastphp.org/talks/by_keyword/Drupal"&gt;Drupal&lt;/a&gt;&lt;span&gt;,&lt;/span&gt;&lt;a href="http://northeastphp.org/talks/by_keyword/Javascript"&gt;Javascript&lt;/a&gt;&lt;span&gt;,&lt;/span&gt; &lt;a href="http://northeastphp.org/talks/by_keyword/Ajax"&gt;Ajax&lt;/a&gt;&lt;span&gt;,&lt;/span&gt; &lt;a href="http://northeastphp.org/talks/by_keyword/NoSQL"&gt;NoSQL&lt;/a&gt;&lt;span&gt;,&lt;/span&gt; &lt;a href="http://northeastphp.org/talks/by_keyword/Database"&gt;Database&lt;/a&gt;&lt;span&gt;,&lt;/span&gt;&lt;a href="http://northeastphp.org/talks/by_keyword/HTTP"&gt;HTTP&lt;/a&gt;&lt;span&gt;,&lt;/span&gt; &lt;a href="http://northeastphp.org/talks/by_keyword/Advanced"&gt;Advanced&lt;/a&gt;&lt;span&gt;,&lt;/span&gt; &lt;a href="http://northeastphp.org/talks/by_keyword/Intermediate"&gt;Intermediate&lt;/a&gt;&lt;span&gt;,&lt;/span&gt; &lt;a href="http://northeastphp.org/talks/by_keyword/HTML5"&gt;HTML5&lt;/a&gt;&lt;span&gt;,&lt;/span&gt; &lt;a href="http://northeastphp.org/talks/by_keyword/CSS3"&gt;CSS3&lt;/a&gt;&lt;span&gt;,&lt;/span&gt; &lt;a href="http://northeastphp.org/talks/by_keyword/Educational"&gt;Educational&lt;/a&gt;&lt;span&gt;,&lt;/span&gt; &lt;a href="http://northeastphp.org/talks/by_keyword/jQuery"&gt;jQuery&lt;/a&gt;&lt;span&gt;,&lt;/span&gt; &lt;a href="http://northeastphp.org/talks/by_keyword/CMS"&gt;CMS&lt;/a&gt;&lt;span&gt;,&lt;/span&gt; &lt;a href="http://northeastphp.org/talks/by_keyword/SEO"&gt;SEO&lt;/a&gt;&lt;span&gt;,&lt;/span&gt; &lt;a href="http://northeastphp.org/talks/by_keyword/Quality"&gt;Quality&lt;/a&gt;&lt;span&gt;,&lt;/span&gt; &lt;a href="http://northeastphp.org/talks/by_keyword/Cloud"&gt;Cloud&lt;/a&gt;&lt;span&gt;,&lt;/span&gt;&lt;a href="http://northeastphp.org/talks/by_keyword/Design"&gt;Design&lt;/a&gt;&lt;span&gt;,&lt;/span&gt; &lt;a href="http://northeastphp.org/talks/by_keyword/Usability"&gt;Usability&lt;/a&gt;&lt;span&gt;,&lt;/span&gt; &lt;a href="http://northeastphp.org/talks/by_keyword/Communication"&gt;Communication&lt;/a&gt;&lt;span&gt;,&lt;/span&gt;&lt;a href="http://northeastphp.org/talks/by_keyword/Team"&gt;Team&lt;/a&gt;&lt;span&gt;,&lt;/span&gt; &lt;a href="http://northeastphp.org/talks/by_keyword/Lean%20UX"&gt;Lean UX&lt;/a&gt;&lt;span&gt;,&lt;/span&gt; &lt;a href="http://northeastphp.org/talks/by_keyword/Workflows"&gt;Workflows&lt;/a&gt;&lt;span&gt;,&lt;/span&gt; &lt;a href="http://northeastphp.org/talks/by_keyword/Hands-on"&gt;Hands-on&lt;/a&gt;&lt;span&gt;,&lt;/span&gt; &lt;a href="http://northeastphp.org/talks/by_keyword/Service"&gt;Service&lt;/a&gt;&lt;span&gt;,&lt;/span&gt; &lt;a href="http://northeastphp.org/talks/by_keyword/Gamestorming"&gt;Gamestorming&lt;/a&gt;&lt;span&gt;,&lt;/span&gt; &lt;a href="http://northeastphp.org/talks/by_keyword/Tablet"&gt;Tablet&lt;/a&gt;&lt;span&gt;,&lt;/span&gt; &lt;a href="http://northeastphp.org/talks/by_keyword/Prototyping"&gt;Prototyping&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Check out the &lt;a href="http://www.northeastphp.org/"&gt;Northeast PHP website&lt;/a&gt; and get your tickets. I hope to see you there.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;What:&lt;/strong&gt; &lt;a href="http://www.northeastphp.org/"&gt;&lt;strong&gt;Northeast PHP Conference&lt;/strong&gt; &lt;br /&gt;
+
+&lt;/a&gt; &lt;strong&gt;When:&lt;/strong&gt; Sat-Sun August 11-12, 2012 8am-5pm &lt;br /&gt;
+
+ &lt;strong&gt;Where:&lt;/strong&gt; Microsoft N.E.R.D. Center, Cambridge &lt;br /&gt;
+
+ &lt;strong&gt;Tickets:&lt;/strong&gt; &lt;strong&gt;&lt;a href="http://www.northeastphp.org/tickets/sales"&gt;Tickets are on sale now for just $99&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size : small"&gt;&lt;strong&gt;Note:&lt;/strong&gt; You can RSVP and pay here on Meetup, or from our website at &lt;a href="http://northeastphp.org"&gt;NortheastPHP.org&lt;/a&gt;. Your payment will cover everything including both days of the conference with access to all talks and events, as well as breakfast, lunch, dinner&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size : large"&gt;Four tracks of talks (Scroll down to see them all)&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Core PHP&lt;/li&gt;
+&lt;li&gt;Web Development&lt;/li&gt;
+&lt;li&gt;Educational&lt;/li&gt;
+&lt;li&gt;UX &amp;amp; Design&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;span style="color : #993300 ; font-size : xx-large"&gt;&lt;strong&gt;Core PHP Talks&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;hr&gt;&lt;/hr&gt;
+&lt;p&gt;&lt;a href="http://northeastphp.org/speakers/view/15"&gt;&lt;img src="http://www.gravatar.com/avatar/d92e384d44ef7fd238545c65c9b59552?s=100&amp;amp;d=mm" style="max-height : 700px ; max-width : 700px ; margin : 5px ; float : left"&gt;&lt;/img&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://northeastphp.org/talks/view/40/Gearman-A-Job-Server-to-Scale"&gt;Gearman: A Job Server to Scale&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;By: &lt;a href="http://northeastphp.org/speakers/view/15/Mike-Willbanks"&gt;Mike Willbanks&lt;/a&gt; &lt;br /&gt;
+
+ Track: &lt;a href="http://northeastphp.org/talks/by_track/1/Core-PHP"&gt;Core PHP&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Gearman is a(n) (a)synchronous job queue that can help your website scale. From image and video processing, to emails, previews and more, using Gearman can help you manage cron in order to scale your site. This talk will go over general implementation of Gearman, including optimizing your workflow through code, and keeping your workers/daemons running.&lt;/p&gt;
+&lt;hr&gt;&lt;/hr&gt;
+&lt;p&gt;&lt;a href="http://northeastphp.org/speakers/view/1"&gt;&lt;img src="http://www.gravatar.com/avatar/72f8175ac13e367bb500dd4da1f1aa32?s=100&amp;amp;d=mm" style="max-height : 700px ; max-width : 700px ; margin : 5px ; float : left"&gt;&lt;/img&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://northeastphp.org/talks/view/1/High-Performance-PHP"&gt;High Performance PHP&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;By: &lt;a href="http://northeastphp.org/speakers/view/1/Jonathan-Klein"&gt;Jonathan Klein&lt;/a&gt; &lt;br /&gt;
+
+ Track: &lt;a href="http://northeastphp.org/talks/by_track/1/Core-PHP"&gt;Core PHP&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;This talk will cover tips and tricks for speeding up your PHP application Ð everything from micro optimizations at the code level to how many child processes you should be running on your webserver. You will also learn about database optimization and performance testing your application, so you can be sure it will handle whatever load you throw at it.&lt;/p&gt;
+&lt;hr&gt;&lt;/hr&gt;
+&lt;p&gt;&lt;a href="http://northeastphp.org/speakers/view/16"&gt;&lt;img src="http://www.gravatar.com/avatar/514caaf20494636ad6deb78c17b9af06?s=100&amp;amp;d=mm" style="max-height : 700px ; max-width : 700px ; margin : 5px ; float : left"&gt;&lt;/img&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://northeastphp.org/talks/view/52/Introducing-PHP-5-4"&gt;Introducing PHP 5.4&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;By: &lt;a href="http://northeastphp.org/speakers/view/16/Ilia-Alshanetsky"&gt;Ilia Alshanetsky&lt;/a&gt; &lt;br /&gt;
+
+ Track: &lt;a href="http://northeastphp.org/talks/by_track/1/Core-PHP"&gt;Core PHP&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;This session will introduce the upcoming PHP 5.4, with all its newest functionalities and improvements. Through code examples you will learn how PHP 5.4 can be used to improve and optimize development workflows. The talk will also outline the migration process from earlier versions of PHP, and discuss what pitfalls and BC breaks to watch-out for!&lt;/p&gt;
+&lt;hr&gt;&lt;/hr&gt;
+&lt;p&gt;&lt;a href="http://northeastphp.org/speakers/view/7"&gt;&lt;img src="http://www.gravatar.com/avatar/7329d060c66cbf522ca7d747db8ed2c9?s=100&amp;amp;d=mm" style="max-height : 700px ; max-width : 700px ; margin : 5px ; float : left"&gt;&lt;/img&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://northeastphp.org/talks/view/3/PHP-Security-101"&gt;PHP Security 101&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;By: &lt;a href="http://northeastphp.org/speakers/view/7/Michael-Stowe"&gt;Michael Stowe&lt;/a&gt; &lt;br /&gt;
+
+ Track: &lt;a href="http://northeastphp.org/talks/by_track/1/Core-PHP"&gt;Core PHP&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The most important aspect of any application is security. Any application that isnÕt secure opens up your server and business to irreparable harm. While there are a lot of useful security tips on the web, there are also a lot of misconceptions and a lot of misinformation. This session will cover some of the most dangerous security risks and common misconceptions, while showing you how to correctly sanitize data to ensure that your application remains ÒholeÓ free.&lt;/p&gt;
+&lt;hr&gt;&lt;/hr&gt;
+&lt;p&gt;&lt;a href="http://northeastphp.org/speakers/view/13"&gt;&lt;img src="http://www.gravatar.com/avatar/1d480595a1bfe6baea42f65887e36d78?s=100&amp;amp;d=mm" style="max-height : 700px ; max-width : 700px ; margin : 5px ; float : left"&gt;&lt;/img&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://northeastphp.org/talks/view/6/Running-PHP-from-the-other-side-of-the-wire"&gt;Running PHP from the other side of the wire&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;By: &lt;a href="http://northeastphp.org/speakers/view/13/Pablo-Godel"&gt;Pablo Godel&lt;/a&gt; &lt;br /&gt;
+
+ Track: &lt;a href="http://northeastphp.org/talks/by_track/1/Core-PHP"&gt;Core PHP&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;In this talk, Pablo Godel will share lessons learned from running one of the most popular PHP hosting companies. The session includes tips on deployment, security, performance and productivity.&lt;/p&gt;
+&lt;hr&gt;&lt;/hr&gt;
+&lt;p&gt;&lt;a href="http://northeastphp.org/speakers/view/7"&gt;&lt;img src="http://www.gravatar.com/avatar/7329d060c66cbf522ca7d747db8ed2c9?s=100&amp;amp;d=mm" style="max-height : 700px ; max-width : 700px ; margin : 5px ; float : left"&gt;&lt;/img&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://northeastphp.org/talks/view/48/Site-to-Mobile-Conversion-in-PHP"&gt;Site to Mobile Conversion in PHP&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;By: &lt;a href="http://northeastphp.org/speakers/view/7/Michael-Stowe"&gt;Michael Stowe&lt;/a&gt; &lt;br /&gt;
+
+ Track: &lt;a href="http://northeastphp.org/talks/by_track/1/Core-PHP"&gt;Core PHP&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Your existing website works great on a desktop, but what happens once you move to mobile? In this presentation, youÕll find out how to quickly convert a website from desktop to mobile through a variety of possible solutions, including those for frameworks and sites built purely in HTML.&lt;/p&gt;
+&lt;hr&gt;&lt;/hr&gt;
+&lt;p&gt;&lt;a href="http://northeastphp.org/speakers/view/24"&gt;&lt;img src="http://www.gravatar.com/avatar/854a0cdcb205c7a2a43548e7be068054?s=100&amp;amp;d=mm" style="max-height : 700px ; max-width : 700px ; margin : 5px ; float : left"&gt;&lt;/img&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://northeastphp.org/talks/view/45/Using-PHP-and-Solr-to-Search-a-Domain"&gt;Using PHP and Solr to Search a Domain&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;By: &lt;a href="http://northeastphp.org/speakers/view/24/Peter-Lavin"&gt;Peter Lavin&lt;/a&gt; &lt;br /&gt;
+
+ Track: &lt;a href="http://northeastphp.org/talks/by_track/1/Core-PHP"&gt;Core PHP&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;In this talk, Peter Lavin will share his experiences in implementing search with PHP and Solr for his company, Message Systems. YouÕll learn about each step in the process:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Describing the problem&lt;/li&gt;
+&lt;li&gt;Searching the online documentation&lt;/li&gt;
+&lt;li&gt;Configuring Solr&lt;/li&gt;
+&lt;li&gt;Creating a search index with SolrPHPClient&lt;/li&gt;
+&lt;li&gt;Searching using SolrPHPClient&lt;/li&gt;
+&lt;li&gt;Handling search results&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;&lt;/hr&gt;
+&lt;p&gt;&lt;a href="http://northeastphp.org/speakers/view/15"&gt;&lt;img src="http://www.gravatar.com/avatar/d92e384d44ef7fd238545c65c9b59552?s=100&amp;amp;d=mm" style="max-height : 700px ; max-width : 700px ; margin : 5px ; float : left"&gt;&lt;/img&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://northeastphp.org/talks/view/49/Varnish-The-Good-The-Awesome-and-the-Downright-Crazy"&gt;Varnish, The Good, The Awesome, and the Downright Crazy&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;By: &lt;a href="http://northeastphp.org/speakers/view/15/Mike-Willbanks"&gt;Mike Willbanks&lt;/a&gt; &lt;br /&gt;
+
+ Track: &lt;a href="http://northeastphp.org/talks/by_track/1/Core-PHP"&gt;Core PHP&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Varnish cache is a front-end caching server that will save your rear when heavy traffic hits. This talk will discuss reasons to use Varnish, as well as examples of how it can scale your website and handle traffic more efficiently, all with dynamic content.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;span style="color : #993300 ; font-size : xx-large"&gt;&lt;strong&gt;Web Developer Talks&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;hr&gt;&lt;/hr&gt;
+&lt;p&gt;&lt;a href="http://northeastphp.org/speakers/view/11"&gt;&lt;img src="http://www.gravatar.com/avatar/4fd9fab1870f53d348c774bd7de66a83?s=100&amp;amp;d=mm" style="max-height : 700px ; max-width : 700px ; margin : 5px ; float : left"&gt;&lt;/img&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://northeastphp.org/talks/view/64/Are-You-Getting-the-Best-Out-of-Your-MySQL-Indexes"&gt;Are You Getting the Best Out of Your MySQL Indexes?&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;By: &lt;a href="http://northeastphp.org/speakers/view/11/Sheeri-Cabral"&gt;Sheeri Cabral&lt;/a&gt; &lt;br /&gt;
+
+ Track: &lt;a href="http://northeastphp.org/talks/by_track/2/Web-Development"&gt;Web Development&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;MySQL indexes are often used to improve performance. However, they can cause performance suffer if not used properly. Oracle ACE Director Sheeri Cabral explains the pitfalls to avoid with indexes and how to utilize compound indexes to maximize index availability with the least amount of write overhead.&lt;/p&gt;
+&lt;hr&gt;&lt;/hr&gt;
+&lt;p&gt;&lt;a href="http://northeastphp.org/speakers/view/7"&gt;&lt;img src="http://www.gravatar.com/avatar/7329d060c66cbf522ca7d747db8ed2c9?s=100&amp;amp;d=mm" style="max-height : 700px ; max-width : 700px ; margin : 5px ; float : left"&gt;&lt;/img&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://northeastphp.org/talks/view/75/Building-Your-WordPress-Plugin"&gt;Building Your WordPress Plugin&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;By: &lt;a href="http://northeastphp.org/speakers/view/7/Michael-Stowe"&gt;Michael Stowe&lt;/a&gt; &lt;br /&gt;
+
+ Track: &lt;a href="http://northeastphp.org/talks/by_track/2/Web-Development"&gt;Web Development&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Imagine if you had the ability to spread your brand across the WordPress platform! By building your own WordPress plugin you put your name, your company, and your offerings right in front of thousands of WordPress bloggers. &lt;br /&gt;
+
+ &lt;br /&gt;
+
+ This talk will cover the basics of building a WordPress plugin from start to finish. Participants should have a basic understanding of PHP.&lt;/p&gt;
+&lt;hr&gt;&lt;/hr&gt;
+&lt;p&gt;&lt;a href="http://northeastphp.org/speakers/view/16"&gt;&lt;img src="http://www.gravatar.com/avatar/514caaf20494636ad6deb78c17b9af06?s=100&amp;amp;d=mm" style="max-height : 700px ; max-width : 700px ; margin : 5px ; float : left"&gt;&lt;/img&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://northeastphp.org/talks/view/7/Caching-with-Memcached"&gt;Caching with Memcached&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;By: &lt;a href="http://northeastphp.org/speakers/view/16/Ilia-Alshanetsky"&gt;Ilia Alshanetsky&lt;/a&gt; &lt;br /&gt;
+
+ Track: &lt;a href="http://northeastphp.org/talks/by_track/2/Web-Development"&gt;Web Development&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Caching is one of the best tools developers have in their performance toolboxes and Memcached is among the best caching solutions. Using practical examples, this session will teach you how to overcome the challenges of Memcached to create a scalable and redundant solution. You will learn multiple approaches for making Memcached High-Availability, replicated or fail-over configuration within the context of PHP applications.&lt;/p&gt;
+&lt;hr&gt;&lt;/hr&gt;
+&lt;p&gt;&lt;a href="http://northeastphp.org/speakers/view/9"&gt;&lt;img src="http://www.gravatar.com/avatar/047967db234cd3ce9af71a054da4d200?s=100&amp;amp;d=mm" style="max-height : 700px ; max-width : 700px ; margin : 5px ; float : left"&gt;&lt;/img&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://northeastphp.org/talks/view/5/Creating-an-Epic-RESTful-API-and-Conquering-the-World"&gt;Creating an Epic RESTful API and Conquering the World&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;By: &lt;a href="http://northeastphp.org/speakers/view/9/Andrew-Curioso"&gt;Andrew Curioso&lt;/a&gt; &lt;br /&gt;
+
+ Track: &lt;a href="http://northeastphp.org/talks/by_track/2/Web-Development"&gt;Web Development&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Whether you have data and functionality you want to make public to the world, or you just want a way to communicate between different projects internally, you need an API. In this session, you will learn the details of creating a RESTful API with PHP, and be able to answer the following questions:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;What is a RESTful API?&lt;/li&gt;
+&lt;li&gt;Why should your product have an API?&lt;/li&gt;
+&lt;li&gt;How do you create an API with PHP?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The session will also include practical examples and best practices for scaling, versioning, and caching.&lt;/p&gt;
+&lt;hr&gt;&lt;/hr&gt;
+&lt;p&gt;&lt;a href="http://northeastphp.org/speakers/view/14"&gt;&lt;img src="http://www.gravatar.com/avatar/ccb5d4d24f11aa4bf8388dab7051ef38?s=100&amp;amp;d=mm" style="max-height : 700px ; max-width : 700px ; margin : 5px ; float : left"&gt;&lt;/img&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://northeastphp.org/talks/view/14/From-0-to-Blog-in-15-minutes"&gt;From 0 to Blog in 15 minutes&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;By: &lt;a href="http://northeastphp.org/speakers/view/14/David-Duggins"&gt;David Duggins&lt;/a&gt; &lt;br /&gt;
+
+ Track: &lt;a href="http://northeastphp.org/talks/by_track/2/Web-Development"&gt;Web Development&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;When Ruby on Rails first came out, it proudly boasted that you could build a blog in fifteen minutes. Of course, to do this, you have to ride roughshod over best practices and production quality. Instead, you can use Codeigniter; this framework uses time-saving tricks to allow you to create a blog in fifteen minutes, without ignoring best practices.&lt;/p&gt;
+&lt;hr&gt;&lt;/hr&gt;
+&lt;p&gt;&lt;a href="http://northeastphp.org/speakers/view/28"&gt;&lt;img src="http://www.gravatar.com/avatar/4b5ec4175da1a9fc1333928f9f55d510?s=100&amp;amp;d=mm" style="max-height : 700px ; max-width : 700px ; margin : 5px ; float : left"&gt;&lt;/img&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://northeastphp.org/talks/view/56/Getting-into-Git"&gt;Getting into Git&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;By: &lt;a href="http://northeastphp.org/speakers/view/28/Rick-Umali"&gt;Rick Umali&lt;/a&gt; &lt;br /&gt;
+
+ Track: &lt;a href="http://northeastphp.org/talks/by_track/2/Web-Development"&gt;Web Development&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;This talk provides a 101 presentation about Git, and its most common workflows. Within the context of Drupal modules, you will learn everything from committing and logging, to branching and merging as well as 'remote repositories'.&lt;/p&gt;
+&lt;hr&gt;&lt;/hr&gt;
+&lt;p&gt;&lt;a href="http://northeastphp.org/speakers/view/11"&gt;&lt;img src="http://www.gravatar.com/avatar/4fd9fab1870f53d348c774bd7de66a83?s=100&amp;amp;d=mm" style="max-height : 700px ; max-width : 700px ; margin : 5px ; float : left"&gt;&lt;/img&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://northeastphp.org/talks/view/21/Getting-Rid-of-Scheduled-Tasks-using-MySQL-Events"&gt;Getting Rid of Scheduled Tasks using MySQL Events&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;By: &lt;a href="http://northeastphp.org/speakers/view/11/Sheeri-Cabral"&gt;Sheeri Cabral&lt;/a&gt; &lt;br /&gt;
+
+ Track: &lt;a href="http://northeastphp.org/talks/by_track/2/Web-Development"&gt;Web Development&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;For over 6 years MySQL Events have been available as a powerful tool for executing procedural SQL. Unlike cron scripts or scheduled jobs, events are stored and backed up with the database itself, without the need for stored passwords. Sheeri Cabral, author of the MySQL Administrator's Bible, will explain events in detail, including syntax, when to replace cron scripts (and when not to), replication caveats, and more.&lt;/p&gt;
+&lt;hr&gt;&lt;/hr&gt;
+&lt;p&gt;&lt;a href="http://northeastphp.org/speakers/view/30"&gt;&lt;img src="http://www.gravatar.com/avatar/725a2db6f323225ccdb1aec5f6dc9202?s=100&amp;amp;d=mm" style="max-height : 700px ; max-width : 700px ; margin : 5px ; float : left"&gt;&lt;/img&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://northeastphp.org/talks/view/57/Journey-through-MVC-architecture-using-KnockoutJS"&gt;Journey through MVC architecture using KnockoutJS&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;By: &lt;a href="http://northeastphp.org/speakers/view/30/Kianosh-Pourian"&gt;Kianosh Pourian&lt;/a&gt; &lt;br /&gt;
+
+ Track: &lt;a href="http://northeastphp.org/talks/by_track/2/Web-Development"&gt;Web Development&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Knockout (KO) is a JavaScript library that helps you to create rich, responsive user interfaces with a clean underlying data model. KO can help you implement sections of UI that update dynamically, in a simple and maintainable manner. &lt;br /&gt;
+
+ &lt;br /&gt;
+
+ In this talk, you will learn about front-end MVC frameworks, pros and cons of each, and how to implement KnockoutJS from basic to advanced implementation.&lt;/p&gt;
+&lt;hr&gt;&lt;/hr&gt;
+&lt;p&gt;&lt;a href="http://northeastphp.org/speakers/view/8"&gt;&lt;img src="http://www.gravatar.com/avatar/c0fe36ac77bf9a0ebe01f0b7844c8e7f?s=100&amp;amp;d=mm" style="max-height : 700px ; max-width : 700px ; margin : 5px ; float : left"&gt;&lt;/img&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://northeastphp.org/talks/view/19/MySQl-what-has-changed-and-what-is-next"&gt;MySQl - what has changed and what is next?&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;By: &lt;a href="http://northeastphp.org/speakers/view/8/Dave-Stokes"&gt;Dave Stokes&lt;/a&gt; &lt;br /&gt;
+
+ Track: &lt;a href="http://northeastphp.org/talks/by_track/2/Web-Development"&gt;Web Development&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Oracle has devoted a lot of time and resources to the MySQL product line. In this session, learn about new features such as NoSQL access to MySQL Cluster or InnoDB data, plug-in authentication, thread pooling, the PHP mysqlnd native driver, and other features that will make your life easier.&lt;/p&gt;
+&lt;hr&gt;&lt;/hr&gt;
+&lt;p&gt;&lt;a href="http://northeastphp.org/speakers/view/25"&gt;&lt;img src="http://www.gravatar.com/avatar/c26bfcbd5f786591e036fa0958a11e8b?s=100&amp;amp;d=mm" style="max-height : 700px ; max-width : 700px ; margin : 5px ; float : left"&gt;&lt;/img&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://northeastphp.org/talks/view/53/Redis-for-the-Everyday-Developer"&gt;Redis for the Everyday Developer&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;By: &lt;a href="http://northeastphp.org/speakers/view/25/Ross-Tuck"&gt;Ross Tuck&lt;/a&gt; &lt;br /&gt;
+
+ Track: &lt;a href="http://northeastphp.org/talks/by_track/2/Web-Development"&gt;Web Development&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;More than some arcane NoSQL tool, Redis is a simple but powerful swiss army knife you can begin using today. &lt;br /&gt;
+
+ &lt;br /&gt;
+
+ This talk introduces Redis and focuses on using it to cleanly solve common problems. Along the way, you'll learn how Redis can be used as an alternative to several common PHP tools.&lt;/p&gt;
+&lt;hr&gt;&lt;/hr&gt;
+&lt;p&gt;&lt;a href="http://northeastphp.org/speakers/view/17"&gt;&lt;img src="http://www.gravatar.com/avatar/0c217b9a7dd0aa31ed40bd0f453727e1?s=100&amp;amp;d=mm" style="max-height : 700px ; max-width : 700px ; margin : 5px ; float : left"&gt;&lt;/img&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://northeastphp.org/talks/view/41/The-Hidden-Gems-in-HTTP"&gt;The Hidden Gems in HTTP&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;By: &lt;a href="http://northeastphp.org/speakers/view/17/Ben-Ramsey"&gt;Ben Ramsey&lt;/a&gt; &lt;br /&gt;
+
+ Track: &lt;a href="http://northeastphp.org/talks/by_track/2/Web-Development"&gt;Web Development&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;200, 404, 302. Is it a locker combination? A phone number? No, it's a set of HTTP status codes! Knowing how to use status codes like these, as well as methods and headers, can help you develop richer applications. Join Ben Ramsey as he takes you on a journey through RFC 2616, other related specifications, and into the future to discover the hidden gems of HTTP.&lt;/p&gt;
+&lt;hr&gt;&lt;/hr&gt;
+&lt;p&gt;&lt;a href="http://northeastphp.org/speakers/view/8"&gt;&lt;img src="http://www.gravatar.com/avatar/c0fe36ac77bf9a0ebe01f0b7844c8e7f?s=100&amp;amp;d=mm" style="max-height : 700px ; max-width : 700px ; margin : 5px ; float : left"&gt;&lt;/img&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://northeastphp.org/talks/view/23/The-Proper-Care-and-Feeding-of-a-MySQL-Database"&gt;The Proper Care and Feeding of a MySQL Database&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;By: &lt;a href="http://northeastphp.org/speakers/view/8/Dave-Stokes"&gt;Dave Stokes&lt;/a&gt; &lt;br /&gt;
+
+ Track: &lt;a href="http://northeastphp.org/talks/by_track/2/Web-Development"&gt;Web Development&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;MySQL is at the heart of many PHP projects but MySQL Database Administrators are relatively rare. However, you can easily add the DBA skills to your arsenal. In this session, learn DBA skills such as monitoring for bottlenecks, wise spending of a scarce hardware budget, the differences between database servers and other servers, scaling hints, and other tricks to keep your MySQL databases healthy.&lt;/p&gt;
+&lt;hr&gt;&lt;/hr&gt;
+&lt;p&gt;&lt;a href="http://northeastphp.org/speakers/view/10"&gt;&lt;img src="http://www.gravatar.com/avatar/4725526c1c02ac0d816ffa050b03e458?s=100&amp;amp;d=mm" style="max-height : 700px ; max-width : 700px ; margin : 5px ; float : left"&gt;&lt;/img&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://northeastphp.org/talks/view/13/Understanding-HTML5"&gt;Understanding HTML5&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;By: &lt;a href="http://northeastphp.org/speakers/view/10/Jeremy-Osborn"&gt;Jeremy Osborn&lt;/a&gt; &lt;br /&gt;
+
+ Track: &lt;a href="http://northeastphp.org/talks/by_track/2/Web-Development"&gt;Web Development&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;In this session HTML5 author Jeremy Osborn provides a history and overview of HTML5 capabilities. You will gain an understanding of key features, new markup elements, form elements, CSS3, and video &amp;amp; audio tags. You'll also gain an understanding of other important changes including geolocation, and offline support. This session will include many examples and will discuss browser support and the roadmap for implementation.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;span style="color : #993300 ; font-size : xx-large"&gt;&lt;strong&gt;Educational Talks&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;hr&gt;&lt;/hr&gt;
+&lt;p&gt;&lt;a href="http://northeastphp.org/speakers/view/26"&gt;&lt;img src="http://www.gravatar.com/avatar/6aaf31ae9effc2356feafb2ea36b3dd1?s=100&amp;amp;d=mm" style="max-height : 700px ; max-width : 700px ; margin : 5px ; float : left"&gt;&lt;/img&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://northeastphp.org/talks/view/61/Anatomy-of-a-Virtual-Self-Study-Group"&gt;Anatomy of a Virtual Self-Study Group&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;By: &lt;a href="http://northeastphp.org/speakers/view/26/Gene-Babon"&gt;Gene Babon&lt;/a&gt; &lt;br /&gt;
+
+ Track: &lt;a href="http://northeastphp.org/talks/by_track/3/Training-and-Education"&gt;Training and Education&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;A typical monthly Meetup presentation takes up only 90 minutes of a month. What can you do then with the remaining 43,000 minutes before next month's Meetup presentation? Launch a virtual self-study group in your online community. &lt;br /&gt;
+
+ &lt;br /&gt;
+
+ Boston PHP has conducted three virtual self-study groups on topics including PHP, jQuery and HTML5. More than 500 participants from four continents have learned new skills using this disruptive educational model. Join Gene Babon to learn how to start and run your own virtual self-study group.&lt;/p&gt;
+&lt;hr&gt;&lt;/hr&gt;
+&lt;p&gt;&lt;a href="http://northeastphp.org/speakers/view/20"&gt;&lt;img src="http://www.gravatar.com/avatar/e56fcff8311626072a387bdd9ab86d17?s=100&amp;amp;d=mm" style="max-height : 700px ; max-width : 700px ; margin : 5px ; float : left"&gt;&lt;/img&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://northeastphp.org/talks/view/55/At-ease-Relax-your-neck-back-shoulders-at-the-keyboard"&gt;At ease! Relax your neck-back-shoulders at the keyboard&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;By: &lt;a href="http://northeastphp.org/speakers/view/20/Alan-Seiden"&gt;Alan Seiden&lt;/a&gt; &lt;br /&gt;
+
+ Track: &lt;a href="http://northeastphp.org/talks/by_track/3/Training-and-Education"&gt;Training and Education&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;How many IT veterans do you know with bad backs, stiff necks, tired eyes, stress, fatigue, or carpal tunnel syndrome? &lt;br /&gt;
+
+ &lt;br /&gt;
+
+ Too many careers are cut short or limited by negative effects from years of computer work. But it doesn't have to be that way. &lt;br /&gt;
+
+ &lt;br /&gt;
+
+ In this talk, Alan Seiden will share tools and tricks to make your work more comfortable, productive, and enjoyable. &lt;br /&gt;
+
+ &lt;br /&gt;
+
+ Expect to do some gentle exercises that will leave you feeling relaxed, refreshed, and more flexible, fostering a stress-free, creative attitude.&lt;/p&gt;
+&lt;hr&gt;&lt;/hr&gt;
+&lt;p&gt;&lt;a href="http://northeastphp.org/speakers/view/31"&gt;&lt;img src="http://www.gravatar.com/avatar/8ad03645f78c1edb787e6bf4346a8bef?s=100&amp;amp;d=mm" style="max-height : 700px ; max-width : 700px ; margin : 5px ; float : left"&gt;&lt;/img&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://northeastphp.org/talks/view/65/Build-a-Site-in-One-Hour-with-TYPO3"&gt;Build a Site in One Hour with TYPO3&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;By: &lt;a href="http://northeastphp.org/speakers/view/31/Tony-Lush"&gt;Tony Lush&lt;/a&gt; &lt;br /&gt;
+
+ Track: &lt;a href="http://northeastphp.org/talks/by_track/3/Training-and-Education"&gt;Training and Education&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Using a well-formed static HTML page as a basis, you will build in less than an hour a full-fledged web site using TYPO3, an enterprise-level, open source CMS. By the end of this session, you will have a functional website with news, rotating images, SEO optimized architecture, and many other features. &lt;br /&gt;
+
+ &lt;br /&gt;
+
+ Learn why TYPO3 is used by Airbus, WebEx, Brita, Phillips, Epson, and Mercedes Ð and how it can help your organization.&lt;/p&gt;
+&lt;hr&gt;&lt;/hr&gt;
+&lt;p&gt;&lt;a href="http://northeastphp.org/speakers/view/3"&gt;&lt;img src="http://www.gravatar.com/avatar/647774f650dbed4787ff215e59286ca3?s=100&amp;amp;d=mm" style="max-height : 700px ; max-width : 700px ; margin : 5px ; float : left"&gt;&lt;/img&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://northeastphp.org/talks/view/17/Community-works"&gt;Community works!&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;By: &lt;a href="http://northeastphp.org/speakers/view/3/Michelangelo-van-Dam"&gt;Michelangelo van Dam&lt;/a&gt; &lt;br /&gt;
+
+ Track: &lt;a href="http://northeastphp.org/talks/by_track/3/Training-and-Education"&gt;Training and Education&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Getting involved with the PHP community is not difficult and has many rewards, But how do you go about getting involved? In this session you'll learn what to do to become part of the larger PHP community ecosystem, without having to commit any code to the PHP core or other PHP projects.&lt;/p&gt;
+&lt;hr&gt;&lt;/hr&gt;
+&lt;p&gt;&lt;a href="http://northeastphp.org/speakers/view/4"&gt;&lt;img src="http://www.gravatar.com/avatar/0fe35acada57d45115e9097f43d72ae4?s=100&amp;amp;d=mm" style="max-height : 700px ; max-width : 700px ; margin : 5px ; float : left"&gt;&lt;/img&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://northeastphp.org/talks/view/35/ERD-Flowcharts-and-Other-Documentation"&gt;ERD, Flowcharts and Other Documentation&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;By: &lt;a href="http://northeastphp.org/speakers/view/4/Anna-Filina"&gt;Anna Filina&lt;/a&gt; &lt;br /&gt;
+
+ Track: &lt;a href="http://northeastphp.org/talks/by_track/3/Training-and-Education"&gt;Training and Education&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Documentation is much more than just commenting code. It can be a lot more fun too. Learn what types of documentation are useful, when it is appropriate to use and how to write it. Through real-world examples, this talk will teach you how to create meaningful and helpful documentation.&lt;/p&gt;
+&lt;hr&gt;&lt;/hr&gt;
+&lt;p&gt;&lt;a href="http://northeastphp.org/speakers/view/4"&gt;&lt;img src="http://www.gravatar.com/avatar/0fe35acada57d45115e9097f43d72ae4?s=100&amp;amp;d=mm" style="max-height : 700px ; max-width : 700px ; margin : 5px ; float : left"&gt;&lt;/img&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://northeastphp.org/talks/view/63/How-to-Motivate-Your-Developers"&gt;How to Motivate Your Developers&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;By: &lt;a href="http://northeastphp.org/speakers/view/4/Anna-Filina"&gt;Anna Filina&lt;/a&gt; &lt;br /&gt;
+
+ Track: &lt;a href="http://northeastphp.org/talks/by_track/3/Training-and-Education"&gt;Training and Education&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Being a developer is not easy. The deadlines are often short while the workloads can be huge. With all this pressure, it can be hard to find motivation. &lt;br /&gt;
+
+ &lt;br /&gt;
+
+ In this talk, Anna Filina will break down various developer behaviors, review common challenges of working in an enterprise company, and offer solutions to these challenges.&lt;/p&gt;
+&lt;hr&gt;&lt;/hr&gt;
+&lt;p&gt;&lt;a href="http://northeastphp.org/speakers/view/20"&gt;&lt;img src="http://www.gravatar.com/avatar/e56fcff8311626072a387bdd9ab86d17?s=100&amp;amp;d=mm" style="max-height : 700px ; max-width : 700px ; margin : 5px ; float : left"&gt;&lt;/img&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://northeastphp.org/talks/view/77/IBM-i-fertile-ground-for-PHP-developers"&gt;IBM i: fertile ground for PHP developers&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;By: &lt;a href="http://northeastphp.org/speakers/view/20/Alan-Seiden"&gt;Alan Seiden&lt;/a&gt; &lt;br /&gt;
+
+ Track: &lt;a href="http://northeastphp.org/talks/by_track/3/Training-and-Education"&gt;Training and Education&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The IBM i platform (which evolved from System i, i5, iSeries, and AS/400) is a highly reliable, secure, self-managing, and integrated operating environment with a loyal, devoted following among thousands of businesses. A PHP developer who knows how to speak "IBM i" will be differentiated in the job market, gaining interesting employment and consulting opportunities. &lt;br /&gt;
+
+ &lt;br /&gt;
+
+ In this talk, Alan Seiden will introduce you to the world of IBM i, covering the basics of this unique platform.&lt;/p&gt;
+&lt;hr&gt;&lt;/hr&gt;
+&lt;p&gt;&lt;a href="http://northeastphp.org/speakers/view/3"&gt;&lt;img src="http://www.gravatar.com/avatar/647774f650dbed4787ff215e59286ca3?s=100&amp;amp;d=mm" style="max-height : 700px ; max-width : 700px ; margin : 5px ; float : left"&gt;&lt;/img&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://northeastphp.org/talks/view/47/Improving-QA-on-PHP-development-projects"&gt;Improving QA on PHP development projects&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;By: &lt;a href="http://northeastphp.org/speakers/view/3/Michelangelo-van-Dam"&gt;Michelangelo van Dam&lt;/a&gt; &lt;br /&gt;
+
+ Track: &lt;a href="http://northeastphp.org/talks/by_track/3/Training-and-Education"&gt;Training and Education&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Everyone talks about raising the bar on quality of code, but it's hard to implement when you have no clue where to start. This talk is geared toward all levels of developers, and will teach you how to improve by using the right tools effectively - a must-attend for any developer who wants to scale up their quality.&lt;/p&gt;
+&lt;hr&gt;&lt;/hr&gt;
+&lt;p&gt;&lt;a href="http://northeastphp.org/speakers/view/23"&gt;&lt;img src="http://www.gravatar.com/avatar/7005560c3f24be01ba492066d5839eac?s=100&amp;amp;d=mm" style="max-height : 700px ; max-width : 700px ; margin : 5px ; float : left"&gt;&lt;/img&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://northeastphp.org/talks/view/76/Moving-to-the-Amazon-Cloud-with-RightScale"&gt;Moving to the Amazon Cloud with RightScale&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;By: &lt;a href="http://northeastphp.org/speakers/view/23/Mark-Moline"&gt;Mark Moline&lt;/a&gt; &lt;br /&gt;
+
+ Track: &lt;a href="http://northeastphp.org/talks/by_track/3/Training-and-Education"&gt;Training and Education&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Most PHP projects start as small, simple sites on a single-server LAMP stack. As business grows and capacity needs to increase the usual solution is to buy a bigger server and perform a "lift-and-shift" operation. But what do you do when your hosting provider says they don't have a bigger server for you? &lt;br /&gt;
+
+ &lt;br /&gt;
+
+ Learn from Mark Moline's experience in moving from a single-server situation to a redundant and fault-tolerant system spread across 9 instances, using RightScale to manage the entire deployment.&lt;/p&gt;
+&lt;hr&gt;&lt;/hr&gt;
+&lt;p&gt;&lt;a href="http://northeastphp.org/speakers/view/2"&gt;&lt;img src="http://www.gravatar.com/avatar/03e76f7e3c503908b6cf79ceb0ca4041?s=100&amp;amp;d=mm" style="max-height : 700px ; max-width : 700px ; margin : 5px ; float : left"&gt;&lt;/img&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://northeastphp.org/talks/view/9/Website-Strategy-Planning"&gt;Website Strategy &amp;amp; Planning&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;By: &lt;a href="http://northeastphp.org/speakers/view/2/Jen-Kramer"&gt;Jen Kramer&lt;/a&gt; &lt;br /&gt;
+
+ Track: &lt;a href="http://northeastphp.org/talks/by_track/3/Training-and-Education"&gt;Training and Education&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Ever had a potential client tell you, "I want a website, and I'd like it blue, how much would that cost?" Getting a website design started down the path to a successful outcome all starts with knowing the organization's strategy. Jen Kramer will show you how to ask the right questions and learn from your client. This talk is suitable for beginners and those who have been designing sites for a while, but who want to take their skills to the next level.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;span style="color : #993300 ; font-size : xx-large"&gt;&lt;strong&gt;UX Talks&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;hr&gt;&lt;/hr&gt;
+&lt;p&gt;&lt;a href="http://northeastphp.org/speakers/view/21"&gt;&lt;img src="http://www.gravatar.com/avatar/500878756567b57cd7a75573faec32bf?s=100&amp;amp;d=mm" style="max-height : 700px ; max-width : 700px ; margin : 5px ; float : left"&gt;&lt;/img&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://northeastphp.org/talks/view/78/Are-you-usable"&gt;Are you usable?&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;By: &lt;a href="http://northeastphp.org/speakers/view/21/Heather-O-Neill"&gt;Heather O'Neill&lt;/a&gt; &lt;br /&gt;
+
+ Track: &lt;a href="http://northeastphp.org/talks/by_track/4/UX-and-Design"&gt;UX and Design&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Developers interact with many team members, but are they really able to get their points across? Find out how to be usable as a developer, from fielding questions to addressing concerns and preventing potential conflicts down the line.&lt;/p&gt;
+&lt;hr&gt;&lt;/hr&gt;
+&lt;p&gt;&lt;img src="http://proof-nyc.com/images/giff-pic.jpg" style="max-height : 100px ; max-width : 100px ; margin : 5px ; float : left"&gt;&lt;/img&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://northeastphp.org/talks/view/37/Bringing-A-Lean-Product-Process-to-Your-Organization"&gt;Bringing A Lean Product Process to Your Organization&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;By: &lt;a href="http://northeastphp.org/speakers/view/35/Giff-Constable"&gt;Giff Constable&lt;/a&gt; &lt;br /&gt;
+
+ Track: &lt;a href="http://northeastphp.org/talks/by_track/4/UX-and-Design"&gt;UX and Design&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;This talk is aimed at existing organizations (rather than early-stage startups) who want to focus on delivering value rather than churning out features. You will learn actionable, tactical steps toward putting "lean startup" ideas into practice. The steps are collaborative and lightweight:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Set and prioritize business goals to create problem-focused teams.&lt;/li&gt;
+&lt;li&gt;Create hypotheses to tackle those goals.&lt;/li&gt;
+&lt;li&gt;Create and run experiments to validate hypotheses.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;&lt;/hr&gt;
+&lt;p&gt;&lt;a href="http://northeastphp.org/speakers/view/27"&gt;&lt;img src="http://www.gravatar.com/avatar/e4bb957f116162546ac427ca03cee687?s=100&amp;amp;d=mm" style="max-height : 700px ; max-width : 700px ; margin : 5px ; float : left"&gt;&lt;/img&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://northeastphp.org/talks/view/69/Developing-Your-UX-Mindset"&gt;Developing Your UX Mindset&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;By: &lt;a href="http://northeastphp.org/speakers/view/27/Joe-Baz"&gt;Joe Baz&lt;/a&gt; &lt;br /&gt;
+
+ Track: &lt;a href="http://northeastphp.org/talks/by_track/4/UX-and-Design"&gt;UX and Design&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;How do UX consultants come up with common workflows for applications? More importantly, how can you develop this skill so that you can inject a better UX in all the web app work you do? This talk will be focused on the theory and practice of UX consulting, and will teach you techniques that will allow you to solve complicated UX challenges.&lt;/p&gt;
+&lt;hr&gt;&lt;/hr&gt;
+&lt;p&gt;&lt;a href="http://northeastphp.org/speakers/view/37"&gt;&lt;img src="http://www.gravatar.com/avatar/8a2a146d370e475655ba24bd1660bc81?s=100&amp;amp;d=mm" style="max-height : 700px ; max-width : 700px ; margin : 5px ; float : left"&gt;&lt;/img&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://northeastphp.org/talks/view/39/Gamestorming-Your-Product-with-Service-Design"&gt;Gamestorming Your Product with Service Design&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;By: &lt;a href="http://northeastphp.org/speakers/view/37/C-Todd-Lombardo"&gt;C. Todd Lombardo&lt;/a&gt; &lt;br /&gt;
+
+ Track: &lt;a href="http://northeastphp.org/talks/by_track/4/UX-and-Design"&gt;UX and Design&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;More and more products today are becoming intangible services, and customers use these products in more integrated ways than ever. This session will focus on refining your service design by introducing Gamestorming tools and methods. You'll learn how to explore the actors involved, potential scenarios, service blueprints, use cases, and sequences – all in a fun and visual manner.&lt;/p&gt;
+&lt;hr&gt;&lt;/hr&gt;
+&lt;p&gt;&lt;a href="http://northeastphp.org/speakers/view/21"&gt;&lt;img src="http://www.gravatar.com/avatar/500878756567b57cd7a75573faec32bf?s=100&amp;amp;d=mm" style="max-height : 700px ; max-width : 700px ; margin : 5px ; float : left"&gt;&lt;/img&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://northeastphp.org/talks/view/71/Test-your-prototype"&gt;Test your prototype&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;By: &lt;a href="http://northeastphp.org/speakers/view/21/Heather-O-Neill"&gt;Heather O'Neill&lt;/a&gt; &lt;br /&gt;
+
+ Track: &lt;a href="http://northeastphp.org/talks/by_track/4/UX-and-Design"&gt;UX and Design&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;In this hands-on workshop Heather O'Neill will teach you how to conduct usability tests for your prototypes. During the session you will review techniques to lead testing, discuss how to create a test plan, as well as participate in real-time testing.&lt;/p&gt;
+&lt;hr&gt;&lt;/hr&gt;
+&lt;p&gt;&lt;a href="http://northeastphp.org/speakers/view/34"&gt;&lt;img src="http://www.gravatar.com/avatar/b93d3f7b28b07b32e61226f0986034d7?s=100&amp;amp;d=mm" style="max-height : 700px ; max-width : 700px ; margin : 5px ; float : left"&gt;&lt;/img&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://northeastphp.org/talks/view/68/User-Experience-for-Developers"&gt;User Experience for Developers&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;By: &lt;a href="http://northeastphp.org/speakers/view/34/Pek-Pongpaet"&gt;Pek Pongpaet&lt;/a&gt; &lt;br /&gt;
+
+ Track: &lt;a href="http://northeastphp.org/talks/by_track/4/UX-and-Design"&gt;UX and Design&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;This talk will provide actionable tips and methodology for improving the user experience of your apps, across web, mobile or tablet. Even without a design or user experience background, by the end of this session you will learn basic skills to improve upon the experience and flow of current and future apps. Pek Pongpaet will provide guiding principles and top tips for making successful products.&lt;/p&gt;
+&lt;hr&gt;&lt;/hr&gt;
+&lt;p&gt;&lt;a href="http://northeastphp.org/speakers/view/18"&gt;&lt;img src="http://www.gravatar.com/avatar/08f647b7b498d68268ad17af3fbb5950?s=100&amp;amp;d=mm" style="max-height : 700px ; max-width : 700px ; margin : 5px ; float : left"&gt;&lt;/img&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://northeastphp.org/talks/view/15/Wireframing-Prototyping-Essential-Skills"&gt;Wireframing &amp;amp; Prototyping Essential Skills&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;By: &lt;a href="http://northeastphp.org/speakers/view/18/Jennifer-Smith"&gt;Jennifer Smith&lt;/a&gt; &lt;br /&gt;
+
+ Track: &lt;a href="http://northeastphp.org/talks/by_track/4/UX-and-Design"&gt;UX and Design&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Discover how to quickly and efficiently you can demonstrate your vision for an application. This session teaches you an informal and quick way to explore, iterate and prototype user interface scenarios, allowing you to evolve your concepts from a series of rough ideas into a living and breathing prototype. Discover rapid and cost effective approaches to user interface prototyping that enable you to concentrate on building the best possible user experience.&lt;/p&gt;</description><how_to_find_us>Please visit www.northeastphp.org</how_to_find_us><event_hosts><event_hosts_item><member_name>Bobby Cahill</member_name><member_id>2398004</member_id></event_hosts_item><event_hosts_item><member_name>Gene Babon</member_name><member_id>2410152</member_id></event_hosts_item><event_hosts_item><member_name>Matt Murphy</member_name><member_id>4790321</member_id></event_hosts_item><event_hosts_item><member_name>Michael Bourque</member_name><member_id>5046031</member_id></event_hosts_item><event_hosts_item><member_name>Andrew Drane</member_name><member_id>8266401</member_id></event_hosts_item><event_hosts_item><member_name>Heather O'Neill</member_name><member_id>12680969</member_id></event_hosts_item><event_hosts_item><member_name>Bradley Holt</member_name><member_id>13038720</member_id></event_hosts_item><event_hosts_item><member_name>Peter MacIntyre</member_name><member_id>34196652</member_id></event_hosts_item></event_hosts><maybe_rsvp_count>0</maybe_rsvp_count><waitlist_count>0</waitlist_count><updated>1347174747000</updated><rating><average>4.76000022888</average><count>29</count></rating><group><who>Members</who><join_mode>open</join_mode><urlname>bostonphp</urlname><id>120818</id><group_lat>42.3600006104</group_lat><group_lon>-71.0699996948</group_lon><name>Boston PHP</name></group><yes_rsvp_count>115</yes_rsvp_count><created>1341401699000</created><visibility>public</visibility><name>Boston PHP Northeast 2-day Conference</name><id>qztkcdyqlbpb</id><duration>118800000</duration><headcount>300</headcount><utc_offset>-14400000</utc_offset><time>1344686400000</time><rsvp_limit>120</rsvp_limit><event_url>http://www.meetup.com/bostonphp/events/71912512/</event_url></item>

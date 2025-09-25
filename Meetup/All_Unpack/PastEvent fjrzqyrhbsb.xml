@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>	<item><venue><address_2>Star Room on 4th Floor</address_2><address_1>32 Vassar Street</address_1><state>MA</state><zip>02139</zip><lat>42.361753</lat><repinned>False</repinned><phone>(617) 577-8812</phone><name>MIT Stata Center - Star Room</name><city>Cambridge</city><id>588318</id><country>us</country><lon>-71.091419</lon></venue><status>past</status><description>&lt;p&gt;**********************************&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size : large"&gt;Agenda:&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;**********************************&lt;/p&gt;
+&lt;p&gt;&lt;img src="http://photos3.meetupstatic.com/photos/event/a/c/5/9/event_46724121.jpeg" style="max-height : 700px ; max-width : 700px ; margin : 5px ; float : left"&gt;&lt;/img&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;Dr. Paolo Ciccarese, Massachusetts General Hospital and Harvard  Medical School&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Open Annotation Core Data Model&lt;/strong&gt; &lt;br /&gt;
+
+ &lt;br /&gt;
+
+The Open Annotation Core Data Model [1] produced by the   Open Annotation Community Group [2] specifies an interoperable framework for creating associations between related resources, called annotations, using a methodology that conforms to the Architecture of the World Wide Web. Open Annotations can easily be shared between platforms, with sufficient richness of expression to satisfy complex requirements while remaining simple enough to also allow for the most common use cases, such as attaching a piece of text to a single web resource. This talk presents the W3C Open Annotation Community Group specification and the rationale behind the scoping and technical decisions that were made.   &lt;br /&gt;
+
+ &lt;br /&gt;
+
+[1] Open Annotation Core Data Model &lt;br /&gt;
+
+&lt;a href="http://www.openannotation.org/spec/core/"&gt;http://www.openannotation.org/spec/core/&lt;/a&gt; &lt;br /&gt;
+
+[2] Open Annotation Community Group &lt;br /&gt;
+
+&lt;a href="http://www.w3.org/community/openannotation/"&gt;http://www.w3.org/community/openannotation/&lt;/a&gt; &lt;br /&gt;
+
+ &lt;br /&gt;
+
+&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;&lt;strong&gt;About Paolo:&lt;/strong&gt; "I am a senior scientist and software engineer, working in the bio-medical informatics field since the year 2000. My extensive background in software engineering, knowledge management and biomedical informatics, together with my great interest in cutting edge technologies provides the necessary scaffold for me to&lt;/span&gt; transform the ideas and needs of fellow scientists into production-quality software enabling technological innovations in research environments&lt;span&gt;."&lt;/span&gt;&lt;/p&gt;</description><how_to_find_us>Rm 32-D463, 4th floor, Star Conference Room, Stata Center, MIT</how_to_find_us><event_hosts><event_hosts_item><member_name>Kingsley Idehen</member_name><member_id>3320828</member_id></event_hosts_item><event_hosts_item><member_name>Lee Feigenbaum</member_name><member_id>8546101</member_id></event_hosts_item><event_hosts_item><member_name>Ted Slater</member_name><member_id>9149630</member_id></event_hosts_item><event_hosts_item><member_name>Sandro Hawke</member_name><member_id>10819161</member_id></event_hosts_item><event_hosts_item><member_name>David Booth</member_name><member_id>47371092</member_id></event_hosts_item></event_hosts><maybe_rsvp_count>0</maybe_rsvp_count><waitlist_count>0</waitlist_count><updated>1368627614000</updated><rating><average>4.5</average><count>4</count></rating><group><who>Semantic Web Supporters</who><join_mode>open</join_mode><urlname>The-Cambridge-Semantic-Web-Meetup-Group</urlname><id>1336198</id><group_lat>42.3699989319</group_lat><group_lon>-71.0999984741</group_lon><name>Cambridge Semantic Web</name></group><yes_rsvp_count>70</yes_rsvp_count><created>1304603588000</created><visibility>public</visibility><name>Cambridge Semantic Web Monthly Meetup</name><id>fjrzqyrhbsb</id><headcount>0</headcount><utc_offset>-14400000</utc_offset><time>1368568800000</time><event_url>http://www.meetup.com/The-Cambridge-Semantic-Web-Meetup-Group/events/110498092/</event_url></item>

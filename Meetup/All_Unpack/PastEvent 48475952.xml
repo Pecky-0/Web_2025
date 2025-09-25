@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>	<item><venue><address_1>245 Summer St., 14th floor</address_1><state>MA</state><zip>02205</zip><lat>42.351582</lat><repinned>False</repinned><name>Fidelity</name><city>Boston</city><id>5218312</id><country>us</country><lon>-71.053741</lon></venue><status>past</status><description>&lt;p&gt;&lt;em&gt;***Update 2/14/2012***&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;We're looking forward to tomorrow evening, and hope you all are too! &amp;nbsp;Here's what we have planned as a rough&amp;nbsp;agenda:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;5:30-6:00 - Doors open, catering beings&lt;/li&gt;
+&lt;li&gt;6:00-6:15 - Find a seat&lt;/li&gt;
+&lt;li&gt;6:15-6:20 - Brief welcome &amp;amp; introduction&lt;/li&gt;
+&lt;li&gt;6:20-6:40 - Adam @ Cloudera&lt;/li&gt;
+&lt;li&gt;6:45-7:05 - Ted @ MapR&lt;/li&gt;
+&lt;li&gt;7:10-7:30 - Philip @ Hadapt&lt;/li&gt;
+&lt;li&gt;7:30-8:30 - Open networking etc.&lt;/li&gt;
+&lt;li&gt;8:30 - Doors close&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;See you all tomorrow!&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;img src="http://photos3.meetupstatic.com/photos/event/d/b/3/0/event_88556112.jpeg" style="max-height : 700px ; max-width : 700px ; margin : 5px"&gt;&lt;/img&gt;&lt;/p&gt;
+&lt;p&gt;What better way to kick off the new year (albeit a bit belatedly) than with a Hadoop MeetUp? &amp;nbsp;We've gotten support from Cloudera, Fidelity, Hadapt, and MapR for this kick-off event. &amp;nbsp;The agenda we've lined up is geared more towards the beginner Hadoop user, but there will certainly be experts in attendance if you're looking to strike up a more technical discussion. &amp;nbsp;We've lined up three 15-20-minute talks (plus Q&amp;amp;A):&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;Ted Dunning, Chief Application Architect at MapR -&lt;/em&gt; Ted will be giving an overview of machine learning within Hadoop. &amp;nbsp;Bio:&amp;nbsp;&lt;a href="http://linkd.in/xOO0ra"&gt;http://linkd.in/xOO0ra&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Adam&amp;nbsp;Smieszny, Systems Engineer at Cloudera -&lt;/em&gt; Adam will discuss how Hadoop fits into existing data management and analysis workflows. &amp;nbsp;Bio:&amp;nbsp;&lt;a href="http://linkd.in/yJlQmP"&gt;http://linkd.in/yJlQmP&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Philip Wickline, Chief Technology Officer at Hadapt&lt;/em&gt;&amp;nbsp;- Philip will give a high-level discussion about the differences between HBase and Hive, and about transactional versus analytical workloads more generally speaking, and dive into the systems required for each type of workload. &amp;nbsp;Bio:&amp;nbsp;&lt;a href="http://linkd.in/AewGIw"&gt;http://linkd.in/AewGIw&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The kind folks over at Fidelity have offered up conference room space. &amp;nbsp;Cloudera, Hadapt, and MapR will be providing food (of the sandwich or pizza variety) and drinks (of the soda and beer variety). &amp;nbsp;We'll kick things off at a bit past 6pm, run these three lectures until around 7:30, and then have an hour or so to drink beer and chat.&lt;/p&gt;
+&lt;p&gt;You'll notice that there is a cutoff for RSVPing. &amp;nbsp;Fidelity has some security procedures that we need to follow, specifically (a) a guest list a few days in advance and (b) photo ID for each attendee. &amp;nbsp;It would be a shame to have to turn someone away because they're not on the list we give to Fidelity, so please sign up if you intend to come.&lt;/p&gt;
+&lt;p&gt;Please feel free to contact Reed Shea at &lt;a href="mailto:reed@hadapt.com"&gt;reed@hadapt.com&lt;/a&gt; with any questions. &amp;nbsp;We look forward to seeing you there!&lt;/p&gt;
+&lt;p&gt;&lt;em&gt; &lt;br /&gt;
+
+ ***Edit 1/31/2012***&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Glad to see the substantial interest in this event! &amp;nbsp;We have two important updates:&lt;/p&gt;
+&lt;p&gt;- In order to be allowed in to Fidelity's building, as mentioned, we need a guest list and everyone will need photo ID. &amp;nbsp;We therefore need your first and last name on that guest list. &amp;nbsp;If you're not comfortable putting your full name on your MeetUp profile, that's fine - just be sure to email&amp;nbsp;&lt;a href="mailto:reed@hadapt.com"&gt;reed@hadapt.com&lt;/a&gt;&amp;nbsp;with your full name.&lt;/p&gt;
+&lt;p&gt;- We have a capacity limit of around 220 people, so we may have to cap attendance if we get that many RSVPs. &amp;nbsp;(As much as I'd hate to have to turn anyone away, this seems like a pretty good problem for the MeetUp group to have!)&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;***Update 2/9/2012***&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;We've reached our capacity limit, factoring in some anecdotal evidence of meetup event yields. &amp;nbsp;We have 160 seats, so assuming ~75% of the RSVPs attend, it should be a fairly full house. &amp;nbsp;There is also standing room.&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Please RSVP if you're interested in attending; there are still a couple of dozen of people who've indicated that they'd like to come but haven't sent me their full names. &amp;nbsp;If, by Monday, we haven't gotten names, we will open up those slots and alert the next people in line.&lt;/p&gt;</description><how_to_find_us>Fidelity's offices - there will be plenty of signage.</how_to_find_us><event_hosts><event_hosts_item><member_name>Reed Shea </member_name><member_id>30310452</member_id></event_hosts_item></event_hosts><maybe_rsvp_count>0</maybe_rsvp_count><waitlist_count>7</waitlist_count><updated>1335478919000</updated><rating><average>4.26999998093</average><count>26</count></rating><group><who>Members</who><join_mode>open</join_mode><urlname>bostonhadoop</urlname><id>1535756</id><group_lat>42.3699989319</group_lat><group_lon>-71.0999984741</group_lon><name>Boston Hadoop User Group</name></group><yes_rsvp_count>204</yes_rsvp_count><created>1326827073000</created><visibility>public</visibility><name>2012 Kick-off meeting</name><id>48475952</id><headcount>0</headcount><utc_offset>-18000000</utc_offset><time>1329346800000</time><rsvp_limit>220</rsvp_limit><event_url>http://www.meetup.com/bostonhadoop/events/48475952/</event_url></item>

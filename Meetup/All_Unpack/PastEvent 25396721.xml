@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>	<item><venue><address_2>Suite 100</address_2><address_1>One Memorial Drive</address_1><state>MA</state><zip>02142</zip><lat>42.360794</lat><repinned>False</repinned><phone>857-453.6000</phone><name>Microsoft New England Research &amp; Development Center (NERD)</name><city>Cambridge</city><id>1054297</id><country>us</country><lon>-71.082504</lon></venue><status>past</status><description>&lt;p&gt;One of the fascinating features of the Python ecosystem is the variety of implementations of the language.&amp;nbsp; In addition to the classic CPython, there's:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Jython, running on the Java Virtual Machine&lt;/li&gt;
+  &lt;li&gt;IronPython, running on the .NET platform&lt;/li&gt;
+  &lt;li&gt;PyPy, written in Python itself, and faster than CPython!&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;
+&lt;strong&gt;Dave Malcolm&lt;/strong&gt; will introduce us to these alternate implementations, showing the important advantages each brings, the differences from classic Python, and exploring some tantalizing implementation details.&amp;nbsp; If you've ever wondered whether one of these other implementations was for you, or were just curious about how Python works under the hood, this talk is for you.&lt;/p&gt;
+&lt;p&gt;We'll also have some lightning talks.&amp;nbsp; 
+&lt;strong&gt;If you have a lightning talk&lt;/strong&gt; you want to give, drop me a line.&lt;/p&gt;
+&lt;p&gt;As if that's not enough, I'll have a copy of the new book, 
+&lt;strong&gt;
+&lt;a href="http://www.doughellmann.com/books/byexample/"&gt;The Python Standard Library by Example&lt;/a&gt;&lt;/strong&gt; to give away.&amp;nbsp; And of course, we'll have pizza donated by O'Reilly Books.&lt;/p&gt;
+&lt;p&gt;We'll round out the evening at Meadhall for informal socializing.&amp;nbsp; Join us, even if you can't make the presentations.&amp;nbsp; 
+&lt;strong&gt;Proxpro&lt;/strong&gt; will be sponsoring a round of drinks!&lt;/p&gt;</description><event_hosts><event_hosts_item><member_name>Ned Batchelder</member_name><member_id>1824278</member_id></event_hosts_item></event_hosts><maybe_rsvp_count>0</maybe_rsvp_count><waitlist_count>0</waitlist_count><updated>1315350709000</updated><rating><average>4.55999994278</average><count>16</count></rating><group><who>Pythonistas</who><join_mode>open</join_mode><urlname>bostonpython</urlname><id>469457</id><group_lat>42.3800010681</group_lat><group_lon>-71.1299972534</group_lon><name>The Boston Python User Group</name></group><yes_rsvp_count>128</yes_rsvp_count><created>1310430462000</created><visibility>public</visibility><name>Alternate pythons: PyPy, Jython, IronPython, plus lightning talks and beers</name><id>25396721</id><headcount>102</headcount><utc_offset>-14400000</utc_offset><time>1313622000000</time><event_url>http://www.meetup.com/bostonpython/events/25396721/</event_url></item>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>	<item><venue><address_1>373 Washington Street, 02128</address_1><state>MA</state><zip>02111</zip><lat>42.356316</lat><repinned>False</repinned><name>SignedOn</name><city>Boston</city><id>3988352</id><country>us</country><lon>-71.059532</lon></venue><status>past</status><description>&lt;p&gt;&lt;strong&gt;&lt;span style="color : #ad364c"&gt;Update:&lt;/span&gt;&lt;/strong&gt; for those who inquired, there will be Pizza and drinks as usual. Doors open at 6:30pm. Talk starts 7/7:15pm and is approx. 1 hour + questions. There will be time afterwards for people to hang out &amp;amp; geek out. :)&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;span style="color : #ad364c"&gt;&lt;strong&gt;Google map:&lt;/strong&gt;&lt;/span&gt;&amp;nbsp;&lt;a href="http://goo.gl/WzkTx" class="linkified"&gt;http://goo.gl/WzkTx&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;CommonJS via PINF - Christoph Dorn&lt;/strong&gt; &lt;br /&gt;
+
+ &lt;br /&gt;
+
+ &lt;span&gt;&lt;img src="http://photos1.meetupstatic.com/photos/event/b/6/7/8/event_57886712.jpeg" style="max-height : 700px ; max-width : 700px ; margin : 5px ; float : left"&gt;&lt;/img&gt;&lt;/span&gt;JavaScript is awesome in many regards. What is not so great is the lack of an ecosystem in terms of a standard base library to interface with the outside world, dependency management and ways to write portable applications that work across many platforms. This shortcoming is costing developers and companies countless hours of wasted time and frustration every day. We all have a deep desire for our JS code to just work, and play nice together, but achieving this with a technology as powerful and fragmented as JavaScript is a tall order. &lt;br /&gt;
+
+ &lt;br /&gt;
+
+ &lt;span&gt;&lt;a href="http://commonjs.org/"&gt;CommonJS&lt;/a&gt;&amp;nbsp;is a community guided and driven effort by volunteers with diverse backgrounds and interests to converge on a minimal common ground that is sound and scalable. The goal is to make writing portable JS applications that run on servers, browsers, desktop applications, and secure sandboxes not only possible but accessible to developers and development tools without vendor lock-in or steep learning curves.&lt;/span&gt; &lt;br /&gt;
+
+ &lt;br /&gt;
+
+ &lt;span&gt;Problem areas under consideration include modularity, interoperability, portability, securability, dependency management, quality, learnability, simplicity, robustness, composability, compatibility, usability, expressiveness, performance, testing, distribution, deployment and maintenance of JavaScript code and applications.&lt;/span&gt; &lt;br /&gt;
+
+ &lt;br /&gt;
+
+ &lt;span&gt;Rather than blindly copying prior art, everything is up for discussion for the purpose of distilling diverse requirements into concise specifications that can be combined to build the simplest and most complex systems. Much consideration is given to backward and forward compatibility and ensuring that the proposed standards only restrict aspects that must be constrained in the interest of sustaining the entire ecosystem.&lt;/span&gt; &lt;br /&gt;
+
+ &lt;br /&gt;
+
+ &lt;span&gt;&lt;a href="https://github.com/pinf/loader-js"&gt;PINF JavaScript Loader&lt;/a&gt; is one extrapolated interpretation of the CommonJS standards that realizes the dream of portable JavaScript applications composed of libraries from all over the internet today. You don't need to wait for platform implementors to incorporate CommonJS standards. By building on PINF you bring CommonJS with you and in the process build momentum for CommonJS.&lt;/span&gt; &lt;br /&gt;
+
+ &lt;br /&gt;
+
+ &lt;span&gt;Christoph will give us a brief overview of CommonJS and then dive deep into PINF for JavaScript. He will communicate the motivation behind PINF and where it fits into the CommonJS community outlined above. You will walk away with practical advice you can apply immediately to build CommonJS based applications and libraries for production deployment.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt; &lt;br /&gt;
+
+ &lt;strong&gt;About Christoph Dorn - Independent Developer&lt;/strong&gt; &lt;br /&gt;
+
+ &lt;br /&gt;
+
+ &lt;span&gt;&lt;a href="http://www.christophdorn.com/About/"&gt;Christoph&lt;/a&gt;&amp;nbsp;is on a mission to make developers highly efficient in working with open source based systems.&amp;nbsp;&lt;/span&gt; &lt;br /&gt;
+
+ &lt;br /&gt;
+
+ &lt;span&gt;Having a severe dislike to doing anything twice he fine-tuned his calling while managing and working in the software production lifecycle of several companies. In 2006 he "went independent" to actively pursue his own creative direction.&lt;/span&gt; &lt;br /&gt;
+
+ &lt;br /&gt;
+
+ &lt;span&gt;Leveraging 15+ years experience in all areas of the web application development field and unencumbered by corporate interests he is now following his passion of automating the software production and maintenance process end-to-end from a bottom up perspective. Christoph believes open source software and especially JavaScript will revolutionize the way we build systems once we learn how to work together on one global codebase while following our own interests.&lt;/span&gt; &lt;br /&gt;
+
+ &lt;br /&gt;
+
+ &lt;span&gt;Christoph is a long-time member of the Firebug Working Group and CommonJS initiative, has reviewed books for O'Reilly and created the&amp;nbsp;&lt;/span&gt;&lt;span&gt;&lt;a href="http://www.firephp.org/"&gt;FirePHP&lt;/a&gt;&amp;nbsp;project which was the first extension for Firebug back in 2007. His focus is now on rolling out a&lt;/span&gt; &lt;span&gt;&lt;a href="https://github.com/pinf/loader-js"&gt;cross-platform CommonJS loader&lt;/a&gt;&amp;nbsp;along with a new kind of&lt;/span&gt; &lt;span&gt;&lt;a href="http://pinf.org/"&gt;toolchain platform&lt;/a&gt;&amp;nbsp;written 100% in MIT-licensed JavaScript and a suite of&amp;nbsp;&lt;/span&gt;&lt;span&gt;&lt;a href="http://developercompanion.com/"&gt;tools&lt;/a&gt; and&lt;/span&gt; &lt;span&gt;&lt;a href="http://sourcemint.com/"&gt;services&lt;/a&gt;&amp;nbsp;that aim to make portable JavaScript applications actually practical and enjoyable to build and maintain.&lt;/span&gt;&lt;/p&gt;</description><how_to_find_us>Find directions at: http://signedon.com/contact.html</how_to_find_us><event_hosts><event_hosts_item><member_name>Alistair MacDonald</member_name><member_id>9070213</member_id></event_hosts_item></event_hosts><maybe_rsvp_count>0</maybe_rsvp_count><waitlist_count>0</waitlist_count><updated>1318771370000</updated><rating><average>4.5</average><count>6</count></rating><group><who>JavaScripters</who><join_mode>open</join_mode><urlname>javascript-2</urlname><id>884541</id><group_lat>42.3499984741</group_lat><group_lon>-71.0400009155</group_lon><name>The Boston JavaScript Meetup Group</name></group><yes_rsvp_count>60</yes_rsvp_count><created>1316723494000</created><visibility>public</visibility><name>Using CommonJS with PINF JavaScript Loader</name><id>34599802</id><headcount>0</headcount><utc_offset>-14400000</utc_offset><time>1318631400000</time><rsvp_limit>70</rsvp_limit><event_url>http://www.meetup.com/javascript-2/events/34599802/</event_url></item>

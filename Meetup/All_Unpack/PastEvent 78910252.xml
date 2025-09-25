@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>	<item><venue><address_1>35 West Main Street</address_1><state>MA</state><zip>01752</zip><lat>42.346043</lat><repinned>False</repinned><phone>530-736-9189</phone><name>Marlborough Public Library</name><city>Marlborough</city><id>966581</id><country>us</country><lon>-71.554450</lon></venue><status>past</status><description>&lt;p&gt;Getting the Most of Networks on iOS by Michael Katz, Sr. Software Engineer, Kinvey&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Introduction 
+&lt;ul&gt;
+&lt;li&gt;Speaker&lt;/li&gt;
+&lt;li&gt;Topic&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Network Basics 
+&lt;ul&gt;
+&lt;li&gt;Why bring apps online&lt;/li&gt;
+&lt;li&gt;Establishing a NSURLConnection&lt;/li&gt;
+&lt;li&gt;Connecting to types of services&lt;/li&gt;
+&lt;li&gt;Other options, CFNetwork, bluetooth (time permitting)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Designing for Mobile 
+&lt;ul&gt;
+&lt;li&gt;Keep the app responsive&lt;/li&gt;
+&lt;li&gt;Error Handling&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Testing 
+&lt;ul&gt;
+&lt;li&gt;Performance&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Building a Server (time permitting)&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;</description><event_hosts><event_hosts_item><member_name>Sanjay Chaudhry</member_name><member_id>10680405</member_id></event_hosts_item></event_hosts><maybe_rsvp_count>0</maybe_rsvp_count><waitlist_count>0</waitlist_count><updated>1347752181000</updated><rating><average>5.0</average><count>4</count></rating><group><who>iOS Developers &amp; Fanatics</who><join_mode>open</join_mode><urlname>nwiphone</urlname><id>1240376</id><group_lat>42.3499984741</group_lat><group_lon>-71.5500030518</group_lon><name>Greater Boston iOS Developers</name></group><yes_rsvp_count>14</yes_rsvp_count><created>1345669197000</created><visibility>public</visibility><name>Getting the Most of Networks on iOS</name><id>78910252</id><headcount>0</headcount><duration>6300000</duration><utc_offset>-14400000</utc_offset><time>1347489000000</time><rsvp_limit>40</rsvp_limit><event_url>http://www.meetup.com/nwiphone/events/78910252/</event_url></item>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>	<item><status>past</status><description>&lt;p&gt;Dear friends in Java:&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;We have arranged&amp;nbsp;Sang Shin to talk about&amp;nbsp;Context and Dependency Injection. Bring your laptop!&lt;/p&gt;
+&lt;p&gt;This &amp;nbsp;meeting will be at the Cambridge Innovation Center on Tuesday February 21st, 2012. We will gather at 6:30 and enjoy goodies provided by our sponsors Wuhu and Hippo and then delve into more Java.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;span style="color : #888888 ; font-size : medium"&gt;The title&amp;nbsp; "Why CDI is so cool?"&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt; &lt;br /&gt;
+
+ &lt;span&gt;Among the many new features and improvements introduced in Java EE 6, Context and Dependency Injection (CDI) introduces the most fundamental change, thus will have a far-reaching impact to the way we build Java EE based enterprise applications moving forward.&amp;nbsp; In short, it provides a unifying Dependency Injection and contextual life-cycle model.&amp;nbsp; In this presentation, we are going to go over both basic and advanced features of CDI.&amp;nbsp; Each feature will be explained and demonstrated.&lt;/span&gt; &lt;br /&gt;
+
+ &lt;br /&gt;
+
+ &lt;span&gt;Attendees are also encouraged to bring their own laptops to experiment. The Maven-based sample applications are provided on the website below so that attendees can do the experimentation together with the speaker.&amp;nbsp; Also limited number of memory cards that contain the sample apps are going to be provided on the spot.&lt;/span&gt; &lt;br /&gt;
+
+ &lt;br /&gt;
+
+ &lt;span&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;a href="http://www.javapassion.com/jugtalks/#cdi" target="_blank"&gt;http://www.javapassion.com/jugtalks/#cdi&lt;/a&gt; &lt;br /&gt;
+
+ &lt;br /&gt;
+
+ &lt;span&gt;Bio&lt;/span&gt; &lt;br /&gt;
+
+ &lt;br /&gt;
+
+ &lt;span&gt;Sang Shin has been working with Java technologies as the Lead Java Technology Architect and Evangelist at Sun Microsystems. Since early 2011, Sang has been the primary JRebel Evangelist for ZeroTurnaround, visiting JUGs, exhibiting with the company at events, and even getting a little involved with LiveRebel. In his "free" time, Sang operates and provides instruction on JPassion.com (formerly Javapassion.com), a popular learning site that he founded for Java/Spring/Ruby/MySQL/Android developers. Sang frequently gives talks at various conferences around the world such as JavaOne &amp;amp; Devoxx on various Java technologies such as Java EE, Java SE, Web application frameworks, Web services and SOA technologies.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Please feel free to suggest or volunteer for any topic, activity or event.&lt;/p&gt;
+&lt;p&gt;Logistics: Cambridge Innovation Center is located at 1 Broadway, Cambridge, MA 02142, 14th floor.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Starts at 6:30 pm.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Best,&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Burc Oral&lt;/p&gt;</description><event_hosts><event_hosts_item><member_name>Burc Oral</member_name><member_id>4238999</member_id></event_hosts_item></event_hosts><maybe_rsvp_count>0</maybe_rsvp_count><waitlist_count>1</waitlist_count><updated>1332200427000</updated><rating><average>4.44999980927</average><count>11</count></rating><group><who>Java Developers</who><join_mode>open</join_mode><urlname>boston-java</urlname><id>87071</id><group_lat>42.3699989319</group_lat><group_lon>-71.0999984741</group_lon><name>The Boston Java Meetup Group</name></group><yes_rsvp_count>85</yes_rsvp_count><created>1328195041000</created><visibility>public</visibility><name>Boston Java Meetup February 2012 Meeting-Context and Dependency Injection</name><id>50719082</id><headcount>65</headcount><utc_offset>-18000000</utc_offset><time>1329867000000</time><rsvp_limit>92</rsvp_limit><event_url>http://www.meetup.com/boston-java/events/50719082/</event_url></item>

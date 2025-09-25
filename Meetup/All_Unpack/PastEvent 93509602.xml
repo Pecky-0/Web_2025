@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>	<item><venue><address_1>1 Broadway</address_1><state>MA</state><zip>02142</zip><lat>42.363068</lat><repinned>False</repinned><name>Cambridge Innovation Center</name><city>Cambridge</city><id>5488072</id><country>us</country><lon>-71.083893</lon></venue><status>past</status><description>&lt;p&gt;&lt;span style="color : #800080 ; font-size : medium"&gt;&lt;strong&gt;Java and Elasticity:Scaling Java Apps with Elastic Database Virtualization&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Amrith Kumar&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt; &lt;br /&gt;
+
+&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Data driven Java applications often face scalability challenges because of their underlying database tier. This is largely because conventional relational databases are inflexible and application developers are required to configure and provision database capacity to meet peak or near demand. &lt;br /&gt;
+
+ &lt;br /&gt;
+
+ This is neither cost effective, nor even feasible for high growth companies. Some traditional solutions to this problem are hard-to-use, non-standard, and fragile. They also, most often, require wholesale application rewrites.&lt;/p&gt;
+&lt;p&gt;In this talk, we present an alternative method to solve this problem based on elastic database virtualization architectures. The talk will present some insights into the inner workings of one such solution, and include a brief demonstration.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;About the speaker&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Amrith Kumar is a founder and the chief technology officer of ParElastic. He brings over two decades of experience delivering industry- leading products for companies specializing in enterprise storage applications, fault tolerant high performance systems and massively parallel databases. ParElastic is software that makes groups of databases work together as a single virtual database. The application perceives a single instance of MySQL and in most cases the unmodified application can be made to work with ParElastic. ParElastic is the only solution that brings the flexibility of cloud architectures to all dimensions of your database. Leveraging your existing MySQL servers ParElastic enables unprecedented adaptability to ever changing workloads and information consumption patterns.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt; &lt;br /&gt;
+
+&lt;/strong&gt;&lt;/p&gt;</description><how_to_find_us>Havana Conference Room</how_to_find_us><event_hosts><event_hosts_item><member_name>Burc Oral</member_name><member_id>4238999</member_id></event_hosts_item></event_hosts><maybe_rsvp_count>0</maybe_rsvp_count><waitlist_count>0</waitlist_count><updated>1360720211000</updated><rating><average>4.82999992371</average><count>6</count></rating><group><who>Java Developers</who><join_mode>open</join_mode><urlname>boston-java</urlname><id>87071</id><group_lat>42.3699989319</group_lat><group_lon>-71.0999984741</group_lon><name>The Boston Java Meetup Group</name></group><yes_rsvp_count>101</yes_rsvp_count><created>1354301043000</created><visibility>public</visibility><name>Java and Elasticity:Scaling Java Apps with Elastic Database Virtualization</name><id>93509602</id><headcount>0</headcount><utc_offset>-18000000</utc_offset><time>1358292600000</time><event_url>http://www.meetup.com/boston-java/events/93509602/</event_url></item>

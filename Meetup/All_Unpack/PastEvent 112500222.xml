@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>	<item><venue><address_1>177 Huntington Ave</address_1><state>MA</state><zip>02115</zip><lat>42.345032</lat><repinned>False</repinned><name>Carbonite, Inc. 24th floor. (Actually Wayfair inc. meeting space available to Carbonite)</name><city>Boston</city><id>13789962</id><country>us</country><lon>-71.082481</lon></venue><status>past</status><description>&lt;p&gt;Good day to everyone. Hope you are enjoying the summer!&lt;/p&gt;
+&lt;p&gt;Our upcoming June 10th Meetup will be &lt;a href="http://www.carbonite.com/about/our-story"&gt;hosted by Carbonite&lt;/a&gt;. A big thank you to Meetup member Jamie Cooley for arranging this. &lt;br /&gt;
+
+ &lt;br /&gt;
+
+Food and drink for this event will be sponsored by Extreme Reach.&lt;/p&gt;
+&lt;p&gt;Please note the address for this event, which &lt;span&gt;is at the Christian Science Plaza, near the Prudential. There's a variety of parking options available, and the Prudential T on the Green Line is directly across the street. Hynes, Back Bay Station, Copley Square are all within 3-4 blocks.&lt;/span&gt; &lt;span&gt;(Carbonite is using&lt;/span&gt; Wayfair inc. meeting space)&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;Here is the location:&lt;/span&gt; &lt;a href="http://goo.gl/maps/D9bl2" target="_blank"&gt;http://goo.gl/maps/D9bl2&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Security will be in place so an RSVP is Required for Attendance.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;The main topic is Big Data, and includes the following presenters;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;* Carbonite &lt;br /&gt;
+
+ * Jaspersoft Corporation &lt;br /&gt;
+
+ * Stackdriver&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;span&gt; &lt;br /&gt;
+
+Carbonite Presentation:&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;Carbonite has developed a robust platform for online backup that has scaled to support our rapid growth.  Our sophisticated cloud storage solution is comprised of thousands of servers responsible for managing more than 100 petabytes of our customers’ critica&lt;/span&gt;&lt;span&gt;l customer data.  To-date we have backed up nearly 300 billion files and continue to add approximately 350,000,000 new files per day.   We are now embarked on developing our next generation cloud storage service platform supporting a broad range of new data services and applications, with a plan to scale to more than 500 petabytes.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;This session will tell the story of how Carbonite utilized the Amazon Web Services platform to quickly build and deploy a cloud-based&lt;/span&gt; &lt;span&gt;‘Big Data’&lt;/span&gt; solution to answer questions for our Product team regarding the types of information we manage for our customers.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;span&gt;About the presenter&lt;/span&gt;&lt;/em&gt;&lt;span&gt;:  Matt Drayer is an Architect with Carbonite’s Office of the CTO.  He specializes in the design and development of highly-scalable distributed systems and service-oriented architectures.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Jaspersoft Presentation:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;If you're deploying 'Big Data' you are almost guaranteed to use, or at least seriously evaluate, cloud based deployments. When scaling up (or down), the cloud is the natural choice for Big Data solutions due to its ease of deployment, scalability, flexibility, and cost effectiveness. Getting the data into Hadoop, for example, is pretty easy. The big question is how to create meaningful and timely sense of all that data to drive business decisions. &lt;br /&gt;
+
+ &lt;br /&gt;
+
+ This session shows how to get data out of various Hadoop implementations and into analyst hands. The session is focused on live demonstration using Amazon EC2, Cloudera CDH (HBase and Hive), Cloudera Impala, and Jaspersoft BI for AWS.  &lt;br /&gt;
+
+ &lt;br /&gt;
+
+ Topics Covered: &lt;br /&gt;
+
+ - A brief comparison of Hadoop data retrieval methods, including programmatic approaches - Demonstrations of reporting, analytics, and dashboarding, both batch and near-real time &lt;br /&gt;
+
+ - Jaspersoft BI for AWS pricing model to help you determine if a cloud based BI solution makes sense for your organization &lt;br /&gt;
+
+ - References and suggestions for free training and tutorials to learn more &lt;br /&gt;
+
+ &lt;br /&gt;
+
+ &lt;em&gt;About the presenter:&lt;/em&gt; Mary Flynn is a long-time Jaspersoft veteran. She has fulfilled various technical marketing roles and was the director of the worldwide sales engineering team. She is currently a technology evangelist.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt; &lt;br /&gt;
+
+ Stackdriver Presentation:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;The Stackdriver Intelligent Monitoring Service can collect more than 10M measurements per day from a customer's application environment.To transform this large set of raw data into meaningful and insightful information, Stackdriver performs a number of different types of data analysis.  All of these analyses use AWS services extensively.  Raw data is archived in S3 for accessibility and persistence.  The bulk of the analysis is performed with Hadoop delivered via AWS Elastic Map/Reduce (EMR).  Some results are recorded in our EC2-hosted Cassandra cluster for the customer to consume via the web app.  Other results are pushed to the customer proactively using the AWS Simple Notification Service (SNS) and the Simple Email Service (SES).  This talk will describe how we combine the AWS services with our Python-based code base to provide our customers withintelligent analysis of their application infrastructure.  We will help others understand how to use similar approaches for analysis in their applications. &lt;br /&gt;
+
+ &lt;br /&gt;
+
+ &lt;em&gt;Presenter:&lt;/em&gt; Patrick Eaton with Stackdriver. &lt;br /&gt;
+
+ &lt;br /&gt;
+
+&lt;/span&gt;&lt;/p&gt;</description><event_hosts><event_hosts_item><member_name>Mark Annati</member_name><member_id>9394912</member_id></event_hosts_item></event_hosts><maybe_rsvp_count>0</maybe_rsvp_count><waitlist_count>0</waitlist_count><updated>1370958434000</updated><rating><average>4.5</average><count>4</count></rating><group><who>People interested in Web tech</who><join_mode>open</join_mode><urlname>The-Boston-Amazon-Web-Services-Meetup-Group</urlname><id>1367428</id><group_lat>42.3600006104</group_lat><group_lon>-71.0500030518</group_lon><name>The Boston Amazon Web Services Meetup Group</name></group><yes_rsvp_count>93</yes_rsvp_count><created>1365015979000</created><visibility>public</visibility><name>Boston Amazon Web Services Meetup Group</name><id>112500222</id><headcount>0</headcount><duration>7200000</duration><utc_offset>-14400000</utc_offset><time>1370905200000</time><event_url>http://www.meetup.com/The-Boston-Amazon-Web-Services-Meetup-Group/events/112500222/</event_url></item>

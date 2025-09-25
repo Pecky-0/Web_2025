@@ -1,0 +1,2 @@
+<?xml version='1.0' encoding='utf-8'?>
+<results><head><url>https://api.meetup.com/2/rsvps.xml?key=6b457b5342622446e4c3f214a6e3b15&amp;event_id=xppwcympbzb&amp;order=event&amp;desc=false&amp;format=xml&amp;offset=0&amp;page=200&amp;fields=</url><method>RSVPs v2</method><description>Query for Event RSVPs by event</description><count>0</count><updated>Fri May 24 03:26:37 EDT 2013</updated><lat /><next /><id /><link>https://api.meetup.com/2/rsvps.xml</link><title>Meetup RSVPs v2</title><total_count>0</total_count><lon /></head><items /></results>

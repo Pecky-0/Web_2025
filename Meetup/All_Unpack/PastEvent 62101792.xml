@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>	<item><venue><address_1>1 Broadway</address_1><state>MA</state><zip>02142</zip><lat>42.363068</lat><repinned>False</repinned><name>Cambridge Innovation Center</name><city>Cambridge</city><id>5488072</id><country>us</country><lon>-71.083893</lon></venue><status>past</status><description>&lt;p&gt;&lt;strong&gt;Java and Security: Apache Shiro and OAuth.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;Apache Shiro is one of the largest open-source application security frameworks available, and with the recent release of Shiro 1.2, over 10,000 new instances launch every month. Shiro supports the four cornerstones of application security: authentication, authorization, enterprise session management, and cryptography. Shiro 1.2 extends the tools, core and especially web functionality of Shiro, and adds extensive support modules.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;Apache Shiro PMC Chair and Stormpath Founder/CTO, Les Hazlewood, will give a code-heavy overview of the framework, including... &lt;br /&gt;
+
+ &lt;br /&gt;
+
+&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;How to enable all four cornerstones for any application (standalone, mobile phone, web based, etc)&lt;/li&gt;
+&lt;li&gt;An overview of how Shiro leverages OAuth, SAML, and Tapestry&lt;/li&gt;
+&lt;li&gt;&lt;span style="color : #222222"&gt;Why you might want to use Shiro instead of alternatives like JAAS or Spring Security&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="color : #222222"&gt;An overview of Shiro’s innovative web support module and security filtering capabilities&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="color : #222222"&gt;The core architectural concepts of the framework&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;What's new in Shiro 1.2&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Les Hazlewood&lt;/strong&gt; is co-founder and CTO of Stormpath and the Apache Shiro PMC Chair. Prior to forming Stormpath, he held senior architectural positions at Bloomberg and Delta Airlines and he was former CTO of a software engineering firm supporting educational and government agencies. Les has been actively involved in Open Source development for more than 10 years, committing or contributing to projects like the Spring Framework, JBoss, and of course Apache Shiro. Les has a BS in Computer Science from Georgia Tech, currently lives in San Mateo, CA and practices Kendo and studies Japanese when he's not banging out code. &lt;br /&gt;
+
+ &lt;br /&gt;
+
+&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;</description><event_hosts><event_hosts_item><member_name>Burc Oral</member_name><member_id>4238999</member_id></event_hosts_item></event_hosts><maybe_rsvp_count>0</maybe_rsvp_count><waitlist_count>0</waitlist_count><updated>1340233524000</updated><rating><average>4.32999992371</average><count>6</count></rating><group><who>Java Developers</who><join_mode>open</join_mode><urlname>boston-java</urlname><id>87071</id><group_lat>42.3699989319</group_lat><group_lon>-71.0999984741</group_lon><name>The Boston Java Meetup Group</name></group><yes_rsvp_count>72</yes_rsvp_count><created>1335379603000</created><visibility>public</visibility><name>Java and Security: Apache Shiro and OAuth.</name><id>62101792</id><headcount>25</headcount><utc_offset>-14400000</utc_offset><time>1340145000000</time><rsvp_limit>73</rsvp_limit><event_url>http://www.meetup.com/boston-java/events/62101792/</event_url></item>
