@@ -1,5 +1,4 @@
 import os
-import json
 import pickle
 from collections import defaultdict, OrderedDict
 from typing import List, Dict, Set, Tuple
@@ -141,97 +140,6 @@ class InvertedIndex:
         
         print(f"多层跳表指针添加完成，共 {levels} 层")
     
-    def compress_block_storage(self, block_size: int = 4):
-        """按块存储压缩"""
-        print("开始按块存储压缩...")
-        
-        compressed_index = {}
-        original_size = 0
-        compressed_size = 0
-        
-        for term, doc_list in self.inverted_index.items():
-            original_size += len(str(doc_list))
-            
-            # 处理多层跳表结构
-            if isinstance(doc_list[0], list):
-                compressed_levels = []
-                for level_docs in doc_list:
-                    level_blocks = []
-                    for i in range(0, len(level_docs), block_size):
-                        block = level_docs[i:i + block_size]
-                        level_blocks.append(block)
-                    compressed_levels.append(level_blocks)
-                compressed_index[term] = compressed_levels
-            
-            # 处理单层跳表结构
-            elif isinstance(doc_list[0], dict) and 'doc_id' in doc_list[0]:
-                blocks = []
-                for i in range(0, len(doc_list), block_size):
-                    block = doc_list[i:i + block_size]
-                    blocks.append(block)
-                compressed_index[term] = blocks
-            
-            # 处理基本结构
-            else:
-                blocks = []
-                for i in range(0, len(doc_list), block_size):
-                    block = doc_list[i:i + block_size]
-                    blocks.append(block)
-                compressed_index[term] = blocks
-            
-            compressed_size += len(str(compressed_index[term]))
-        
-        compression_ratio = (1 - compressed_size / original_size) * 100
-        print(f"按块存储压缩完成，压缩率: {compression_ratio:.2f}%")
-        
-        return compressed_index, compression_ratio
-    
-    def compress_front_coding(self):
-        """前端编码压缩"""
-        print("开始前端编码压缩...")
-        
-        compressed_index = {}
-        original_size = 0
-        compressed_size = 0
-        
-        # 对词项排序以便前端编码
-        sorted_terms = sorted(self.inverted_index.keys())
-        
-        for i, term in enumerate(sorted_terms):
-            original_size += len(term) + len(str(self.inverted_index[term]))
-            
-            if i == 0:
-                # 第一个词项不压缩
-                compressed_index[term] = {
-                    'encoded': term,
-                    'data': self.inverted_index[term]
-                }
-            else:
-                prev_term = sorted_terms[i - 1]
-                common_prefix = 0
-                
-                # 计算公共前缀长度
-                min_len = min(len(term), len(prev_term))
-                for j in range(min_len):
-                    if term[j] == prev_term[j]:
-                        common_prefix += 1
-                    else:
-                        break
-                
-                # 前端编码：公共前缀长度 + 剩余部分
-                encoded_term = f"{common_prefix}{term[common_prefix:]}"
-                compressed_index[term] = {
-                    'encoded': encoded_term,
-                    'data': self.inverted_index[term]
-                }
-            
-            compressed_size += len(compressed_index[term]['encoded']) + len(str(compressed_index[term]['data']))
-        
-        compression_ratio = (1 - compressed_size / original_size) * 100
-        print(f"前端编码压缩完成，压缩率: {compression_ratio:.2f}%")
-        
-        return compressed_index, compression_ratio
-    
     def save_index(self, filename: str):
         """保存倒排索引到文件"""
         with open(filename, 'wb') as f:
@@ -277,12 +185,6 @@ class IndexBuilder:
         
         # 4. 添加多层跳表指针
         self.index.add_multi_level_skip_pointers(levels=2)
-        
-        # 5. 索引压缩
-        block_compressed, block_ratio = self.index.compress_block_storage(block_size=4)
-        front_compressed, front_ratio = self.index.compress_front_coding()
-        
-        return block_compressed, front_compressed, block_ratio, front_ratio
     
     def build_basic_index_only(self):
         """只构建基本索引（用于调试）"""
@@ -349,7 +251,7 @@ def main():
     try:
         # 构建完整索引
         start_time = time.time()
-        block_compressed, front_compressed, block_ratio, front_ratio = builder.build_complete_index()
+        builder.build_complete_index()
         end_time = time.time()
         
         print(f"\n索引构建完成，耗时: {end_time - start_time:.2f} 秒")
@@ -361,22 +263,8 @@ def main():
         index_file = os.path.join(task3_output_path, 'inverted_index.pkl')
         builder.index.save_index(index_file)
         
-        # 保存压缩结果
-        compression_results = {
-            'block_storage': {
-                'compression_ratio': block_ratio
-            },
-            'front_coding': {
-                'compression_ratio': front_ratio
-            },
-            'build_time': end_time - start_time
-        }
-        
-        with open(os.path.join(task3_output_path, 'compression_results.json'), 'w', encoding='utf-8') as f:
-            json.dump(compression_results, f, ensure_ascii=False, indent=2)
-        
         # 生成索引报告
-        generate_index_report(builder, task3_output_path, block_ratio, front_ratio)
+        generate_index_report(builder, task3_output_path)
         
     except Exception as e:
         print(f"构建索引时出错: {e}")
@@ -390,7 +278,7 @@ def main():
         index_file = os.path.join(task3_output_path, 'basic_inverted_index.pkl')
         builder.index.save_index(index_file)
 
-def generate_index_report(builder: IndexBuilder, output_path: str, block_ratio: float, front_ratio: float):
+def generate_index_report(builder: IndexBuilder, output_path: str):
     """生成索引构建报告"""
     report_file = os.path.join(output_path, 'index_build_report.txt')
     
@@ -409,8 +297,6 @@ def generate_index_report(builder: IndexBuilder, output_path: str, block_ratio: 
         
         f.write("2. 索引优化结果:\n")
         f.write("-" * 30 + "\n")
-        f.write(f"按块存储压缩率: {block_ratio:.2f}%\n")
-        f.write(f"前端编码压缩率: {front_ratio:.2f}%\n\n")
         
         f.write("3. 倒排索引示例 (前10个词项):\n")
         f.write("-" * 30 + "\n")
