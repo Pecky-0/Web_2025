@@ -233,8 +233,8 @@ class IndexBuilder:
 def main():
     """主函数"""
     # 配置路径
-    task2_output_path = '../../outputs/Task_2'
-    task3_output_path = '../../outputs/Task_3'
+    task2_output_path = '\web\lab1\Web_2025\outputs\Task_2'
+    task3_output_path = '\web\lab1\Web_2025\outputs\Task_3'
     
     # 创建输出目录
     os.makedirs(task3_output_path, exist_ok=True)

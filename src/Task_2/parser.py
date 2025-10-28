@@ -242,8 +242,9 @@ def save_raw_description_comparison(original, cleaned, filename):
 
 def main():
     """主函数 - 修改版，加入文本处理"""
-    file_path = '../../Meetup/All_Unpack'
-    save_path = '../../outputs/Task_2'
+    #file_path = '../../Meetup/All_Unpack'
+    file_path = 'D:\web\lab1\Web_2025\Meetup\All_Unpack'
+    save_path = 'D:\web\lab1\Web_2025\outputs\Task_2'
     
     # 创建输出目录
     os.makedirs(os.path.join(save_path, 'TXT'), exist_ok=True)
