@@ -139,6 +139,7 @@ def train(args):
 
     # train model 
     for epoch in range(1, args.n_epoch + 1):
+
         model.train()
 
         time1 = time()
@@ -149,14 +150,20 @@ def train(args):
         for iter in range(1, n_batch + 1):
             time2 = time()
 
+            # print("DEBUGGGGG_-1")
+
             # 从训练 KG 中采一个 batch 的 (h, r, pos_t, neg_t)
             kg_batch_head, kg_batch_relation, kg_batch_pos_tail, kg_batch_neg_tail = \
                 data.generate_kg_batch(data.kg_dict, data.kg_batch_size, data.n_entities)
+
+            # print("DEBUGGGGG_0")
 
             kg_batch_head = kg_batch_head.to(device)
             kg_batch_relation = kg_batch_relation.to(device)
             kg_batch_pos_tail = kg_batch_pos_tail.to(device)
             kg_batch_neg_tail = kg_batch_neg_tail.to(device)
+
+            # print("DEBUGGGGG")
 
             batch_loss = model(kg_batch_head,
                                kg_batch_relation,
@@ -272,5 +279,5 @@ def predict(args):
 if __name__ == '__main__':
 
     args = parse_args()
-    train(args)
-    # predict(args)
+    # train(args)
+    predict(args)

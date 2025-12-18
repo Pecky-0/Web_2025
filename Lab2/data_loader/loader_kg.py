@@ -94,7 +94,7 @@ class DataLoaderBase(object):
         - 直到采满 n_sample_neg_triples 个负 tail（负样本） 为止。返回
         """
         # 当前 head 在图中的所有正例 (tail, relation) 对
-        pos_triples =
+        pos_triples = kg_dict[head]
 
         # 用于存放采样到的负 tail
         sample_neg_tails = []
@@ -104,10 +104,17 @@ class DataLoaderBase(object):
                 break
 
             # 在 [0, highest_neg_idx) 范围内随机采样一个 tail 作为负样本候选
-            tail =
+            tail = np.random.randint(low=0, high=highest_neg_idx - 1, size=1)[0]
 
             # 仅当 (tail, relation) 不是正例，且 tail 尚未被采样过时，将其加入 sample_neg_tails
-            if
+            flag = True
+            for triple in pos_triples:
+                if tail == triple[0]:
+                    flag = False
+                    break
+
+            if flag and not(tail in sample_neg_tails):
+                sample_neg_tails.append(tail)
 
         return sample_neg_tails
 
@@ -127,12 +134,14 @@ class DataLoaderBase(object):
         batch_relation, batch_pos_tail, batch_neg_tail = [], [], []
         for h in batch_head:
             relation, pos_tail = self.sample_pos_triples_for_h(kg_dict, h, 1)
+
             batch_relation += relation
             batch_pos_tail += pos_tail
 
             neg_tail = self.sample_neg_triples_for_h(
                 kg_dict, h, relation[0], 1, highest_neg_idx
             )
+
             batch_neg_tail += neg_tail
 
         batch_head = torch.LongTensor(batch_head)
