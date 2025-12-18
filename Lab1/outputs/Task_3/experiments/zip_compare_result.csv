@@ -1,0 +1,49 @@
+query,expr,index_type,mean_ms,sd_ms,result_count
+Q1,(community OR meetup) AND NOT (ticket OR sale),uncompressed,23.396630000061123,1.6137841669687332,75172
+Q2,(photography AND workshop) AND (hiking AND outdoor),uncompressed,0.670637999792234,0.10232207474457267,0
+Q3,web AND development AND meetup AND NOT (please OR join),uncompressed,29.553132000000915,1.9070324067019255,118
+Q4,(volunteer OR organizer) AND (music AND meetup),uncompressed,13.43780000017432,1.0246600585382364,575
+Q5,(networking AND startup) AND (food OR drinks),uncompressed,1.9478440000966657,0.17404904802724305,0
+Q6,(community AND event) AND NOT (spam OR advertisement),uncompressed,5.178930000329274,0.39624721137077595,2386
+Q7,(photography AND meetup) AND (food OR drinks OR networking) AND NOT ticket,uncompressed,16.030316000178573,0.8810951833019776,60
+Q8,(web AND development) AND (photography AND workshop) AND NOT (spam OR advertisement),uncompressed,1.4812959997652797,0.0988149270056674,1
+Q9,(music OR food OR community) AND (volunteer AND organizer) AND NOT sale,uncompressed,15.339486000229954,0.7598879851913134,419
+Q10,(networking AND meetup AND startup) AND (web OR development OR photography),uncompressed,6.059499999901163,0.5209062003119068,0
+Q11,(hiking OR outdoor OR music) AND NOT (join OR please),uncompressed,22.96658799983561,1.4137258631384808,10083
+Q12,(community AND meetup) AND (food AND drinks) AND NOT spam,uncompressed,8.956629999811412,1.3313176334776045,0
+Q13,(photography OR music OR web) AND (development AND startup),uncompressed,6.769067999775871,0.46972781702107075,31
+Q14,(community AND volunteer) AND (event OR meetup OR music),uncompressed,40.18720199979725,2.0188128904440776,421
+Q15,(photography AND networking) AND NOT (sale OR ticket),uncompressed,1.6314640002383385,0.1737781637347748,0
+Q16,(web OR development OR photography OR music) AND NOT advertisement,uncompressed,7.43043399976159,0.6306047875992508,21680
+Q1,(community OR meetup) AND NOT (ticket OR sale),compressed_direct,23.373761999682756,1.6821871006502256,75172
+Q2,(photography AND workshop) AND (hiking AND outdoor),compressed_direct,0.6467639999027597,0.10500018803996224,0
+Q3,web AND development AND meetup AND NOT (please OR join),compressed_direct,29.697093999857316,4.481760271577674,118
+Q4,(volunteer OR organizer) AND (music AND meetup),compressed_direct,13.680264000213356,1.1951492762314455,575
+Q5,(networking AND startup) AND (food OR drinks),compressed_direct,1.9913839998480398,0.27681290673912157,0
+Q6,(community AND event) AND NOT (spam OR advertisement),compressed_direct,5.189902000493021,0.4545229262205512,2386
+Q7,(photography AND meetup) AND (food OR drinks OR networking) AND NOT ticket,compressed_direct,16.10231600025145,1.069050786900466,60
+Q8,(web AND development) AND (photography AND workshop) AND NOT (spam OR advertisement),compressed_direct,1.5112419999786653,0.1142097288735845,1
+Q9,(music OR food OR community) AND (volunteer AND organizer) AND NOT sale,compressed_direct,14.96361400015303,0.7317716022025708,419
+Q10,(networking AND meetup AND startup) AND (web OR development OR photography),compressed_direct,6.022061999683501,0.48383701613121105,0
+Q11,(hiking OR outdoor OR music) AND NOT (join OR please),compressed_direct,22.82917799988354,1.1571049781067875,10083
+Q12,(community AND meetup) AND (food AND drinks) AND NOT spam,compressed_direct,9.06552999986161,1.2839894446898605,0
+Q13,(photography OR music OR web) AND (development AND startup),compressed_direct,6.6232880003371974,0.17994691568927484,31
+Q14,(community AND volunteer) AND (event OR meetup OR music),compressed_direct,39.837691999418894,1.3659260600821599,421
+Q15,(photography AND networking) AND NOT (sale OR ticket),compressed_direct,1.6783040003065253,0.49018262489958336,0
+Q16,(web OR development OR photography OR music) AND NOT advertisement,compressed_direct,7.426018000332988,0.6212122688209216,21680
+Q1,(community OR meetup) AND NOT (ticket OR sale),compressed_stream,23.443675999951665,1.560586657229926,75172
+Q2,(photography AND workshop) AND (hiking AND outdoor),compressed_stream,0.5843279998225626,0.030896344624354692,0
+Q3,web AND development AND meetup AND NOT (please OR join),compressed_stream,29.091264000016963,1.3899230832391287,118
+Q4,(volunteer OR organizer) AND (music AND meetup),compressed_stream,13.682464000303298,1.0587666850212787,575
+Q5,(networking AND startup) AND (food OR drinks),compressed_stream,1.9524459994863719,0.18823205728257447,0
+Q6,(community AND event) AND NOT (spam OR advertisement),compressed_stream,5.053962000019965,0.30680579970838556,2386
+Q7,(photography AND meetup) AND (food OR drinks OR networking) AND NOT ticket,compressed_stream,16.192578000045614,1.026469571952102,60
+Q8,(web AND development) AND (photography AND workshop) AND NOT (spam OR advertisement),compressed_stream,1.6817439997248584,0.26913469983768495,1
+Q9,(music OR food OR community) AND (volunteer AND organizer) AND NOT sale,compressed_stream,15.342729999974836,0.9698310369819025,419
+Q10,(networking AND meetup AND startup) AND (web OR development OR photography),compressed_stream,6.430246000018087,0.8240324803292103,0
+Q11,(hiking OR outdoor OR music) AND NOT (join OR please),compressed_stream,23.614262000264716,1.6175911761391935,10083
+Q12,(community AND meetup) AND (food AND drinks) AND NOT spam,compressed_stream,9.100649999963935,0.8247945194521513,0
+Q13,(photography OR music OR web) AND (development AND startup),compressed_stream,6.830502000157139,0.5144699532980181,31
+Q14,(community AND volunteer) AND (event OR meetup OR music),compressed_stream,40.49854799966852,2.489544173422726,421
+Q15,(photography AND networking) AND NOT (sale OR ticket),compressed_stream,1.6257060001953505,0.18131723401842376,0
+Q16,(web OR development OR photography OR music) AND NOT advertisement,compressed_stream,7.572980000259122,0.7944988348312418,21680

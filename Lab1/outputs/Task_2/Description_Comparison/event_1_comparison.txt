@@ -1,0 +1,11 @@
+Description清理前后对比
+============================================================
+
+原始Description (包含HTML标签):
+----------------------------------------
+A recipe exchange!<br />Ein Rezept Austausch-<br />Everyone eats, and they would like to enjoy one of your favorite recipes! Do you have a special recipe to share? Please come with a few copies to give to other people. It can be something German (Kartoffelsalat,Apfelstrudel) or your own specialty.<br /><br />The Meetup site originally scheduled this for Friday, but that was wrong - immer wieder am Donnerstag.<br />...
+
+清理后的Description:
+----------------------------------------
+A recipe exchange! Ein Rezept Austausch- Everyone eats, and they would like to enjoy one of your favorite recipes! Do you have a special recipe to share? Please come with a few copies to give to other people. It can be something German (Kartoffelsalat,Apfelstrudel) or your own specialty. The Meetup site originally scheduled this for Friday, but that was wrong - immer wieder am Donnerstag....
+

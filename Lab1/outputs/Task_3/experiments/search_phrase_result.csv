@@ -1,0 +1,5 @@
+name,phrase,mode,mean_ms,sd_ms,result_count
+phrase_web_dev,web development,intersection_no_pos,0.16598800029896665,0.022994929629301344,315
+phrase_web_dev,web development,adjacent_phrase,0.3875200001493795,0.03747247172146704,136
+phrase_community_meetup,community meetup,intersection_no_pos,2.434211999498075,0.33253196018054915,2590
+phrase_community_meetup,community meetup,adjacent_phrase,4.852168000434176,0.5082068952767731,45

@@ -1,0 +1,19 @@
+query,expr,strategy,mean_ms,sd_ms
+Q1,(community OR meetup) AND NOT (ticket OR sale),left,93.018330,7.750910
+Q1,(community OR meetup) AND NOT (ticket OR sale),shortfirst,94.552420,6.766602
+Q1,(community OR meetup) AND NOT (ticket OR sale),longfirst,61.114940,34.947633
+Q2,(photography AND workshop) AND (hiking AND outdoor),left,0.607403,0.062641
+Q2,(photography AND workshop) AND (hiking AND outdoor),shortfirst,0.592027,0.045363
+Q2,(photography AND workshop) AND (hiking AND outdoor),longfirst,0.615467,0.084372
+Q3,web AND development AND meetup AND NOT (please OR join),left,26.617623,0.723303
+Q3,web AND development AND meetup AND NOT (please OR join),shortfirst,26.156170,0.843657
+Q3,web AND development AND meetup AND NOT (please OR join),longfirst,26.371223,0.997945
+Q4,(volunteer OR organizer) AND (music AND meetup),left,13.777503,1.063178
+Q4,(volunteer OR organizer) AND (music AND meetup),shortfirst,13.329340,0.551654
+Q4,(volunteer OR organizer) AND (music AND meetup),longfirst,13.781813,1.228097
+Q5,(networking AND startup) AND (food OR drinks),left,2.031910,0.283983
+Q5,(networking AND startup) AND (food OR drinks),shortfirst,1.959523,0.174770
+Q5,(networking AND startup) AND (food OR drinks),longfirst,1.999850,0.155931
+Q6,(community AND event) AND NOT (spam OR advertisement),left,5.181130,0.556189
+Q6,(community AND event) AND NOT (spam OR advertisement),shortfirst,5.281923,0.479648
+Q6,(community AND event) AND NOT (spam OR advertisement),longfirst,5.371543,0.885979

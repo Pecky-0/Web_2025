@@ -1,0 +1,11 @@
+Description清理前后对比
+============================================================
+
+原始Description (包含HTML标签):
+----------------------------------------
+The Museum hosts a gathering the first friday of every month.  It includes fine art, live music, a cash bar featuring signature cocktails and a delicious tappas menu.  This month will also feature special performances and instruction by the MIT ballroom dance team.<br /><br />Let's join in the fun.....<br /><br />We will meet at  6:30 in the lobby.....<br /><br />Hope to see you all there!<br /><br /><a href="http://www.mfa.org/calendar/event.asp?eventkey=35879&amp;date=4/3/2009" target="_blank">http://www.mfa.org/ca...</a><br />...
+
+清理后的Description:
+----------------------------------------
+The Museum hosts a gathering the first friday of every month. It includes fine art, live music, a cash bar featuring signature cocktails and a delicious tappas menu. This month will also feature special performances and instruction by the MIT ballroom dance team. Let's join in the fun..... We will meet at 6:30 in the lobby..... Hope to see you all there! http://www.mfa.org/ca......
+

@@ -1,0 +1,49 @@
+event_id: 10000069
+
+event_name: First Thursday Kaffeeklatsch
+
+status: past
+
+description_raw: A recipe exchange!<br />Ein Rezept Austausch-<br />Everyone eats, and they would like to enjoy one of your favorite recipes! Do you have a special recipe to share? Please come with a few copies to give to other people. It can be something German (Kartoffelsalat,Apfelstrudel) or your own specialty.<br /><br />The Meetup site originally scheduled this for Friday, but that was wrong - immer wieder am Donnerstag.<br />
+
+description_clean: A recipe exchange! Ein Rezept Austausch- Everyone eats, and they would like to enjoy one of your favorite recipes! Do you have a special recipe to share? Please come with a few copies to give to other people. It can be something German (Kartoffelsalat,Apfelstrudel) or your own specialty. The Meetup site originally scheduled this for Friday, but that was wrong - immer wieder am Donnerstag.
+
+event_url: http://www.meetup.com/german-425/events/10000069/
+
+created_time: 2009-03-21 09:35:54
+
+updated_time: 2009-04-08 05:48:40
+
+event_time: 2009-04-03 07:15:00
+
+yes_rsvp_count: 3
+
+maybe_rsvp_count: 0
+
+waitlist_count: 0
+
+headcount: 12
+
+visibility: public
+
+utc_offset: -14400000
+
+rating_average: 5.0
+
+rating_count: 1
+
+event_hosts:
+  member_name: Dianne
+  member_id: 3815102
+
+group_info:
+  group_id: 438488
+  group_name: The West Hartford German Kaffeeklatsch
+  group_who: Deutsch speakers
+  urlname: german-425
+  join_mode: open
+  group_lat: 41.7599983215
+  group_lon: -72.6900024414
+
+document_text: First Thursday Kaffeeklatsch A recipe exchange! Ein Rezept Austausch- Everyone eats, and they would like to enjoy one of your favorite recipes! Do you have a special recipe to share? Please come with a few copies to give to other people. It can be something German (Kartoffelsalat,Apfelstrudel) or your own specialty. The Meetup site originally scheduled this for Friday, but that was wrong - immer wieder am Donnerstag. past The West Hartford German Kaffeeklatsch Deutsch speakers Dianne
+

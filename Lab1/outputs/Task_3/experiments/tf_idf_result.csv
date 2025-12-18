@@ -1,0 +1,101 @@
+query_key,query,rank,docid,score
+Q1,photography workshop,1,event_46561,0.6432300150087841
+Q1,photography workshop,2,event_88809,0.48819722572471813
+Q1,photography workshop,3,event_16528,0.4634783549165613
+Q1,photography workshop,4,event_14377,0.44340960960353193
+Q1,photography workshop,5,event_35456,0.4387880112161529
+Q1,photography workshop,6,event_45813,0.43500446857257374
+Q1,photography workshop,7,event_37836,0.43053469446892856
+Q1,photography workshop,8,event_36172,0.4208081758144686
+Q1,photography workshop,9,event_88811,0.4180181265531986
+Q1,photography workshop,10,event_36718,0.41282986958444273
+Q1,photography workshop,11,event_43288,0.4094786485776432
+Q1,photography workshop,12,event_69220,0.4022263890773068
+Q1,photography workshop,13,event_38312,0.3984986174069142
+Q1,photography workshop,14,event_88807,0.3917308198968995
+Q1,photography workshop,15,event_37277,0.39063255584435175
+Q1,photography workshop,16,event_67581,0.3898179854072701
+Q1,photography workshop,17,event_53557,0.3739178381114688
+Q1,photography workshop,18,event_40028,0.36207418931519414
+Q1,photography workshop,19,event_40389,0.3620627007706565
+Q1,photography workshop,20,event_61681,0.3397708040696835
+Q2,web development meetup,1,event_83733,0.5967841600784671
+Q2,web development meetup,2,event_83735,0.5967841600784671
+Q2,web development meetup,3,event_83737,0.5967841600784671
+Q2,web development meetup,4,event_83739,0.5967841600784671
+Q2,web development meetup,5,event_83741,0.5967841600784671
+Q2,web development meetup,6,event_83743,0.5967841600784671
+Q2,web development meetup,7,event_83745,0.5967841600784671
+Q2,web development meetup,8,event_83747,0.5967841600784671
+Q2,web development meetup,9,event_83749,0.5967841600784671
+Q2,web development meetup,10,event_83751,0.5967841600784671
+Q2,web development meetup,11,event_83753,0.5967841600784671
+Q2,web development meetup,12,event_83755,0.5967841600784671
+Q2,web development meetup,13,event_83759,0.5967841600784671
+Q2,web development meetup,14,event_83761,0.5967841600784671
+Q2,web development meetup,15,event_83763,0.5967841600784671
+Q2,web development meetup,16,event_83765,0.5967841600784671
+Q2,web development meetup,17,event_83731,0.5944032851739146
+Q2,web development meetup,18,event_8313,0.5879362235045352
+Q2,web development meetup,19,event_68288,0.5501536988608938
+Q2,web development meetup,20,event_10000,0.5369344600027005
+Q3,networking startup,1,event_65799,0.237997530572157
+Q3,networking startup,2,event_89936,0.19907968646028734
+Q3,networking startup,3,event_89938,0.19907968646028734
+Q3,networking startup,4,event_89940,0.19907968646028734
+Q3,networking startup,5,event_89932,0.19161102128409677
+Q3,networking startup,6,event_89934,0.19161102128409677
+Q3,networking startup,7,event_9348,0.17345770286120724
+Q3,networking startup,8,event_4852,0.16804120784334323
+Q3,networking startup,9,event_12574,0.16414066004302888
+Q3,networking startup,10,event_4771,0.16143550979233992
+Q3,networking startup,11,event_92242,0.158413791011815
+Q3,networking startup,12,event_92244,0.158413791011815
+Q3,networking startup,13,event_92246,0.158413791011815
+Q3,networking startup,14,event_92248,0.158413791011815
+Q3,networking startup,15,event_44083,0.1557388780785005
+Q3,networking startup,16,event_15508,0.15059465685907897
+Q3,networking startup,17,event_165,0.1455637921200632
+Q3,networking startup,18,event_16302,0.14416611351730893
+Q3,networking startup,19,event_91332,0.1363751637357092
+Q3,networking startup,20,event_56817,0.13451849673271704
+Q4,community volunteer organizer,1,event_51520,0.3183443599052715
+Q4,community volunteer organizer,2,event_39440,0.2820808322772206
+Q4,community volunteer organizer,3,event_3939,0.2778384596030626
+Q4,community volunteer organizer,4,event_64635,0.2725403534245319
+Q4,community volunteer organizer,5,event_49378,0.27156998772084284
+Q4,community volunteer organizer,6,event_405,0.2712977820682947
+Q4,community volunteer organizer,7,event_82546,0.26071979743728213
+Q4,community volunteer organizer,8,event_82548,0.26071979743728213
+Q4,community volunteer organizer,9,event_82550,0.26071979743728213
+Q4,community volunteer organizer,10,event_82552,0.26071979743728213
+Q4,community volunteer organizer,11,event_82554,0.26071979743728213
+Q4,community volunteer organizer,12,event_82556,0.26071979743728213
+Q4,community volunteer organizer,13,event_82558,0.26071979743728213
+Q4,community volunteer organizer,14,event_82560,0.26071979743728213
+Q4,community volunteer organizer,15,event_82562,0.26071979743728213
+Q4,community volunteer organizer,16,event_82564,0.26071979743728213
+Q4,community volunteer organizer,17,event_4694,0.2493494617933396
+Q4,community volunteer organizer,18,event_63874,0.23788322792594022
+Q4,community volunteer organizer,19,event_70746,0.23562006546316264
+Q4,community volunteer organizer,20,event_87829,0.2338810017658683
+Q5,food drinks event,1,event_50440,0.26750299991554116
+Q5,food drinks event,2,event_54275,0.26372519916133697
+Q5,food drinks event,3,event_54908,0.24410056620510556
+Q5,food drinks event,4,event_48069,0.24339941965197492
+Q5,food drinks event,5,event_60897,0.2296550819532042
+Q5,food drinks event,6,event_7920,0.22751081529925712
+Q5,food drinks event,7,event_15882,0.19994449226982428
+Q5,food drinks event,8,event_4098,0.1977305065873891
+Q5,food drinks event,9,event_31523,0.19672175450961327
+Q5,food drinks event,10,event_35300,0.1840937944842142
+Q5,food drinks event,11,event_71436,0.18392984910500332
+Q5,food drinks event,12,event_54833,0.1830815867083701
+Q5,food drinks event,13,event_43223,0.18303336431213005
+Q5,food drinks event,14,event_55005,0.18238287934828115
+Q5,food drinks event,15,event_16823,0.18163885165133833
+Q5,food drinks event,16,event_12561,0.1814108324564584
+Q5,food drinks event,17,event_72346,0.18088982226857578
+Q5,food drinks event,18,event_37830,0.17955570037986543
+Q5,food drinks event,19,event_33877,0.17707648491804062
+Q5,food drinks event,20,event_62894,0.1766471981553948

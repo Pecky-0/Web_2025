@@ -1,0 +1,49 @@
+event_id: 10000527
+
+event_name: MFA First Friday
+
+status: past
+
+description_raw: The Museum hosts a gathering the first friday of every month.  It includes fine art, live music, a cash bar featuring signature cocktails and a delicious tappas menu.  This month will also feature special performances and instruction by the MIT ballroom dance team.<br /><br />Let's join in the fun.....<br /><br />We will meet at  6:30 in the lobby.....<br /><br />Hope to see you all there!<br /><br /><a href="http://www.mfa.org/calendar/event.asp?eventkey=35879&amp;date=4/3/2009" target="_blank">http://www.mfa.org/ca...</a><br />
+
+description_clean: The Museum hosts a gathering the first friday of every month. It includes fine art, live music, a cash bar featuring signature cocktails and a delicious tappas menu. This month will also feature special performances and instruction by the MIT ballroom dance team. Let's join in the fun..... We will meet at 6:30 in the lobby..... Hope to see you all there! http://www.mfa.org/ca...
+
+event_url: http://www.meetup.com/Ma-NH-Singles-Club/events/10000527/
+
+created_time: 2009-03-21 10:56:26
+
+updated_time: 2010-08-07 05:37:44
+
+event_time: 2009-04-04 06:30:00
+
+yes_rsvp_count: 10
+
+maybe_rsvp_count: 3
+
+waitlist_count: 0
+
+headcount: 6
+
+visibility: public
+
+utc_offset: -14400000
+
+rating_average: 3.5
+
+rating_count: 4
+
+event_hosts:
+  member_name: Judie
+  member_id: 5431837
+
+group_info:
+  group_id: 1356935
+  group_name: Trailblazers
+  group_who: Friends
+  urlname: Ma-NH-Singles-Club
+  join_mode: open
+  group_lat: 43.1300010681
+  group_lon: -70.9800033569
+
+document_text: MFA First Friday The Museum hosts a gathering the first friday of every month. It includes fine art, live music, a cash bar featuring signature cocktails and a delicious tappas menu. This month will also feature special performances and instruction by the MIT ballroom dance team. Let's join in the fun..... We will meet at 6:30 in the lobby..... Hope to see you all there! http://www.mfa.org/ca... past Trailblazers Friends Judie
+

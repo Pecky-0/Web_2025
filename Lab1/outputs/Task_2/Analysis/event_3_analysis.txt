@@ -1,0 +1,135 @@
+文档分析报告
+============================================================
+
+原始文本:
+------------------------------
+Django Unchained Directed by Quentin Tarantino. Starring Jamie Foxx, Leonardo DiCaprio, Samuel L. Jackson, Kerry Washington, Don Johnson, Bruce Dern, Jonah Hill, etc. Synopsis: Two years before the Civil War, Django (Jamie Foxx), a slave, finds himself accompanying an unorthodox German bounty hunter named Dr. King Schultz (Christoph Waltz) on a mission to capture the vicious Brittle brothers. Their mission successful, Schultz frees Django, and together they hunt the South's most-wanted criminals. Their travels take them to the infamous plantation of shady Calvin Candie (Leonardo DiCaprio), where Django's long-lost wife (Kerry Washington) is still a slave. http://unchainedmovie.com Meet in front of inside entrance of Arizona Pizza (right across from Cinemark Entrance) at 8pm. Showtime is 8:20pm. Movie is 2hr 45min. If interested in carpooling, please post rideshare request at Ridebuzz.org/Meetup Dinner beforehand is posted as a separate Meetup. past Western MA Movie Meetup Movie Fans Jonathon Podolsky...
+
+分词结果 (共156个):
+------------------------------
+django, unchained, directed, by, quentin, tarantino, starring, jamie, foxx, leonardo, dicaprio, samuel, l, jackson, kerry, washington, don, johnson, bruce, dern, jonah, hill, etc, synopsis, two, years, before, the, civil, war, django, jamie, foxx, a, slave, finds, himself, accompanying, an, unorthodox, german, bounty, hunter, named, dr, king, schultz, christoph, waltz, on, a, mission, to, capture, the, vicious, brittle, brothers, their, mission, successful, schultz, frees, django, and, together, they, hunt, the, south, s, most, wanted, criminals, their, travels, take, them, to, the, infamous, plantation, of, shady, calvin, candie, leonardo, dicaprio, where, django, s, long, lost, wife, kerry, washington, is, still, a, slave, http, unchainedmovie, com, meet, in, front, of, inside, entrance, of, arizona, pizza, right, across, from, cinemark, entrance, at, 8pm, showtime, is, 8, 20pm, movie, is, 2hr, 45min, if, interested, in, carpooling, please, post, rideshare, request, at, ridebuzz, org, meetup, dinner, beforehand, is, posted, as, a, separate, meetup, past, western, ma, movie, meetup, movie, fans, jonathon, podolsky...
+
+规范化词项 (共122个):
+------------------------------
+ 1. django
+ 2. unchain
+ 3. direct
+ 4. quentin
+ 5. tarantino
+ 6. starr
+ 7. jamie
+ 8. foxx
+ 9. leonardo
+10. dicaprio
+11. samuel
+12. l
+13. jackson
+14. kerry
+15. washington
+16. don
+17. johnson
+18. bruce
+19. dern
+20. jonah
+21. hill
+22. etc
+23. synopsi
+24. two
+25. year
+26. before
+27. civil
+28. war
+29. django
+30. jamie
+31. foxx
+32. slave
+33. find
+34. himself
+35. accompany
+36. unorthodox
+37. german
+38. bounty
+39. hunter
+40. nam
+41. dr
+42. k
+43. schultz
+44. christoph
+45. waltz
+46. mission
+47. capture
+48. viciou
+49. brittle
+50. brother
+51. mission
+52. successful
+53. schultz
+54. free
+55. django
+56. together
+57. hunt
+58. south
+59. s
+60. most
+61. want
+62. criminal
+63. travel
+64. take
+65. infamou
+66. plantation
+67. shady
+68. calvin
+69. candie
+70. leonardo
+71. dicaprio
+72. where
+73. django
+74. s
+75. long
+76. lost
+77. wife
+78. kerry
+79. washington
+80. still
+81. slave
+82. http
+83. unchainedmovie
+84. com
+85. meet
+86. front
+87. inside
+88. entrance
+89. arizona
+90. pizza
+91. right
+92. acros
+93. from
+94. cinemark
+95. entrance
+96. showtime
+97. movie
+98. if
+99. interest
+100. carpool
+101. please
+102. post
+103. rideshare
+104. request
+105. ridebuzz
+106. org
+107. meetup
+108. dinner
+109. beforehand
+110. post
+111. as
+112. separate
+113. meetup
+114. past
+115. western
+116. ma
+117. movie
+118. meetup
+119. movie
+120. fan
+121. jonathon
+122. podolsky

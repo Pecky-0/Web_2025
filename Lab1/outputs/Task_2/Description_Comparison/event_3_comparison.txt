@@ -1,0 +1,11 @@
+Description清理前后对比
+============================================================
+
+原始Description (包含HTML标签):
+----------------------------------------
+<p>Directed by Quentin Tarantino. Starring Jamie Foxx, Leonardo DiCaprio, Samuel L. Jackson, Kerry Washington, Don Johnson, Bruce Dern, Jonah Hill, etc. Synopsis: Two years before the Civil War, Django (Jamie Foxx), a slave, finds himself accompanying an unorthodox German bounty hunter named Dr. King Schultz (Christoph Waltz) on a mission to capture the vicious Brittle brothers. Their mission successful, Schultz frees Django, and together they hunt the South's most-wanted criminals. Their travels take them to the infamous plantation of shady Calvin Candie (Leonardo DiCaprio), where Django's long-lost wife (Kerry Washington) is still a slave. <a href="http://unchainedmovie.com/">http://unchainedmovie.com</a> Meet in front of inside entrance of Arizona Pizza (right across from Cinemark Entrance) at 8pm. Showtime is 8:20pm. Movie is 2hr 45min. If interested in carpooling, please post rideshare request at <a href="http://www.ridebuzz.org/meetup">Ridebuzz.org/Meetup</a> Dinner beforehand is posted as a separate Meetup.</p>...
+
+清理后的Description:
+----------------------------------------
+Directed by Quentin Tarantino. Starring Jamie Foxx, Leonardo DiCaprio, Samuel L. Jackson, Kerry Washington, Don Johnson, Bruce Dern, Jonah Hill, etc. Synopsis: Two years before the Civil War, Django (Jamie Foxx), a slave, finds himself accompanying an unorthodox German bounty hunter named Dr. King Schultz (Christoph Waltz) on a mission to capture the vicious Brittle brothers. Their mission successful, Schultz frees Django, and together they hunt the South's most-wanted criminals. Their travels take them to the infamous plantation of shady Calvin Candie (Leonardo DiCaprio), where Django's long-lost wife (Kerry Washington) is still a slave. http://unchainedmovie.com Meet in front of inside entrance of Arizona Pizza (right across from Cinemark Entrance) at 8pm. Showtime is 8:20pm. Movie is 2hr 45min. If interested in carpooling, please post rideshare request at Ridebuzz.org/Meetup Dinner beforehand is posted as a separate Meetup....
+

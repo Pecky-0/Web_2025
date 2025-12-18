@@ -1,0 +1,69 @@
+文档分析报告
+============================================================
+
+原始文本:
+------------------------------
+First Thursday Kaffeeklatsch A recipe exchange! Ein Rezept Austausch- Everyone eats, and they would like to enjoy one of your favorite recipes! Do you have a special recipe to share? Please come with a few copies to give to other people. It can be something German (Kartoffelsalat,Apfelstrudel) or your own specialty. The Meetup site originally scheduled this for Friday, but that was wrong - immer wieder am Donnerstag. past The West Hartford German Kaffeeklatsch Deutsch speakers Dianne...
+
+分词结果 (共77个):
+------------------------------
+first, thursday, kaffeeklatsch, a, recipe, exchange, ein, rezept, austausch, everyone, eats, and, they, would, like, to, enjoy, one, of, your, favorite, recipes, do, you, have, a, special, recipe, to, share, please, come, with, a, few, copies, to, give, to, other, people, it, can, be, something, german, kartoffelsalat, apfelstrudel, or, your, own, specialty, the, meetup, site, originally, scheduled, this, for, friday, but, that, was, wrong, immer, wieder, am, donnerstag, past, the, west, hartford, german, kaffeeklatsch, deutsch, speakers, dianne...
+
+规范化词项 (共56个):
+------------------------------
+ 1. first
+ 2. thursday
+ 3. kaffeeklatsch
+ 4. recipe
+ 5. exchange
+ 6. ein
+ 7. rezept
+ 8. austausch
+ 9. everyone
+10. eat
+11. would
+12. like
+13. enjoy
+14. one
+15. your
+16. favorite
+17. recipe
+18. do
+19. you
+20. have
+21. special
+22. recipe
+23. share
+24. please
+25. come
+26. few
+27. copie
+28. give
+29. other
+30. people
+31. can
+32. someth
+33. german
+34. kartoffelsalat
+35. apfelstrudel
+36. your
+37. own
+38. specialty
+39. meetup
+40. site
+41. originally
+42. schedul
+43. friday
+44. wrong
+45. immer
+46. wieder
+47. am
+48. donnerstag
+49. past
+50. west
+51. hartford
+52. german
+53. kaffeeklatsch
+54. deutsch
+55. speaker
+56. dianne

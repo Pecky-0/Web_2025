@@ -1,0 +1,69 @@
+文档分析报告
+============================================================
+
+原始文本:
+------------------------------
+MFA First Friday The Museum hosts a gathering the first friday of every month. It includes fine art, live music, a cash bar featuring signature cocktails and a delicious tappas menu. This month will also feature special performances and instruction by the MIT ballroom dance team. Let's join in the fun..... We will meet at 6:30 in the lobby..... Hope to see you all there! http://www.mfa.org/ca... past Trailblazers Friends Judie...
+
+分词结果 (共76个):
+------------------------------
+mfa, first, friday, the, museum, hosts, a, gathering, the, first, friday, of, every, month, it, includes, fine, art, live, music, a, cash, bar, featuring, signature, cocktails, and, a, delicious, tappas, menu, this, month, will, also, feature, special, performances, and, instruction, by, the, mit, ballroom, dance, team, let, s, join, in, the, fun, we, will, meet, at, 6, 30, in, the, lobby, hope, to, see, you, all, there, http, www, mfa, org, ca, past, trailblazers, friends, judie...
+
+规范化词项 (共56个):
+------------------------------
+ 1. mfa
+ 2. first
+ 3. friday
+ 4. museum
+ 5. host
+ 6. gather
+ 7. first
+ 8. friday
+ 9. every
+10. month
+11. include
+12. fine
+13. art
+14. live
+15. music
+16. cash
+17. bar
+18. featur
+19. signature
+20. cocktail
+21. deliciou
+22. tappa
+23. menu
+24. month
+25. will
+26. also
+27. feature
+28. special
+29. performance
+30. instruction
+31. mit
+32. ballroom
+33. dance
+34. team
+35. let
+36. s
+37. join
+38. fun
+39. we
+40. will
+41. meet
+42. lobby
+43. hope
+44. see
+45. you
+46. all
+47. there
+48. http
+49. www
+50. mfa
+51. org
+52. ca
+53. past
+54. trailblazer
+55. friend
+56. judie
